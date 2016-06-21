@@ -1,5 +1,13 @@
 [
 {
-
+  "url":"xkcd",
+  "imageSelector":"div#comic > img",
+  "imageIndex":"0",
+  "nextSelector":"ul.comicNav > li > a[rel=next]",
+  "nextIndex":"0",
+  "prevSelector":"ul.comicNav > li > a[rel=prev]",
+  "prevIndex":"0",
+  "randomSelector":"http://c.xkcd.com/random/comic/",
+  "randomIndex":"-1",
 }
 ]
