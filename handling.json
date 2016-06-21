@@ -86,5 +86,16 @@
   "prevIndex":"2",
   "randomSelector":".arrowLink",
   "randomIndex":"1"
+},
+{
+  "url":"jimbenton",
+  "imageSelector":".photo-frame",
+  "imageIndex":"0",
+  "nextSelector":":contains(Previous Comic)",
+  "nextIndex":"0",
+  "prevSelector":":contains(Next Comic)",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1"
 }
 ]
