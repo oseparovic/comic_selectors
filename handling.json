@@ -20,5 +20,38 @@
   "prevIndex":"0",
   "randomSelector":"http://nedroid.com/?randomcomic=1",
   "randomIndex":"-1"
+},
+{
+  "url":"extrafabulouscomics",
+  "imageSelector":"div#comic img",
+  "imageIndex":"0",
+  "nextSelector":"a.comic-nav-next",
+  "nextIndex":"0",
+  "prevSelector":"a.comic-nav-previous",
+  "prevIndex":"0",
+  "randomSelector":"http://extrafabulouscomics.com/?random&nocache=1",
+  "randomIndex":"-1"
+},
+{
+  "url":"mrlovenstein",
+  "imageSelector":"img#comic_main_image",
+  "imageIndex":"0",
+  "nextSelector":"div#section_menu a",
+  "nextIndex":"10",
+  "prevSelector":"div#section_menu a",
+  "prevIndex":"8",
+  "randomSelector":"http://www.mrlovenstein.com/shuffle",
+  "randomIndex":"-1"
+},
+{
+  "url":"thingsinsquares",
+  "imageSelector":".entry-content img",
+  "imageIndex":"0",
+  "nextSelector":"[rel=next]",
+  "nextIndex":"0",
+  "prevSelector":"[rel=prev]",
+  "prevIndex":"0",
+  "randomSelector":"http://www.thingsinsquares.com/random",
+  "randomIndex":"-1"
 }
 ]
