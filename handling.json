@@ -53,5 +53,16 @@
   "prevIndex":"0",
   "randomSelector":"http://www.thingsinsquares.com/random",
   "randomIndex":"-1"
+},
+{
+  "url":"gunshowcomic",
+  "imageSelector":"img.strip",
+  "imageIndex":"0",
+  "nextSelector":".stripnav a",
+  "nextIndex":"3",
+  "prevSelector":".stripnav a",
+  "prevIndex":"1",
+  "randomSelector":"http://www.gunshowcomic.com/random",
+  "randomIndex":"-1"
 }
 ]
