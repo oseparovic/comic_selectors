@@ -1,6 +1,6 @@
 [
 {
-  "url":"http://xkcd.com/",
+  "url":"xkcd",
   "imageSelector":"div#comic > img",
   "imageIndex":"0",
   "nextSelector":"ul.comicNav > li > a[rel=next]",
@@ -8,6 +8,17 @@
   "prevSelector":"ul.comicNav > li > a[rel=prev]",
   "prevIndex":"0",
   "randomSelector":"http://c.xkcd.com/random/comic/",
+  "randomIndex":"-1"
+},
+{
+  "url":"nedroid",
+  "imageSelector":"div#comic > img",
+  "imageIndex":"0",
+  "nextSelector":"div.nav-next > a",
+  "nextIndex":"0",
+  "prevSelector":"div.nav-previous > a",
+  "prevIndex":"0",
+  "randomSelector":"http://nedroid.com/?randomcomic=1",
   "randomIndex":"-1"
 }
 ]
