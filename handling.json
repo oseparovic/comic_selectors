@@ -8,6 +8,6 @@
   "prevSelector":"ul.comicNav > li > a[rel=prev]",
   "prevIndex":"0",
   "randomSelector":"http://c.xkcd.com/random/comic/",
-  "randomIndex":"-1",
+  "randomIndex":"-1"
 }
 ]
