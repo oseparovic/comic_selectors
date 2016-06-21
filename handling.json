@@ -1,6 +1,6 @@
 [
 {
-  "url":"xkcd",
+  "url":"http://xkcd.com/",
   "imageSelector":"div#comic > img",
   "imageIndex":"0",
   "nextSelector":"ul.comicNav > li > a[rel=next]",
