@@ -64,5 +64,27 @@
   "prevIndex":"1",
   "randomSelector":"http://www.gunshowcomic.com/random",
   "randomIndex":"-1"
+},
+{
+  "url":"smbc-comics",
+  "imageSelector":"#comic",
+  "imageIndex":"0",
+  "nextSelector":"[rel=next]",
+  "nextIndex":"0",
+  "prevSelector":"[rel=prev]",
+  "prevIndex":"0",
+  "randomSelector":".random",
+  "randomIndex":"0"
+},
+{
+  "url":"redpanels",
+  "imageSelector":"#mainBlock img",
+  "imageIndex":"0",
+  "nextSelector":".arrowLink",
+  "nextIndex":"0",
+  "prevSelector":".arrowLink",
+  "prevIndex":"2",
+  "randomSelector":".arrowLink",
+  "randomIndex":"1"
 }
 ]
