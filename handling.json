@@ -121,7 +121,7 @@
   "randomIndex":"-1"
 },
 {
-  "url":"oglaf",
+  "url":"explosm",
   "imageSelector":"#featured-comic",
   "imageIndex":"0",
   "nextSelector":".next-comic a",
