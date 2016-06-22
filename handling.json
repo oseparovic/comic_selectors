@@ -113,7 +113,7 @@
   "url":"oglaf",
   "imageSelector":"#strip",
   "imageIndex":"0",
-  "nextSelector":"a:has(#nnx)",
+  "nextSelector":"a:has(#nx)",
   "nextIndex":"0",
   "prevSelector":"a:has(#pvs)",
   "prevIndex":"0",
