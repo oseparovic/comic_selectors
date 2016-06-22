@@ -122,7 +122,7 @@
 },
 {
   "url":"explosm",
-  "imageSelector":".small-12 .medium-12 .large-12 .columns > img",
+  "imageSelector":".small-12.medium-12.large-12.columns img",
   "imageIndex":"0",
   "nextSelector":".next-comic",
   "nextIndex":"0",
