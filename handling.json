@@ -119,5 +119,16 @@
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
+},
+{
+  "url":"oglaf",
+  "imageSelector":"#featured-comic",
+  "imageIndex":"0",
+  "nextSelector":".next-comic a",
+  "nextIndex":"0",
+  "prevSelector":".prevous-comic a",
+  "prevIndex":"0",
+  "randomSelector":".random-comic-link a",
+  "randomIndex":"0"
 }
 ]
