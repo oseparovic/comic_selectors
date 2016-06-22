@@ -117,7 +117,7 @@
   "nextIndex":"0",
   "prevSelector":"a:has(#pvs)",
   "prevIndex":"0",
-  "randomSelector":"http://www.channelate.com/?randomcomic&nocache=1",
+  "randomSelector":"",
   "randomIndex":"-1"
 }
 ]
