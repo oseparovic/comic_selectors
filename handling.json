@@ -124,11 +124,11 @@
   "url":"explosm",
   "imageSelector":"#featured-comic",
   "imageIndex":"0",
-  "nextSelector":".next-comic a",
+  "nextSelector":".next-comic",
   "nextIndex":"0",
-  "prevSelector":".prevous-comic a",
+  "prevSelector":".prevous-comic",
   "prevIndex":"0",
-  "randomSelector":".random-comic-link a",
+  "randomSelector":".random-comic-link",
   "randomIndex":"0"
 }
 ]
