@@ -33,5 +33,10 @@
 "url":"http://www.smbc-comics.com/",
 "title":"smbc-comics",
 "imageUrl":"http://www.smbc-comics.com/comics/20101225.gif"
+},
+{
+"url":"http://www.oglaf.com/",
+"title":"oglaf",
+"imageUrl":"http://media.oglaf.com/comic/hoops.jpg"
 }
 ]
