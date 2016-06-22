@@ -126,7 +126,7 @@
   "imageIndex":"0",
   "nextSelector":".next-comic",
   "nextIndex":"0",
-  "prevSelector":".prevous-comic",
+  "prevSelector":".previous-comic",
   "prevIndex":"0",
   "randomSelector":".random-comic-link",
   "randomIndex":"0"
