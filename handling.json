@@ -102,9 +102,9 @@
   "url":"channelate",
   "imageSelector":"#comic-1 img",
   "imageIndex":"0",
-  "nextSelector":".navi-prev",
+  "nextSelector":".navi-next",
   "nextIndex":"0",
-  "prevSelector":".navi-next",
+  "prevSelector":".navi-prev",
   "prevIndex":"0",
   "randomSelector":"http://www.channelate.com/?randomcomic&nocache=1",
   "randomIndex":"-1"
