@@ -141,5 +141,16 @@
   "prevIndex":"0",
   "randomSelector":".comic_navi_center a",
   "randomIndex":"0"
+},
+{
+  "url":"dorrismccomics",
+  "imageSelector":".comicImg",
+  "imageIndex":"0",
+  "nextSelector":".nav-table a",
+  "nextIndex":"3",
+  "prevSelector":".nav-table a",
+  "prevIndex":"1",
+  "randomSelector":".nav-table a",
+  "randomIndex":"2"
 }
 ]
