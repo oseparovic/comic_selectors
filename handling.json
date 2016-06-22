@@ -113,9 +113,9 @@
   "url":"oglaf",
   "imageSelector":"#strip",
   "imageIndex":"0",
-  "nextSelector":"#nav a",
+  "nextSelector":"a:has(#nnx)",
   "nextIndex":"3",
-  "prevSelector":"#nav a",
+  "prevSelector":"a:has(#pvs)",
   "prevIndex":"2",
   "randomSelector":"http://www.channelate.com/?randomcomic&nocache=1",
   "randomIndex":"-1"
