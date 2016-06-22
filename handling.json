@@ -130,5 +130,16 @@
   "prevIndex":"0",
   "randomSelector":".random-comic-link",
   "randomIndex":"0"
+},
+{
+  "url":"safelyendangered",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "nextSelector":".comic_navi_right a",
+  "nextIndex":"0",
+  "prevSelector":".comic_navi_left a",
+  "prevIndex":"0",
+  "randomSelector":".comic_navi_center a",
+  "randomIndex":"0"
 }
 ]
