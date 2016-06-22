@@ -114,9 +114,9 @@
   "imageSelector":"#strip",
   "imageIndex":"0",
   "nextSelector":"a:has(#nnx)",
-  "nextIndex":"3",
+  "nextIndex":"0",
   "prevSelector":"a:has(#pvs)",
-  "prevIndex":"2",
+  "prevIndex":"0",
   "randomSelector":"http://www.channelate.com/?randomcomic&nocache=1",
   "randomIndex":"-1"
 }
