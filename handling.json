@@ -97,5 +97,27 @@
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
+},
+{
+  "url":"channelate",
+  "imageSelector":"#comic-1 img",
+  "imageIndex":"0",
+  "nextSelector":".navi-prev",
+  "nextIndex":"0",
+  "prevSelector":".navi-next",
+  "prevIndex":"0",
+  "randomSelector":"http://www.channelate.com/?randomcomic&nocache=1",
+  "randomIndex":"-1"
+},
+{
+  "url":"oglaf",
+  "imageSelector":"#strip",
+  "imageIndex":"0",
+  "nextSelector":"#nav a",
+  "nextIndex":"3",
+  "prevSelector":"#nav a",
+  "prevIndex":"2",
+  "randomSelector":"http://www.channelate.com/?randomcomic&nocache=1",
+  "randomIndex":"-1"
 }
 ]
