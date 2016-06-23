@@ -152,5 +152,16 @@
   "prevIndex":"1",
   "randomSelector":".nav-table a",
   "randomIndex":"2"
+},
+{
+  "url":"zenpencils",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "nextSelector":".comic_navi_right a",
+  "nextIndex":"0",
+  "prevSelector":".comic_navi_left a",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"0"
 }
 ]
