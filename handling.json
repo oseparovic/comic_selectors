@@ -163,5 +163,16 @@
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
+},
+{
+  "url":"backcomic",
+  "imageSelector":".comic-page",
+  "imageIndex":"0",
+  "nextSelector":"#next_comic",
+  "nextIndex":"0",
+  "prevSelector":"#prev_comic",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1"
 }
 ]
