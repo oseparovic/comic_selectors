@@ -72,6 +72,7 @@
 },
 {
   "url":"http://www.smbc-comics.com/",
+  "imageUrl":"http://www.smbc-comics.com/comics/20131026.png",
   "imageSelector":"#comic",
   "imageIndex":"0",
   "nextSelector":"[rel=next]",
@@ -83,6 +84,7 @@
 },
 {
   "url":"http://redpanels.com/",
+  "imageUrl":"http://redpanels.com/comics/european-union-collapse-comic.png",
   "imageSelector":"#mainBlock img",
   "imageIndex":"0",
   "nextSelector":".arrowLink",
