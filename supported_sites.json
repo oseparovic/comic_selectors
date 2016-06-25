@@ -94,6 +94,7 @@
 },
 {
   "url":"http://jimbenton.com/",
+  "imageUrl":"http://jimbenton.com/page14/files/JimBentonComic-Halloween.jpg",
   "imageSelector":".photo-frame",
   "imageIndex":"0",
   "nextSelector":":contains(Previous Comic)",
@@ -177,7 +178,7 @@
 },
 {
   "url":"http://www.backcomic.com/",
-  "imageUrl":  http://www.backcomic.com/s/Back6_046[1]_3kppxg.png,
+  "imageUrl": "http://www.backcomic.com/s/Back6_046[1]_3kppxg.png",
   "imageSelector":".comic-page",
   "imageIndex":"0",
   "nextSelector":"#next_comic",
