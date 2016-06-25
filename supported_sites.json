@@ -105,6 +105,7 @@
 },
 {
   "url":"http://www.channelate.com/",
+  "imageUrl":"http://www.channelate.com/comics/2016-06-21-ghost.png",
   "imageSelector":"#comic-1 img",
   "imageIndex":"0",
   "nextSelector":".navi-next",
@@ -128,6 +129,7 @@
 },
 {
   "url":"http://explosm.net/",
+  "imageUrl":"http://files.explosm.net/comics/Kris/pulled.png",
   "imageSelector":".small-12.medium-12.large-12.columns img",
   "imageIndex":"0",
   "nextSelector":".next-comic",
@@ -151,6 +153,7 @@
 },
 {
   "url":"http://dorrismccomics.com/",
+  "imageUrl":"http://66.media.tumblr.com/7c5112b704e661b622bfd9e87a2b8052/tumblr_o541ixouYt1qh0oogo1_1280.png",
   "imageSelector":".comicImg",
   "imageIndex":"0",
   "nextSelector":".nav-table a",
@@ -162,6 +165,7 @@
 },
 {
   "url":"http://zenpencils.com/",
+  "imageUrl":"http://cdn.zenpencils.com/wp-content/uploads/181_stonecutter.jpg",
   "imageSelector":"#comic img",
   "imageIndex":"0",
   "nextSelector":".comic_navi_right a",
@@ -173,6 +177,7 @@
 },
 {
   "url":"http://www.backcomic.com/",
+  "imageUrl":  http://www.backcomic.com/s/Back6_046[1]_3kppxg.png,
   "imageSelector":".comic-page",
   "imageIndex":"0",
   "nextSelector":"#next_comic",
