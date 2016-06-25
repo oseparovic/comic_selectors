@@ -1,6 +1,7 @@
 [
 {
   "url":"http://xkcd.com/",
+  "imageUrl":"http://imgs.xkcd.com/comics/alternative_energy_revolution.jpg",
   "imageSelector":"div#comic > img",
   "imageIndex":"0",
   "nextSelector":"ul.comicNav > li > a[rel=next]",
@@ -12,6 +13,7 @@
 },
 {
   "url":"http://nedroid.com/",
+  "imageUrl":"http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg",
   "imageSelector":"div#comic > img",
   "imageIndex":"0",
   "nextSelector":"div.nav-next > a",
@@ -23,6 +25,7 @@
 },
 {
   "url":"http://extrafabulouscomics.com/",
+  "imageUrl":"http://extrafabulouscomics.com/wp-content/uploads/2016/06/IMG_20160611_142250.jpg",
   "imageSelector":"div#comic img",
   "imageIndex":"0",
   "nextSelector":"a.comic-nav-next",
@@ -34,6 +37,7 @@
 },
 {
   "url":"http://www.mrlovenstein.com/",
+  "imageUrl":"http://www.mrlovenstein.com/images/comics/752_buttered_up.png",
   "imageSelector":"img#comic_main_image",
   "imageIndex":"0",
   "nextSelector":"div#section_menu a",
@@ -45,6 +49,7 @@
 },
 {
   "url":"http://www.thingsinsquares.com/",
+  "imageUrl":"http://www.thingsinsquares.com/wp-content/uploads/old-woman-dream-comic.jpg",
   "imageSelector":".entry-content img",
   "imageIndex":"0",
   "nextSelector":"[rel=next]",
@@ -111,6 +116,7 @@
 },
 {
   "url":"http://oglaf.com/",
+  "imageUrl":"http://media.oglaf.com/comic/hoops.jpg",
   "imageSelector":"#strip",
   "imageIndex":"0",
   "nextSelector":"a:has(#nx)",
@@ -133,6 +139,7 @@
 },
 {
   "url":"http://www.safelyendangered.com/",
+  "imageUrl":"http://www.safelyendangered.com/wp-content/uploads/2016/06/art-of-seduction.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
   "nextSelector":".comic_navi_right a",
