@@ -307,5 +307,21 @@
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
+},
+{
+  "url":"http://www.powernapcomic.com/",
+  "imageUrl":"http://www.powernapcomic.com/2016/pnap20160405.jpg",
+  "imageSelector":"#cc-comicbody img",
+  "imageIndex":"0",
+  "nextSelector":"[cellpadding=5] td a",
+  "nextIndex":"4",
+  "prevSelector":"[cellpadding=5] td a",
+  "prevIndex":"3",
+  "randomSelector":"",
+  "randomIndex":"-1",
+  "firstSelector":"http://www.powernapcomic.com/d/20110617.html",
+  "firstIndex":"-1",
+  "lastSelector":"http://www.powernapcomic.com/",
+  "lastIndex":"-1"
 }
 ]
