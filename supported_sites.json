@@ -190,5 +190,42 @@
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
-}
+},
+{
+  "url":"http://abominable.cc/",
+  "imageUrl": "http://67.media.tumblr.com/3a2496c72b73f8a1dd3380d67e59653c/tumblr_o8vpyhwMK21qb05x1o1_r1_1280.jpg",
+  "imageSelector":".photo img",
+  "imageIndex":"0",
+  "nextSelector":".next_post a",
+  "nextIndex":"0",
+  "prevSelector":".prev_post a",
+  "prevIndex":"1",
+  "randomSelector":".perm_pagination-random a",
+  "randomIndex":"0"
+},
+{
+  "url":"http://chainsawsuit.com/",
+  "imageUrl": "http://chainsawsuit.com/wp-content/uploads/2016/06/20160627_grief.png",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "nextSelector":".[alt=next]",
+  "nextIndex":"0",
+  "prevSelector":"[rel=previous]",
+  "prevIndex":"0",
+  "randomSelector":"http://chainsawsuit.com/random/?random&nocache=1",
+  "randomIndex":"-1"
+},
+{
+  "url":"http://questionablecontent.net/",
+  "imageUrl": "http://www.questionablecontent.net/comics/3252.png",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "nextSelector":"#comicnav a",
+  "nextIndex":"2",
+  "prevSelector":"#comicnav a",
+  "prevIndex":"1",
+  "randomSelector":"#comicnav a",
+  "randomIndex":"4"
+},
+
 ]
