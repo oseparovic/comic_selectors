@@ -1,5 +1,17 @@
 [
 {
+  "url":"http://www.gunnerkrigg.com/",
+  "imageUrl":"http://www.gunnerkrigg.com/comics/00001689.jpg",
+  "imageSelector":".comic_image",
+  "imageIndex":"0",
+  "nextSelector":".right",
+  "nextIndex":"0",
+  "prevSelector":".left",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1"
+},
+{
   "url":"http://www.girlswithslingshots.com/",
   "imageUrl":"http://www.girlswithslingshots.com/comics/1467093416-GWS341.jpg",
   "imageSelector":"#cc-comicbody img",
