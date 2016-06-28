@@ -46,7 +46,11 @@
   "prevSelector":"ul.comicNav > li > a[rel=prev]",
   "prevIndex":"0",
   "randomSelector":"http://c.xkcd.com/random/comic/",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "firstSelector":"http://xkcd.com/1/",
+  "firstIndex":"-1",
+  "lastSelector":"http://xkcd.com/",
+  "lastIndex":"-1"
 },
 {
   "url":"http://nedroid.com/",
@@ -58,7 +62,12 @@
   "prevSelector":"div.nav-previous > a",
   "prevIndex":"0",
   "randomSelector":"http://nedroid.com/?randomcomic=1",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "firstSelector":".nav-first a",
+  "firstIndex":"-1",
+  "lastSelector":".nav-last a",
+  "lastIndex":"-1"
+
 },
 {
   "url":"http://extrafabulouscomics.com/",
