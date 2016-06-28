@@ -1,41 +1,4 @@
 [
-  
-{
-  "url":"http://www.harkavagrant.com/",
-  "imageUrl":"http://www.harkavagrant.com/history/jacksonsm.png",
-  "imageSelector":".rss-content img",
-  "imageIndex":"0",
-  "nextSelector":"[colspan=2] a",
-  "nextIndex":"2",
-  "prevSelector":"[colspan=2] a",
-  "prevIndex":"0",
-  "randomSelector":"[colspan=2] a",
-  "randomIndex":"1"
-},
-{
-  "url":"http://www.gunnerkrigg.com/",
-  "imageUrl":"http://www.gunnerkrigg.com/comics/00001689.jpg",
-  "imageSelector":".comic_image",
-  "imageIndex":"0",
-  "nextSelector":".nav .right",
-  "nextIndex":"0",
-  "prevSelector":".nav .left",
-  "prevIndex":"0",
-  "randomSelector":"",
-  "randomIndex":"-1"
-},
-{
-  "url":"http://www.girlswithslingshots.com/",
-  "imageUrl":"http://www.girlswithslingshots.com/comics/1467093416-GWS341.jpg",
-  "imageSelector":"#cc-comicbody img",
-  "imageIndex":"0",
-  "nextSelector":"[rel=next]",
-  "nextIndex":"0",
-  "prevSelector":"[rel=prev]",
-  "prevIndex":"0",
-  "randomSelector":"",
-  "randomIndex":"-1"
-},
 {
   "url":"http://xkcd.com/",
   "imageUrl":"http://imgs.xkcd.com/comics/alternative_energy_revolution.jpg",
@@ -305,6 +268,42 @@
   "nextSelector":"#topnext",
   "nextIndex":"0",
   "prevSelector":"#topprev",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1"
+},
+{
+  "url":"http://www.harkavagrant.com/",
+  "imageUrl":"http://www.harkavagrant.com/history/jacksonsm.png",
+  "imageSelector":".rss-content img",
+  "imageIndex":"0",
+  "nextSelector":"[colspan=2] a",
+  "nextIndex":"2",
+  "prevSelector":"[colspan=2] a",
+  "prevIndex":"0",
+  "randomSelector":"[colspan=2] a",
+  "randomIndex":"1"
+},
+{
+  "url":"http://www.gunnerkrigg.com/",
+  "imageUrl":"http://www.gunnerkrigg.com/comics/00001689.jpg",
+  "imageSelector":".comic_image",
+  "imageIndex":"0",
+  "nextSelector":".nav .right",
+  "nextIndex":"0",
+  "prevSelector":".nav .left",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1"
+},
+{
+  "url":"http://www.girlswithslingshots.com/",
+  "imageUrl":"http://www.girlswithslingshots.com/comics/1467093416-GWS341.jpg",
+  "imageSelector":"#cc-comicbody img",
+  "imageIndex":"0",
+  "nextSelector":"[rel=next]",
+  "nextIndex":"0",
+  "prevSelector":"[rel=prev]",
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
