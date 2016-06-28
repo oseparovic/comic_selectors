@@ -323,5 +323,21 @@
   "firstIndex":"-1",
   "lastSelector":"http://www.powernapcomic.com/",
   "lastIndex":"-1"
+},
+{
+  "url":"http://www.sheldoncomics.com/",
+  "imageUrl":"http://cdn.sheldoncomics.com/strips/main/160627_1466808115.png",
+  "imageSelector":"#strip",
+  "imageIndex":"0",
+  "nextSelector":"#sidenav-next",
+  "nextIndex":"0",
+  "prevSelector":"#sidenav-prev",
+  "prevIndex":"0",
+  "randomSelector":"http://www.sheldoncomics.com/archive/random",
+  "randomIndex":"-1",
+  "firstSelector":"#nav-first",
+  "firstIndex":"0",
+  "lastSelector":"#nav-last",
+  "lastIndex":"0"
 }
 ]
