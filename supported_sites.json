@@ -1,5 +1,17 @@
 [
 {
+  "url":"http://www.girlswithslingshots.com/",
+  "imageUrl":"http://www.girlswithslingshots.com/comics/1467093416-GWS341.jpg",
+  "imageSelector":"#cc-comicbody img",
+  "imageIndex":"0",
+  "nextSelector":"[rel=next]",
+  "nextIndex":"0",
+  "prevSelector":"[rel=prev]",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1"
+},
+{
   "url":"http://xkcd.com/",
   "imageUrl":"http://imgs.xkcd.com/comics/alternative_energy_revolution.jpg",
   "imageSelector":"div#comic > img",
