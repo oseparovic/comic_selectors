@@ -27,9 +27,9 @@
   "randomSelector":"http://nedroid.com/?randomcomic=1",
   "randomIndex":"-1",
   "firstSelector":".nav-first a",
-  "firstIndex":"-1",
+  "firstIndex":"0",
   "lastSelector":".nav-last a",
-  "lastIndex":"-1"
+  "lastIndex":"0"
 
 },
 {
