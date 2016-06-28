@@ -200,8 +200,8 @@
   "nextIndex":"0",
   "prevSelector":".prev_post a",
   "prevIndex":"1",
-  "randomSelector":".perm_pagination-random a",
-  "randomIndex":"0"
+  "randomSelector":"http://abominable.cc/random",
+  "randomIndex":"-1"
 },
 {
   "url":"http://chainsawsuit.com/",
@@ -226,6 +226,5 @@
   "prevIndex":"1",
   "randomSelector":"#comicnav a",
   "randomIndex":"4"
-},
-
+}
 ]
