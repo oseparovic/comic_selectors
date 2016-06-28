@@ -226,5 +226,17 @@
   "prevIndex":"1",
   "randomSelector":"#comicnav a",
   "randomIndex":"4"
+},
+{
+  "url":"http://www.wildelifecomic.com/",
+  "imageUrl": "http://www.questionablecontent.net/comics/3252.png",
+  "imageSelector":"#cc-comic",
+  "imageIndex":"0",
+  "nextSelector":"[rel=next]",
+  "nextIndex":"0",
+  "prevSelector":"[rel=prev]",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1"
 }
 ]
