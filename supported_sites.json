@@ -208,7 +208,7 @@
   "imageUrl": "http://chainsawsuit.com/wp-content/uploads/2016/06/20160627_grief.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
-  "nextSelector":".[alt=next]",
+  "nextSelector":"[alt=next]",
   "nextIndex":"0",
   "prevSelector":"[rel=previous]",
   "prevIndex":"0",
