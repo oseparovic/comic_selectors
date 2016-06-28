@@ -238,5 +238,17 @@
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
+},
+{
+  "url":"http://www.dieselsweeties.com/",
+  "imageUrl": "http://www.dieselsweeties.com/strips666/ds82.png,
+  "imageSelector":".xomic",
+  "imageIndex":"0",
+  "nextSelector":"#prevbundler a",
+  "nextIndex":"2",
+  "prevSelector":"prevbundler a",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1"
 }
 ]
