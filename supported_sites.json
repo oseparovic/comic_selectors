@@ -4,9 +4,9 @@
   "imageUrl":"http://www.gunnerkrigg.com/comics/00001689.jpg",
   "imageSelector":".comic_image",
   "imageIndex":"0",
-  "nextSelector":"#nav .right",
+  "nextSelector":".nav .right",
   "nextIndex":"0",
-  "prevSelector":"#nav .left",
+  "prevSelector":".nav .left",
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
