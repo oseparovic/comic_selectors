@@ -241,12 +241,24 @@
 },
 {
   "url":"http://www.dieselsweeties.com/",
-  "imageUrl": "http://www.dieselsweeties.com/strips666/ds82.png,
+  "imageUrl": "http://www.dieselsweeties.com/strips666/ds82.png",
   "imageSelector":".xomic",
   "imageIndex":"0",
   "nextSelector":"#prevbundler a",
   "nextIndex":"2",
   "prevSelector":"prevbundler a",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1"
+},
+{
+  "url":"http://www.girlgeniusonline.com/comic.php",
+  "imageUrl": "http://www.girlgeniusonline.com/ggmain/strips/ggmain20160624.jpg",
+  "imageSelector":"#comicbody img",
+  "imageIndex":"0",
+  "nextSelector":"#topnext",
+  "nextIndex":"2",
+  "prevSelector":"#topprev",
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
