@@ -339,5 +339,15 @@
   "firstIndex":"0",
   "lastSelector":"#nav-last",
   "lastIndex":"0"
+},
+{
+  "url":"http://www.asofterworld.com/",
+  "imageUrl":"http://www.asofterworld.com/clean/end.jpg",
+  "imageSelector":"#strip",
+  "imageIndex":"0",
+  "nextSelector":"#next a",
+  "nextIndex":"0",
+  "prevSelector":"#previous a",
+  "prevIndex":"0"
 }
 ]
