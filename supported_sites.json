@@ -1,4 +1,17 @@
 [
+  
+{
+  "url":"http://www.harkavagrant.com/",
+  "imageUrl":"http://www.harkavagrant.com/history/jacksonsm.png",
+  "imageSelector":".rss-content img",
+  "imageIndex":"0",
+  "nextSelector":"[colspan=2] a",
+  "nextIndex":"2",
+  "prevSelector":"[colspan=2] a",
+  "prevIndex":"0",
+  "randomSelector":"[colspan=2] a",
+  "randomIndex":"1"
+},
 {
   "url":"http://www.gunnerkrigg.com/",
   "imageUrl":"http://www.gunnerkrigg.com/comics/00001689.jpg",
