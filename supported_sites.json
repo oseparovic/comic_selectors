@@ -246,7 +246,7 @@
   "imageIndex":"0",
   "nextSelector":"#prevbundler a",
   "nextIndex":"2",
-  "prevSelector":"prevbundler a",
+  "prevSelector":"#prevbundler a",
   "prevIndex":"0",
   "randomSelector":"",
   "randomIndex":"-1"
@@ -257,7 +257,7 @@
   "imageSelector":"#comicbody img",
   "imageIndex":"0",
   "nextSelector":"#topnext",
-  "nextIndex":"2",
+  "nextIndex":"0",
   "prevSelector":"#topprev",
   "prevIndex":"0",
   "randomSelector":"",
