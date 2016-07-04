@@ -57,8 +57,12 @@
   "nextIndex":"10",
   "prevSelector":"div#section_menu a",
   "prevIndex":"8",
-  "randomSelector":"http://www.mrlovenstein.com/shuffle",
-  "randomIndex":"-1"
+  "randomSelector":"div#section_menu a",
+  "randomIndex":"9",
+  "firstSelector":"div#section_menu a",
+  "firstIndex":"7",
+  "lastSelector":"div#section_menu a",
+  "lastIndex":"11"
 },
 {
   "url":"http://www.thingsinsquares.com/",
