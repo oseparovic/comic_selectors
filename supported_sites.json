@@ -440,5 +440,21 @@
   "nextIndex":"0",
   "lastSelector":".last",
   "lastIndex":"0"
+},
+{
+  "url":"http://drmcninja.com/",
+  "imageUrl":"http://drmcninja.com/comics/2016-06-29-33p68.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"",
+  "firstIndex":"-1",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":"",
+  "lastIndex":"-1"
 }
 ]
