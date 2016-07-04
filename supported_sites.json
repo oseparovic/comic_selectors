@@ -215,7 +215,7 @@
   "imageIndex":"0",
   "nextSelector":".next_post a",
   "nextIndex":"0",
-  "lastSelector":".prev_post a",
+  "lastSelector":".next_post a",
   "lastIndex":"1",
   "firstSelector":".prev_post a",
   "firstIndex":"0",
