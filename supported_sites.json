@@ -20,17 +20,16 @@
   "imageUrl":"http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg",
   "imageSelector":"div#comic > img",
   "imageIndex":"0",
-  "nextSelector":"div.nav-next > a",
-  "nextIndex":"0",
+  "firstSelector":".nav-first a",
+  "firstIndex":"0",
   "prevSelector":"div.nav-previous > a",
   "prevIndex":"0",
   "randomSelector":"http://nedroid.com/?randomcomic=1",
   "randomIndex":"-1",
-  "firstSelector":".nav-first a",
-  "firstIndex":"0",
+  "nextSelector":"div.nav-next > a",
+  "nextIndex":"0",
   "lastSelector":".nav-last a",
   "lastIndex":"0"
-
 },
 {
   "url":"http://extrafabulouscomics.com/",
