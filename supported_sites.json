@@ -215,10 +215,14 @@
   "imageIndex":"0",
   "nextSelector":".next_post a",
   "nextIndex":"0",
+  "lastSelector":".prev_post a",
+  "lastIndex":"1",
+  "firstSelector":".prev_post a",
+  "firstIndex":"0",
   "prevSelector":".prev_post a",
   "prevIndex":"1",
-  "randomSelector":"http://abominable.cc/random",
-  "randomIndex":"-1"
+  "randomSelector":"perm_pagination-random",
+  "randomIndex":"0"
 },
 {
   "url":"http://chainsawsuit.com/",
