@@ -393,5 +393,21 @@
   "nextIndex":"0",
   "lastSelector":".navi-last",
   "lastIndex":"0"
+},
+{
+  "url":"http://electricbunnycomics.com/",
+  "imageUrl":"http://i.imgur.com/0xVjeJg.jpg",
+  "imageSelector":".comic_container img",
+  "imageIndex":"0",
+  "firstSelector":".comic-navbar a",
+  "firstIndex":"0",
+  "prevSelector":".comic-navbar a",
+  "prevIndex":"1",
+  "randomSelector":"",
+  "randomIndex":"-1",
+  "nextSelector":".comic-navbar a",
+  "nextIndex":"2",
+  "lastSelector":".comic-navbar a",
+  "lastIndex":"3"
 }
 ]
