@@ -353,6 +353,8 @@
 {
   "url":"http://wandpcomic.com/",
   "imageUrl":"http://wandpcomic.com/wp-content/uploads/2016/07/WandP39site.png",
+  "imageSelector":"#comic",
+  "imageIndex":"0",
   "firstSelector":".comic-nav-first",
   "firstIndex":"0",
   "prevSelector":".comic-nav-previous",
@@ -367,6 +369,8 @@
 {
   "url":"http://thedevilspanties.com/",
   "imageUrl":"http://cdn.thedevilspanties.com/comics/20081024.jpg",
+  "imageSelector":"#comic",
+  "imageIndex":"0",
   "firstSelector":".navi-first",
   "firstIndex":"0",
   "prevSelector":".navi-prev",
