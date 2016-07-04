@@ -409,5 +409,21 @@
   "nextIndex":"2",
   "lastSelector":".comic_navbar a",
   "lastIndex":"3"
+},
+{
+  "url":"http://ubertoolcomic.com/",
+  "imageUrl":"http://ubertoolcomic.com/wp-content/uploads/2016/07/ubertool209tumblr.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "randomSelector":"comic-nav-random",
+  "randomIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":".comic-nav-last",
+  "lastIndex":"0"
 }
 ]
