@@ -397,7 +397,7 @@
 {
   "url":"http://electricbunnycomics.com/",
   "imageUrl":"http://i.imgur.com/0xVjeJg.jpg",
-  "imageSelector":".comic_container img:last-of-type",
+  "imageSelector":".comic_container > img",
   "imageIndex":"0",
   "firstSelector":".comic_navbar a",
   "firstIndex":"0",
