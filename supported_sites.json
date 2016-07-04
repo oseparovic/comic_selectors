@@ -418,11 +418,27 @@
   "firstIndex":"0",
   "prevSelector":".comic-nav-previous",
   "prevIndex":"0",
-  "randomSelector":"comic-nav-random",
+  "randomSelector":".comic-nav-random",
   "randomIndex":"0",
   "nextSelector":".comic-nav-next",
   "nextIndex":"0",
   "lastSelector":".comic-nav-last",
+  "lastIndex":"0"
+},
+{
+  "url":"http://www.lovenotfound.com/",
+  "imageUrl":"http://www.lovenotfound.com/comics/1467617803-2016-07-04_ch10_p29.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
   "lastIndex":"0"
 }
 ]
