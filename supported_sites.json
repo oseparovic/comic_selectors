@@ -428,7 +428,7 @@
 {
   "url":"http://www.lovenotfound.com/",
   "imageUrl":"http://www.lovenotfound.com/comics/1467617803-2016-07-04_ch10_p29.jpg",
-  "imageSelector":"#comic img",
+  "imageSelector":"#cc-comic",
   "imageIndex":"0",
   "firstSelector":".first",
   "firstIndex":"0",
