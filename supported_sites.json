@@ -42,7 +42,11 @@
   "prevSelector":"a.comic-nav-previous",
   "prevIndex":"0",
   "randomSelector":"http://extrafabulouscomics.com/?random&nocache=1",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "firstSelector":".navi-first",
+  "firstIndex":"0",
+  "lastSelector":".navi-last",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.mrlovenstein.com/",
