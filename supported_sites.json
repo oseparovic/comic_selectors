@@ -525,5 +525,21 @@
   "nextIndex":"0",
   "lastSelector":".last",
   "lastIndex":"0"
+},
+{
+  "url":"http://yehudamoon.com/",
+  "imageUrl":"http://yehudamoon.com/wp-content/uploads/2016/06/2015-07-03.gif",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "randomSelector":"comic-nav-random",
+  "randomIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":".comic-nav-last",
+  "lastIndex":"0"
 }
 ]
