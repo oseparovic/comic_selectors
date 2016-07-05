@@ -494,4 +494,36 @@
   "lastSelector":".last-webcomic-link",
   "lastIndex":"0"
 },
+{
+  "url":"http://terra-comic.com/",
+  "imageUrl":"http://terra-comic.com/wordpress/wp-content/uploads/2016/06/2016-06-22-Page-3495.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "randomSelector":"comic-nav-random",
+  "randomIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":".comic-nav-last",
+  "lastIndex":"0"
+},
+{
+  "url":"http://blindsprings.com/",
+  "imageUrl":"http://terra-comic.com/wordpress/wp-content/uploads/2016/06/2016-06-22-Page-3495.jpg",
+  "imageSelector":"#cc-comicbody img",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0"
+}
 ]
