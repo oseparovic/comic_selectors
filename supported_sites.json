@@ -104,12 +104,17 @@
   "imageUrl":"http://redpanels.com/comics/european-union-collapse-comic.png",
   "imageSelector":"#mainBlock img",
   "imageIndex":"0",
-  "nextSelector":".arrowLink",
-  "nextIndex":"0",
+  "firstSelector":".arrowLink",
+  "firstIndex":"0",
   "prevSelector":".arrowLink",
-  "prevIndex":"2",
-  "randomSelector":".arrowLink",
-  "randomIndex":"1"
+  "prevIndex":"1",
+  "randomSelector":"",
+  "randomIndex":"-1",
+  "nextSelector":".arrowLink",
+  "nextIndex":"2",
+  "lastSelector":".arrowLink",
+  "lastIndex":"3"
+
 },
 {
   "url":"http://jimbenton.com/",
