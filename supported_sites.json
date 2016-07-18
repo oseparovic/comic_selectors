@@ -2,7 +2,7 @@
 {
   "url":"http://xkcd.com/",
   "imageUrl":"http://imgs.xkcd.com/comics/alternative_energy_revolution.jpg",
-  "imageSelector":"div#comic > img",
+  "imageSelector":"#comic img",
   "imageIndex":"0",
   "nextSelector":"ul.comicNav > li > a[rel=next]",
   "nextIndex":"0",
