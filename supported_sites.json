@@ -580,5 +580,17 @@
   "nextIndex":"0",
   "lastSelector":"http://www.qwantz.com/index.php",
   "lastIndex":"-1"
-}
+},
+{
+  "url":"http://achewood.com/",
+  "imageUrl":"http://achewood.com/comic.php?date=07152016",
+  "imageSelector":".comic",
+  "imageIndex":"0",
+  "prevSelector":"#comic_navigation .left a",
+  "prevIndex":"0",
+  "nextSelector":"#comic_navigation .right a",
+  "nextIndex":"0",
+  "lastSelector":"http://achewood.com/",
+  "lastIndex":"-1"
+},
 ]
