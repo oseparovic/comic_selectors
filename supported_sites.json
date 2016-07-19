@@ -94,14 +94,18 @@
 {
   "url":"http://www.smbc-comics.com/",
   "imageUrl":"http://www.smbc-comics.com/comics/20131026.png",
-  "imageSelector":"#comic",
+  "imageSelector":"#cc-comic",
   "imageIndex":"0",
-  "nextSelector":"[rel=next]",
-  "nextIndex":"0",
-  "prevSelector":"[rel=prev]",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
   "prevIndex":"0",
   "randomSelector":".random",
-  "randomIndex":"0"
+  "randomIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0"
 },
 {
   "url":"http://redpanels.com/",
