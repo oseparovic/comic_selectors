@@ -114,7 +114,6 @@
   "nextIndex":"2",
   "lastSelector":".arrowLink",
   "lastIndex":"3"
-
 },
 {
   "url":"http://jimbenton.com/",
@@ -145,12 +144,16 @@
   "imageUrl":"http://media.oglaf.com/comic/hoops.jpg",
   "imageSelector":"#strip",
   "imageIndex":"0",
-  "nextSelector":"a:has(#nx)",
-  "nextIndex":"0",
+  "firstSelector":"a:has(#st)",
+  "firstIndex":"0",
   "prevSelector":"a:has(#pvs)",
   "prevIndex":"0",
   "randomSelector":"",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "nextSelector":"a:has(#nx)",
+  "nextIndex":"0",
+  "lastSelector":"http://oglaf.com/",
+  "lastIndex":"-1"
 },
 {
   "url":"http://explosm.net/",
