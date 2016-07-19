@@ -317,12 +317,16 @@
   "imageUrl":"http://www.girlswithslingshots.com/comics/1467093416-GWS341.jpg",
   "imageSelector":"#cc-comicbody img",
   "imageIndex":"0",
-  "nextSelector":"[rel=next]",
-  "nextIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
   "prevSelector":"[rel=prev]",
   "prevIndex":"0",
   "randomSelector":"",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "nextSelector":"[rel=next]",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.powernapcomic.com/",
