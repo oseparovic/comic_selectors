@@ -636,9 +636,9 @@
   "prevIndex":"0",
   "randomSelector":".navi-random",
   "randomIndex":"0",
-  "nextSelector":".navi-next",
+  "nextSelector":"a:has([alt=next])",
   "nextIndex":"0",
-  "lastSelector":".navi-last",
+  "lastSelector":"a:has([alt=last])",
   "lastIndex":"0"
 }
 ]
