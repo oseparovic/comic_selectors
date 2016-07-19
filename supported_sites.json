@@ -292,12 +292,16 @@
   "imageUrl": "http://www.girlgeniusonline.com/ggmain/strips/ggmain20160624.jpg",
   "imageSelector":"#comicbody img",
   "imageIndex":"0",
-  "nextSelector":"#topnext",
-  "nextIndex":"0",
+  "firstSelector":"#topfirst",
+  "firstIndex":"0",
   "prevSelector":"#topprev",
   "prevIndex":"0",
   "randomSelector":"",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "nextSelector":"#topnext",
+  "nextIndex":"0",
+  "lastSelector":"#toplast",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.harkavagrant.com/",
