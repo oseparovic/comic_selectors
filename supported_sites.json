@@ -593,4 +593,20 @@
   "lastSelector":"http://achewood.com/",
   "lastIndex":"-1"
 },
+{
+  "url":"http://www.amazingsuperpowers.com/",
+  "imageUrl":"http://www.amazingsuperpowers.com/comics/2015-08-12-Robbery.png",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".navi-first",
+  "firstIndex":"0",
+  "prevSelector":".navi-prev",
+  "prevIndex":"0",
+  "randomSelector":".navi-random",
+  "randomIndex":"0",
+  "nextSelector":".navi-next",
+  "nextIndex":"0",
+  "lastSelector":".navi-last",
+  "lastIndex":"0"
+}
 ]
