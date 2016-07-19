@@ -614,15 +614,15 @@
   "imageUrl":"http://broodhollow.chainsawsuit.com/wp-content/uploads/2016/07/bh_book3_page010_iris.jpg",
   "imageSelector":"#comic img",
   "imageIndex":"0",
-  "firstSelector":".comic-nav-first",
+  "firstSelector":".navi-first",
   "firstIndex":"0",
-  "prevSelector":".comic-nav-previous",
+  "prevSelector":".navi-prev",
   "prevIndex":"0",
-  "randomSelector":"comic-nav-random",
+  "randomSelector":".navi-random",
   "randomIndex":"0",
-  "nextSelector":".comic-nav-next",
+  "nextSelector":".navi-next",
   "nextIndex":"0",
-  "lastSelector":".comic-nav-last",
+  "lastSelector":".navi-last",
   "lastIndex":"0"
 }
 ]
