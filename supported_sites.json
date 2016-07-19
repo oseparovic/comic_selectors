@@ -624,5 +624,21 @@
   "nextIndex":"0",
   "lastSelector":".navi-last",
   "lastIndex":"0"
+},
+{
+  "url":"http://dawnoftimecomics.com/",
+  "imageUrl":"http://dawnoftimecomics.com/Strips/DawnOfTime305.png",
+  "imageSelector":"#strip img",
+  "imageIndex":"0",
+  "firstSelector":"a:has([alt=first])",
+  "firstIndex":"0",
+  "prevSelector":"a:has([alt=prev])",
+  "prevIndex":"0",
+  "randomSelector":".navi-random",
+  "randomIndex":"0",
+  "nextSelector":".navi-next",
+  "nextIndex":"0",
+  "lastSelector":".navi-last",
+  "lastIndex":"0"
 }
 ]
