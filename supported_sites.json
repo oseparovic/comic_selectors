@@ -560,5 +560,17 @@
   "nextIndex":"0",
   "lastSelector":".comic-nav-last",
   "lastIndex":"0"
+},
+{
+  "url":"http://www.qwantz.com/index.php",
+  "imageUrl":"http://www.qwantz.com/comics/comic2-3005.png",
+  "imageSelector":".comic",
+  "imageIndex":"0",
+  "prevSelector":"a:has(#leftarrow)",
+  "prevIndex":"0",
+  "nextSelector":"a:has(#rightarrow)",
+  "nextIndex":"0",
+  "lastSelector":"http://www.qwantz.com/index.php",
+  "lastIndex":"-1"
 }
 ]
