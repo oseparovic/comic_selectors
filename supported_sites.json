@@ -640,5 +640,21 @@
   "nextIndex":"0",
   "lastSelector":"a:has([alt=last])",
   "lastIndex":"0"
+},
+{
+  "url":"http://www.missingmondaycomic.com/",
+  "imageUrl":"http://dawnoftimecomics.com/Strips/DawnOfTime305.png",
+  "imageSelector":"#cc-comic",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "randomSelector":".random",
+  "randomIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0"
 }
 ]
