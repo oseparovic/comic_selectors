@@ -140,12 +140,16 @@
   "imageUrl":"http://www.channelate.com/comics/2016-06-21-ghost.png",
   "imageSelector":"#comic-1 img",
   "imageIndex":"0",
-  "nextSelector":".navi-next",
-  "nextIndex":"0",
+  "firstSelector":".navi-first",
+  "firstIndex":"0",
   "prevSelector":".navi-prev",
   "prevIndex":"0",
   "randomSelector":"http://www.channelate.com/?randomcomic&nocache=1",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "nextSelector":".navi-next",
+  "nextIndex":"0",
+  "lastSelector":".navi-last",
+  "lastIndex":"0"
 },
 {
   "url":"http://oglaf.com/",
