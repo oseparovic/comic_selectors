@@ -68,12 +68,16 @@
   "imageUrl":"http://www.thingsinsquares.com/wp-content/uploads/old-woman-dream-comic.jpg",
   "imageSelector":".entry-content img",
   "imageIndex":"0",
-  "nextSelector":"[rel=next]",
-  "nextIndex":"0",
-  "prevSelector":"[rel=prev]",
+  "firstSelector":"a:has(.arrow-first)",
+  "firstIndex":"0",
+  "prevSelector":"a:has(.arrow-left)",
   "prevIndex":"0",
   "randomSelector":"http://www.thingsinsquares.com/random",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "nextSelector":"a:has(.arrow-right)",
+  "nextIndex":"0",
+  "lastSelector":"a:has(.arrow-latest)",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.gunshowcomic.com/",
