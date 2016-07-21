@@ -172,12 +172,16 @@
   "imageUrl":"http://files.explosm.net/comics/Kris/pulled.png",
   "imageSelector":".small-12.medium-12.large-12.columns img",
   "imageIndex":"0",
-  "nextSelector":".next-comic",
-  "nextIndex":"0",
+  "firstSelector":"http://explosm.net/comics/oldest",
+  "firstIndex":"-1",
   "prevSelector":".previous-comic",
   "prevIndex":"0",
   "randomSelector":".random-comic-link",
-  "randomIndex":"0"
+  "randomIndex":"0",
+  "nextSelector":".next-comic",
+  "nextIndex":"0",
+  "lastSelector":"http://explosm.net/",
+  "lastIndex":"-1"
 },
 {
   "url":"http://www.safelyendangered.com/",
