@@ -192,18 +192,6 @@
   "randomIndex":"0"
 },
 {
-  "url":"http://dorrismccomics.com/",
-  "imageUrl":"http://66.media.tumblr.com/7c5112b704e661b622bfd9e87a2b8052/tumblr_o541ixouYt1qh0oogo1_1280.png",
-  "imageSelector":".comicImg",
-  "imageIndex":"0",
-  "nextSelector":".nav-table a",
-  "nextIndex":"3",
-  "prevSelector":".nav-table a",
-  "prevIndex":"1",
-  "randomSelector":".nav-table a",
-  "randomIndex":"2"
-},
-{
   "url":"http://zenpencils.com/",
   "imageUrl":"http://cdn.zenpencils.com/wp-content/uploads/181_stonecutter.jpg",
   "imageSelector":"#comic img",
