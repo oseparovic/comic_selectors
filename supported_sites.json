@@ -165,7 +165,8 @@
   "nextSelector":"a:has(#nx)",
   "nextIndex":"0",
   "lastSelector":"http://oglaf.com/",
-  "lastIndex":"-1"
+  "lastIndex":"-1",
+  "nsfw":true
 },
 {
   "url":"http://explosm.net/",
