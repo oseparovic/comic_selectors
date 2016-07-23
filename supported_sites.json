@@ -1,5 +1,22 @@
 [
   {
+  "url":"http://rockcocks.slipshine.net/",
+  "imageUrl":"http://rockcocks.slipshine.net/comics/1469155742-193.png",
+  "imageSelector":"#cc-comic",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0",
+  "nsfw":true
+  },
+  {
   "url":"http://www.totempole666.com/",
   "imageUrl":"http://www.totempole666.com/wp-content/uploads/2016/04/cummoner9_006-2.jpg",
   "imageSelector":"#comic img",
