@@ -21,7 +21,7 @@
   "imageUrl":"http://www.totempole666.com/wp-content/uploads/2016/04/cummoner9_006-2.jpg",
   "imageSelector":"#comic img",
   "imageIndex":"0",
-  "firstSelector":".comic-nav-first",
+  "firstSelector":".nav-first",
   "firstIndex":"0",
   "prevSelector":".comic-nav-previous",
   "prevIndex":"0",
@@ -29,7 +29,7 @@
   "randomIndex":"-1",
   "nextSelector":".comic-nav-next",
   "nextIndex":"0",
-  "lastSelector":".comic-nav-last",
+  "lastSelector":".nav-last",
   "lastIndex":"0",
   "nsfw":true
   },
