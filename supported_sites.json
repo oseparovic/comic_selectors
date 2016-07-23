@@ -1,5 +1,22 @@
 [
   {
+  "url":"http://www.purpureanoxa.com/comic_en.php",
+  "imageUrl":"http://www.purpureanoxa.com/comic_en/c04_p26.jpg",
+  "imageSelector":"#comic_page img",
+  "imageIndex":"0",
+  "firstSelector":"#navigazione a",
+  "firstIndex":"1",
+  "prevSelector":"#navigazione a",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1",
+  "nextSelector":"#navigazione a",
+  "nextIndex":"3",
+  "lastSelector":"#navigazione a",
+  "lastIndex":"4",
+  "nsfw":true
+  },
+  {
   "url":"http://tnbtu.com/",
   "imageUrl":"http://tnbtu.com/wp-content/uploads/TNBTU0917.png",
   "imageSelector":"#comic img",
