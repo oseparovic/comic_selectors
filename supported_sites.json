@@ -8,7 +8,7 @@
   "firstIndex":"0",
   "prevSelector":".comic-nav-previous",
   "prevIndex":"0",
-  "randomSelector":"http://extrafabulouscomics.com/?random&nocache=1",
+  "randomSelector":"",
   "randomIndex":"-1",
   "nextSelector":".comic-nav-next",
   "nextIndex":"0",
