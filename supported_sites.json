@@ -1,5 +1,22 @@
 [
   {
+  "url":"http://datachasers.thecomicseries.com/",
+  "imageUrl":"http://datachasers.webcomic.ws/images/comics/114/e5f1f7676327ec3defec60b43b515ee0364069885.jpg",
+  "imageSelector":"#comicimagewrap",
+  "imageIndex":"0",
+  "firstSelector":"[rel=start]",
+  "firstIndex":"0",
+  "prevSelector":"[rel=prev]",
+  "prevIndex":"0",
+  "randomSelector":"",
+  "randomIndex":"-1",
+  "nextSelector":"[rel=next]",
+  "nextIndex":"0",
+  "lastSelector":"[rel=index]",
+  "lastIndex":"0",
+  "nsfw":true
+  },
+  {
   "url":"http://rockcocks.slipshine.net/",
   "imageUrl":"http://rockcocks.slipshine.net/comics/1469155742-193.png",
   "imageSelector":"#cc-comic",
