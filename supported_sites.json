@@ -1,5 +1,22 @@
 [
   {
+  "url":"http://thisis.delvecomic.com/NewWP/",
+  "imageUrl":"http://datachasers.webcomic.ws/images/comics/114/e5f1f7676327ec3defec60b43b515ee0364069885.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "randomSelector":".comic-nav-random",
+  "randomIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":".comic-nav-last",
+  "lastIndex":"0",
+  "nsfw":true
+  },
+  {
   "url":"http://datachasers.thecomicseries.com/",
   "imageUrl":"http://datachasers.webcomic.ws/images/comics/114/e5f1f7676327ec3defec60b43b515ee0364069885.jpg",
   "imageSelector":"#comicimagewrap",
