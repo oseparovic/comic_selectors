@@ -1,22 +1,5 @@
 [
   {
-  "url":"http://bythebook.smackjeeves.com/",
-  "imageUrl":"http://img2.smackjeeves.com/images/uploaded/comics/4/c/4ce7619d3wbU5.jpg",
-  "imageSelector":"#comic_area_inner img",
-  "imageIndex":"0",
-  "firstSelector":"[alt=<< First]",
-  "firstIndex":"0",
-  "prevSelector":"[alt=< Previous]",
-  "prevIndex":"0",
-  "randomSelector":"",
-  "randomIndex":"-1",
-  "nextSelector":"[alt=Next >]",
-  "nextIndex":"0",
-  "lastSelector":"[alt=Most Recent >>]",
-  "lastIndex":"0",
-  "nsfw":true
-  },
-  {
   "url":"http://thisis.delvecomic.com/NewWP/",
   "imageUrl":"http://i2.wp.com/thisis.delvecomic.com/NewWP/wp-content/uploads/2014/02/episode146.jpg?fit=970%2C1413",
   "imageSelector":"#comic img",
