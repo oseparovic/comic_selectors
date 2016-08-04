@@ -237,12 +237,16 @@
   "imageUrl": "http://www.questionablecontent.net/comics/3252.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
-  "nextSelector":"#comicnav a",
-  "nextIndex":"2",
+  "firstSelector":"#comicnav a",
+  "firstIndex":"0",
   "prevSelector":"#comicnav a",
   "prevIndex":"1",
   "randomSelector":"#comicnav a",
-  "randomIndex":"4"
+  "randomIndex":"4",
+  "nextSelector":"#comicnav a",
+  "nextIndex":"2",
+  "lastSelector":"#comicnav a"
+  "lastIndex":"3"
 },
 {
   "url":"http://www.wildelifecomic.com/",
