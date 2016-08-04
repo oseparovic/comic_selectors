@@ -305,12 +305,16 @@
   "imageUrl":"http://www.gunnerkrigg.com/comics/00001689.jpg",
   "imageSelector":".comic_image",
   "imageIndex":"0",
-  "nextSelector":".nav .right",
-  "nextIndex":"0",
+  "firstSelector":".center.nav a",
+  "firstIndex":"0",
   "prevSelector":".nav .left",
   "prevIndex":"0",
   "randomSelector":"",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "nextSelector":".nav .right",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gunnerkrigg.com/",
+  "lastIndex":"-1"
 },
 {
   "url":"http://www.girlswithslingshots.com/",
