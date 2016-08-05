@@ -173,12 +173,16 @@
   "imageUrl":"http://www.safelyendangered.com/wp-content/uploads/2016/06/art-of-seduction.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
-  "nextSelector":".comic_navi_right a",
-  "nextIndex":"0",
+  "firstSelector":"http://www.safelyendangered.com/comic/ignored/",
+  "firstIndex":"-1",
   "prevSelector":".comic_navi_left a",
   "prevIndex":"0",
   "randomSelector":".comic_navi_center a",
-  "randomIndex":"0"
+  "randomIndex":"0",
+  "nextSelector":".comic_navi_right a",
+  "nextIndex":"0",
+  "lastSelector":"http://www.safelyendangered.com/",
+  "lastIndex":"-1"
 },
 {
   "url":"http://zenpencils.com/",
