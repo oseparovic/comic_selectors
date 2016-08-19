@@ -1,6 +1,7 @@
 [
 {
   "url":"http://xkcd.com/",
+  "title":"xkcd",
   "imageUrl":"http://imgs.xkcd.com/comics/alternative_energy_revolution.jpg",
   "imageSelector":"#comic img",
   "imageIndex":"0",
@@ -17,6 +18,7 @@
 },
 {
   "url":"http://nedroid.com/",
+  "title":"Nedroid",
   "imageUrl":"http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg",
   "imageSelector":"div#comic > img",
   "imageIndex":"0",
