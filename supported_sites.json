@@ -1,4 +1,17 @@
 [
+  {
+  "url":"http://sarahcandersen.com/",
+  "title":"sarahcandersen",
+  "imageUrl":"http://66.media.tumblr.com/5cbe0ac203f0f7a0e2eb7726cd6aedef/tumblr_ocdhg0jSQW1qiuiebo1_540.jpg",
+  "imageSelector":"#comics img",
+  "imageIndex":"0",
+  "nextSelector":"a:has([src=http://static.tumblr.com/bea68fe09b4b770aa921f8144275d259/ieflxlr/f5Bnrvbus/tumblr_static_asegsxhj7kwg8ogoo8gcw0w8c.jpg])",
+  "nextIndex":"0",
+  "prevSelector":"a:has([src=http://static.tumblr.com/13529ae8b2256683b426650327080772/ieflxlr/lRLnrvbus/tumblr_static_9u0dlx5spm8scs88cwwgsogsk.jpg]"),
+  "prevIndex":"0",
+  "lastSelector":"http://xkcd.com/1/",
+  "lastIndex":"-1"
+},
 {
   "url":"http://xkcd.com/",
   "title":"xkcd",
