@@ -5,9 +5,9 @@
   "imageUrl":"http://66.media.tumblr.com/5cbe0ac203f0f7a0e2eb7726cd6aedef/tumblr_ocdhg0jSQW1qiuiebo1_540.jpg",
   "imageSelector":".comics img",
   "imageIndex":"0",
-  "nextSelector":".pagination a",
+  "nextSelector":"#pagination a",
   "nextIndex":"1",
-  "prevSelector":".pagination a",
+  "prevSelector":"#pagination a",
   "prevIndex":"0",
   "lastSelector":"http://sarahcandersen.com/",
   "lastIndex":"-1"
