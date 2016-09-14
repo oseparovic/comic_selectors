@@ -1,5 +1,4 @@
-# comic_selectors
-
+#Adding comics
 Supported sites use the following format:
 
 ```
@@ -24,3 +23,7 @@ Supported sites use the following format:
 If you want to supply a direct link to the address use index "-1".
 
 Documentation about how to write the selectors can be found here https://jsoup.org/apidocs/org/jsoup/select/Selector.html
+
+#Need help?
+
+If you have questions on how to do this, or have questions/suggestions about the app in general, feel free to contact me via twitter https://twitter.com/lolhistoryapp or email me pageflip@printandpixel.ca
