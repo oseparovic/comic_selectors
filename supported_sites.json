@@ -1,5 +1,20 @@
 [
-  {
+{
+  "url":"http://isitcanon.com/",
+  "title":"isitcanon",
+  "imageUrl":"http://isitcanon.com/strips/2016-09-01.jpg",
+  "imageSelector":"p > img",
+  "imageIndex":"0",
+  "nextSelector":"a[title=First Comic]",
+  "nextIndex":"0",
+  "prevSelector":"a[title=Previous Comic]",
+  "prevIndex":"0",
+  "firstSelector":"a[title=Next Comic]",
+  "firstIndex":"0",
+  "lastSelector":"a[title=Latest Comic]",
+  "lastIndex":"0"
+},
+{
   "url":"http://sarahcandersen.com/",
   "title":"sarahcandersen",
   "imageUrl":"http://66.media.tumblr.com/5cbe0ac203f0f7a0e2eb7726cd6aedef/tumblr_ocdhg0jSQW1qiuiebo1_540.jpg",
