@@ -11,8 +11,8 @@
   "prevIndex":"0",
   "nextSelector":"a:has([src='next.gif'])",
   "nextIndex":"0",
-  "lastSelector":"a:has([src='newest.gif'])",
-  "lastIndex":"0"
+  "lastSelector":"http://www.vgcats.com/comics/?",
+  "lastIndex":"-1"
 },
 {
   "url":"http://www.cad-comic.com/sillies",
