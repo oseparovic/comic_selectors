@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://www.cad-comic.com/cad",
+  "title":"Ctrl+Alt+Del",
+  "imageUrl":"http://cdn2.cad-comic.com/comics/cad-20160919-f12fe.png",
+  "imageSelector":"#content > img",
+  "imageIndex":"0",
+  "firstSelector":".nav-first",
+  "firstIndex":"0",
+  "prevSelector":".nav-back",
+  "prevIndex":"0",
+  "randomSelector":".nav-random",
+  "randomIndex":"0",
+  "nextSelector":".nav-next",
+  "nextIndex":"0",
+  "lastSelector":".nav-last",
+  "lastIndex":"0"
+},
+{
   "url":"http://rockpapercynic.com/",
   "title":"rockpapercynic",
   "imageUrl":"http://rockpapercynic.com/strips/2016-09-07.gif",
