@@ -1,5 +1,22 @@
 [
 {
+  "url":"https://www.penny-arcade.com/comic",
+  "title":"VG Cats",
+  "imageUrl":"https://photos.smugmug.com/Comics/Pa-comics/n-xmQS5/i-GHwRVsq/0/2100x20000/i-GHwRVsq-2100x20000.jpg",
+  "imageSelector":"img[width=692]",
+  "imageIndex":"0",
+  "firstSelector":".btnFirst",
+  "firstIndex":"0",
+  "prevSelector":".btnPrev",
+  "prevIndex":"0",
+  "randomSelector":".btnRand",
+  "randomIndex":"0",
+  "nextSelector":".btnNext",
+  "nextIndex":"0",
+  "lastSelector":".btnLatest",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.vgcats.com/comics/",
   "title":"VG Cats",
   "imageUrl":"http://www.vgcats.com/comics/images/160919.gif",
