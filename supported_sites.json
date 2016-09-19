@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://www.vgcats.com/comics/",
+  "title":"VG Cats",
+  "imageUrl":"http://www.vgcats.com/comics/images/160919.gif",
+  "imageSelector":"img[width=692]",
+  "imageIndex":"0",
+  "firstSelector":"a:has([src='first.gif'])",
+  "firstIndex":"0",
+  "prevSelector":"a:has([src='back.gif'])",
+  "prevIndex":"0",
+  "nextSelector":"a:has([src='next.gif'])",
+  "nextIndex":"0",
+  "lastSelector":"a:has([src='newest.gif'])",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.cad-comic.com/sillies",
   "title":"Ctrl+Alt+Del sillies",
   "imageUrl":"http://cdn2.cad-comic.com/comics/sillies-20160609-422d4.gif",
