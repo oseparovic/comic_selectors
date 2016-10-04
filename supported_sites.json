@@ -10,7 +10,9 @@
   "randomSelector":".random a",
   "randomIndex":"0",
   "nextSelector":".next a",
-  "nextIndex":"0"
+  "nextIndex":"0",
+  "lastSelector":"http://poorlydrawnlines.com/comic/",
+  "lastIndex":"-1"
 },
 {
   "url":"http://existentialcomics.com/",
