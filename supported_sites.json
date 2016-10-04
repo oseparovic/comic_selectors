@@ -1,5 +1,18 @@
 [
 {
+  "url":"http://poorlydrawnlines.com/",
+  "title":"Poorly Drawn Lines",
+  "imageUrl":"http://poorlydrawnlines.com/wp-content/uploads/2016/10/beautiful-mountain.png",
+  "imageSelector":"#post img",
+  "imageIndex":"0",
+  "prevSelector":".previous",
+  "prevIndex":"0",
+  "randomSelector":".random",
+  "randomIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0"
+},
+{
   "url":"http://existentialcomics.com/",
   "title":"Existential Comics",
   "imageUrl":"http://static.existentialcomics.com/comics/newtonAndLeibniz.jpg",
