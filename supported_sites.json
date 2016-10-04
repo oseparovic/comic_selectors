@@ -3,13 +3,13 @@
   "url":"http://poorlydrawnlines.com/comic/",
   "title":"Poorly Drawn Lines",
   "imageUrl":"http://poorlydrawnlines.com/wp-content/uploads/2016/10/beautiful-mountain.png",
-  "imageSelector":"#post img",
+  "imageSelector":".post img",
   "imageIndex":"0",
-  "prevSelector":".previous",
+  "prevSelector":".previous a",
   "prevIndex":"0",
-  "randomSelector":".random",
+  "randomSelector":".random a",
   "randomIndex":"0",
-  "nextSelector":".next",
+  "nextSelector":".next a",
   "nextIndex":"0"
 },
 {
