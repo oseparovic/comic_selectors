@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://donthitsave.com/",
+  "title":"Don't Hit Save",
+  "imageUrl":"http://donthitsave.com/comics/dhs_2016-10-04_one-click.png",
+  "imageSelector":"td:has([colspan=2]) img",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".previous",
+  "prevIndex":"0",
+  "randomSelector":".random",
+  "randomIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".latest",
+  "lastIndex":"-1"
+},
+{
   "url":"http://poorlydrawnlines.com/comic/",
   "title":"Poorly Drawn Lines",
   "imageUrl":"http://poorlydrawnlines.com/wp-content/uploads/2016/10/beautiful-mountain.png",
