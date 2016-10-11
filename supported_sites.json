@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://www.optipess.com/",
+  "title":"Optipess",
+  "imageUrl":"http://www.optipess.com/comics/2016-10-10-756_Life-Goal-GPS2.png",
+  "imageSelector":".comicpane",
+  "imageIndex":"0",
+  "firstSelector":".navi-first",
+  "firstIndex":"0",
+  "prevSelector":".navi-prev",
+  "prevIndex":"0",
+  "randomSelector":"http://www.optipess.com/?randomcomic&nocache=1",
+  "randomIndex":"-1",
+  "nextSelector":".navi-next",
+  "nextIndex":"0",
+  "lastSelector":".navi-last",
+  "lastIndex":"0"
+},
+{
   "url":"http://donthitsave.com/",
   "title":"Don't Hit Save",
   "imageUrl":"http://donthitsave.com/comics/dhs_2016-10-04_one-click.png",
