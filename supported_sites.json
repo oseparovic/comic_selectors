@@ -3,7 +3,7 @@
   "url":"http://www.loadingartist.com/latest",
   "title":"Loading Artist",
   "imageUrl":"http://www.loadingartist.com/wp-content/uploads/2016/10/2016-10-06-time-and-plays.jpg",
-  "imageSelector":".col > .comic img",
+  "imageSelector":".col .comic img[src]",
   "imageIndex":"0",
   "firstSelector":".first",
   "firstIndex":"0",
