@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://www.loadingartist.com/latest",
+  "title":"Loading Artist",
+  "imageUrl":"http://www.loadingartist.com/wp-content/uploads/2016/10/2016-10-06-time-and-plays.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "randomSelector":".ir-random",
+  "randomIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.optipess.com/",
   "title":"Optipess",
   "imageUrl":"http://www.optipess.com/comics/2016-10-10-756_Life-Goal-GPS2.png",
