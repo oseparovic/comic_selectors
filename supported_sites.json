@@ -3,7 +3,7 @@
   "url":"http://www.optipess.com/",
   "title":"Optipess",
   "imageUrl":"http://www.optipess.com/comics/2016-10-10-756_Life-Goal-GPS2.png",
-  "imageSelector":".comicpane",
+  "imageSelector":".comicpane img",
   "imageIndex":"0",
   "firstSelector":".navi-first",
   "firstIndex":"0",
