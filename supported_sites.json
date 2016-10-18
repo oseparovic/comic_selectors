@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://www.megacynics.com/",
+  "title":"MegaCynics",
+  "imageUrl":"http://www.megacynics.com/img/comics/000880.jpg",
+  "imageSelector":".mc-body-comic-stage-wrap img",
+  "imageIndex":"0",
+  "firstSelector":".nav_rewind",
+  "firstIndex":"0",
+  "prevSelector":".nav_previous",
+  "prevIndex":"0",
+  "randomSelector":"#random",
+  "randomIndex":"0",
+  "nextSelector":".nav_next",
+  "nextIndex":"0",
+  "lastSelector":".nav_fastforward",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.whompcomic.com/",
   "title":"Whomp!",
   "imageUrl":"http://www.whompcomic.com/comics/1476663726-2016-10-17-Then-And-Chow.jpg",
