@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://woodenplankstudios.com/",
+  "title":"Wooden Plank Studios",
+  "imageUrl":"http://woodenplankstudios.com/wp-content/uploads/2016/10/comic_2016_lewdcage.jpg",
+  "imageSelector":".webcomic-image img",
+  "imageIndex":"0",
+  "firstSelector":".first-webcomic-link",
+  "firstIndex":"0",
+  "prevSelector":".previous-webcomic-link",
+  "prevIndex":"0",
+  "randomSelector":".random-webcomic-link",
+  "randomIndex":"0",
+  "nextSelector":".next-webcomic-link",
+  "nextIndex":"0",
+  "lastSelector":".last-webcomic-link",
+  "lastIndex":"0"
+},
+{
   "url":"http://maximumble.thebookofbiff.com/",
   "title":"Maximumble",
   "imageUrl":"http://maximumble.thebookofbiff.com/comics/2016-10-18-1427.png",
