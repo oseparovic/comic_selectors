@@ -349,6 +349,7 @@
 
 {
   "url":"http://explosm.net/",
+  "title":"Cyanide & Happiness",
   "imageUrl":"http://files.explosm.net/comics/Kris/pulled.png",
   "imageSelector":".small-12.medium-12.large-12.columns img",
   "imageIndex":"0",
