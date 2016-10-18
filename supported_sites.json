@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://www.whompcomic.com/",
+  "title":"Whomp!",
+  "imageUrl":"http://www.whompcomic.com/comics/1476663726-2016-10-17-Then-And-Chow.jpg",
+  "imageSelector":"#cc-comic",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "randomSelector":"#random",
+  "randomIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.loadingartist.com/latest",
   "title":"Loading Artist",
   "imageUrl":"http://www.loadingartist.com/wp-content/uploads/2016/10/2016-10-06-time-and-plays.jpg",
