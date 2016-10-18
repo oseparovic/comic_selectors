@@ -9,7 +9,7 @@
   "firstIndex":"0",
   "prevSelector":".navi-prev",
   "prevIndex":"0",
-  "randomSelector":"navi-random",
+  "randomSelector":".navi-random",
   "randomIndex":"0",
   "nextSelector":".navi-next",
   "nextIndex":"0",
