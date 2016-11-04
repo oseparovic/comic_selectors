@@ -52,13 +52,13 @@
   "imageUrl":"https://s3.amazonaws.com/AZComics/comic482.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
-  "firstSelector":"a[alt=First Comic]",
+  "firstSelector":"[alt=First Comic]",
   "firstIndex":"0",
-  "prevSelector":"a[alt=Previous Comic]",
+  "prevSelector":"[alt=Previous Comic]",
   "prevIndex":"0",
-  "nextSelector":"a[alt=Next Comic]",
+  "nextSelector":"[alt=Next Comic]",
   "nextIndex":"0",
-  "lastSelector":"a[alt=Last Comic]",
+  "lastSelector":"[alt=Last Comic]",
   "lastIndex":"0"
 },
 {
