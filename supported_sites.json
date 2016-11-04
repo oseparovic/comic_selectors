@@ -5,7 +5,7 @@
   "imageUrl":"http://assets.amuniversal.com/da9cd40076b40134dbdf005056a9545d",
   "imageSelector":".strip",
   "imageIndex":"0",
-  "prevSelector":".prev",
+  "prevSelector":"a:contains(Prev)",
   "prevIndex":"0",
   "nextSelector":"a:contains(Next)",
   "nextIndex":"0",
