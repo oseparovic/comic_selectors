@@ -573,15 +573,18 @@
 },
 {
   "url":"http://chainsawsuit.com/",
+  "title":"chainsawsuit",
   "imageUrl": "http://chainsawsuit.com/wp-content/uploads/2016/06/20160627_grief.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
-  "nextSelector":"[alt=next]",
+  "nextSelector":"a:has([alt=next])",
   "nextIndex":"0",
-  "prevSelector":"[rel=previous]",
+  "prevSelector":"a:has([alt=previous])",
   "prevIndex":"0",
   "randomSelector":"http://chainsawsuit.com/random/?random&nocache=1",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "lastSelector":"http://chainsawsuit.com/",
+  "lastIndex":"-1"
 },
 {
   "url":"http://questionablecontent.net/",
