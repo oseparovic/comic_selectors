@@ -9,7 +9,7 @@
   "firstIndex":"0",
   "prevSelector":"a:has(img[src=http://phdcomics.com/comics/images/prev_button.gif])",
   "prevIndex":"0",
-  "nextSelector":"a:has(img[src=http://phdcomics.com/comics/images/next_button.gif])"",
+  "nextSelector":"a:has(img[src=http://phdcomics.com/comics/images/next_button.gif])",
   "nextIndex":"0",
   "lastSelector":"http://phdcomics.com/",
   "lastIndex":"-1"
