@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://phdcomics.com/",
+  "title":"PHD comics",
+  "imageUrl":"http://www.phdcomics.com/comics/archive/phd112816s.gif",
+  "imageSelector":"#comic2",
+  "imageIndex":"0",
+  "firstSelector":"a:has(img[src=http://phdcomics.com/comics/images/first_button.gif])",
+  "firstIndex":"0",
+  "prevSelector":"a:has(img[src=http://phdcomics.com/comics/images/prev_button.gif])",
+  "prevIndex":"0",
+  "nextSelector":"a:has(img[src=http://phdcomics.com/comics/images/next_button.gif])"",
+  "nextIndex":"0",
+  "lastSelector":"http://phdcomics.com/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://doonesbury.washingtonpost.com/",
   "title":"Doonesbury",
   "imageUrl":"http://assets.amuniversal.com/da9cd40076b40134dbdf005056a9545d",
