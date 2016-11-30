@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://www.schlockmercenary.com/",
+  "title":"Schlock Mercenary",
+  "imageUrl":"http://www.schlockmercenary.com/strip/6015/0/schlock20161130.jpg?v=1480015709692",
+  "imageSelector":".strip-image-wrapper img",
+  "imageIndex":"0",
+  "firstSelector":"a:has(img[src=../images/first.gif])",
+  "firstIndex":"0",
+  "prevSelector":".previous-strip",
+  "prevIndex":"0",
+  "nextSelector":".next-strip,
+  "nextIndex":"0",
+  "lastSelector":"http://www.schlockmercenary.com/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://sinfest.net/",
   "title":"Sinfest",
   "imageUrl":"http://sinfest.net/btphp/comics/2016-11-30.gif",
