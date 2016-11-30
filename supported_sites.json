@@ -1,20 +1,5 @@
 [
 {
-  "url":"http://qwantz.com/",
-  "title":"Dinosaur Comics",
-  "imageUrl":"http://www.qwantz.com/comics/comic2-3072.png",
-  "imageSelector":".comic",
-  "imageIndex":"0",
-  "firstSelector":"http://www.qwantz.com/index.php?comic=1",
-  "firstIndex":"-1",
-  "prevSelector":"a:has(#leftarrow)",
-  "prevIndex":"0",
-  "nextSelector":"a:has(#rightarrow)",
-  "nextIndex":"0",
-  "lastSelector":"http://qwantz.com/",
-  "lastIndex":"-1"
-},
-{
   "url":"http://pvponline.com/comic",
   "title":"PVP Online",
   "imageUrl":"http://s3-us-west-2.amazonaws.com/pvponlinenew/img/comic/2016/11/pvp20161130.jpg",
