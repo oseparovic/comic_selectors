@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://pvponline.com/comic",
+  "title":"PVP Online",
+  "imageUrl":"http://s3-us-west-2.amazonaws.com/pvponlinenew/img/comic/2016/11/pvp20161130.jpg",
+  "imageSelector":".comic-art img",
+  "imageIndex":"0",
+  "firstSelector":"a:has(img[src=../images/first.gif])",
+  "firstIndex":"0",
+  "prevSelector":"a:contains(◀ Prev)",
+  "prevIndex":"0",
+  "nextSelector":"a:contains(Next ▶)",
+  "nextIndex":"0",
+  "lastSelector":"http://pvponline.com/comic",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.schlockmercenary.com/",
   "title":"Schlock Mercenary",
   "imageUrl":"http://www.schlockmercenary.com/strip/6015/0/schlock20161130.jpg?v=1480015709692",
