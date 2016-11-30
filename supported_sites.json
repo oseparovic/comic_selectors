@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://fborfw.com/strip_fix/",
+  "title":"For Better Or For Worse",
+  "imageUrl":"http://fborfw.com/strip_fix/strips/fb161130.gif",
+  "imageSelector":".entry-content img",
+  "imageIndex":"0",
+  "firstSelector":"http://pvponline.com/comic/mon-may-04",
+  "firstIndex":"-1",
+  "prevSelector":".nav-previous a",
+  "prevIndex":"0",
+  "nextSelector":".nav-next a",
+  "nextIndex":"0",
+  "lastSelector":"http://fborfw.com/strip_fix/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://pvponline.com/comic",
   "title":"PVP Online",
   "imageUrl":"http://s3-us-west-2.amazonaws.com/pvponlinenew/img/comic/2016/11/pvp20161130.jpg",
