@@ -1005,14 +1005,17 @@
 },
 {
   "url":"http://www.qwantz.com/index.php",
-  "imageUrl":"http://www.qwantz.com/comics/comic2-3005.png",
+  "title":"Dinosaur Comics",
+  "imageUrl":"http://www.qwantz.com/comics/comic2-3072.png",
   "imageSelector":".comic",
   "imageIndex":"0",
+  "firstSelector":"http://www.qwantz.com/index.php?comic=1",
+  "firstIndex":"-1",
   "prevSelector":"a:has(#leftarrow)",
   "prevIndex":"0",
   "nextSelector":"a:has(#rightarrow)",
   "nextIndex":"0",
-  "lastSelector":"http://www.qwantz.com/index.php",
+  "lastSelector":"http://qwantz.com/",
   "lastIndex":"-1"
 },
 {
