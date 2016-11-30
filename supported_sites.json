@@ -7,9 +7,9 @@
   "imageIndex":"0",
   "firstSelector":".beginning",
   "firstIndex":"0",
-  "prevSelector":".btn-archive-older",
+  "prevSelector":".btn-archive-older a",
   "prevIndex":"0",
-  "nextSelector":".btn-archive-newer",
+  "nextSelector":".btn-archive-newer a",
   "nextIndex":"0",
   "lastSelector":"http://www.gocomics.com/calvinandhobbes/",
   "lastIndex":"-1"
