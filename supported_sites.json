@@ -1,5 +1,35 @@
 [
 {
+  "url":"http://sinfest.net/",
+  "title":"Sinfest",
+  "imageUrl":"http://sinfest.net/btphp/comics/2016-11-30.gif",
+  "imageSelector":"tbody.style5 img",
+  "imageIndex":"0",
+  "firstSelector":"a:has(img[src=../images/first.gif])",
+  "firstIndex":"0",
+  "prevSelector":"a:has(img[src=../images/prev.gif])",
+  "prevIndex":"0",
+  "nextSelector":"a:has(img[src=../images/next.gif])",
+  "nextIndex":"0",
+  "lastSelector":"http://sinfest.net/",
+  "lastIndex":"-1"
+},
+{
+  "url":"https://garfield.com/comic",
+  "title":"Garfield",
+  "imageUrl":"https://d1ejxu6vysztl5.cloudfront.net/comics/garfield/2016/2016-11-30.gif",
+  "imageSelector":".comic-arrows > img",
+  "imageIndex":"0",
+  "firstSelector":".beginning",
+  "firstIndex":"0",
+  "prevSelector":".comic-arrow-left",
+  "prevIndex":"0",
+  "nextSelector":".comic-arrow-right",
+  "nextIndex":"0",
+  "lastSelector":"https://garfield.com/comic",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.gocomics.com/calvinandhobbes/",
   "title":"Calvin and Hobbes",
   "imageUrl":"http://assets.amuniversal.com/b373c0b077f30134dd61005056a9545d",
