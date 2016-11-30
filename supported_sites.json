@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://www.gocomics.com/calvinandhobbes/",
+  "title":"Calvin and Hobbes",
+  "imageUrl":"http://assets.amuniversal.com/b373c0b077f30134dd61005056a9545d",
+  "imageSelector":".feature_item img",
+  "imageIndex":"0",
+  "firstSelector":".beginning",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/calvinandhobbes/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://phdcomics.com/",
   "title":"PHD comics",
   "imageUrl":"http://www.phdcomics.com/comics/archive/phd112816s.gif",
@@ -607,6 +622,7 @@
 },
 {
   "url":"http://questionablecontent.net/",
+  "title":"Questionable Content",
   "imageUrl": "http://www.questionablecontent.net/comics/3252.png",
   "imageSelector":"#strip",
   "imageIndex":"0",
