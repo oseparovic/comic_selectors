@@ -101,7 +101,7 @@
   "firstIndex":"0",
   "prevSelector":".prev",
   "prevIndex":"0",
-  "nextSelector":".next a",
+  "nextSelector":".next",
   "nextIndex":"0",
   "lastSelector":"http://www.gocomics.com/calvinandhobbes/",
   "lastIndex":"-1"
