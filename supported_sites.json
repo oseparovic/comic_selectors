@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://www.harpygee.com/",
+  "title":"Harpy Gee",
+  "imageUrl":"http://www.harpygee.com/comics/1481496676-HarpyGeeGuestPages_perkins_01.jpg",
+  "imageSelector":"#cc-comic",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "randomSelector":"#random",
+  "randomIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.nerfnow.com/",
   "title":"Nerf NOW",
   "imageUrl":"http://www.nerfnow.com/img/1961/3078.png",
