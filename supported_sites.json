@@ -3,7 +3,7 @@
   "url":"https://www.imitationlobster.com/",
   "title":"Imitation Lobster",
   "imageUrl":"https://static1.squarespace.com/static/56f88246a3360c3a90bdd95f/t/584ec35bbebafb9fcaef6d61/1481556842713/?format=1000w",
-  "imageSelector":"img[data-image-dimensions=\"942x660\"]",
+  "imageSelector":"img[data-image-dimensions=942x660]",
   "imageIndex":"0",
   "firstSelector":".first-btn",
   "firstIndex":"0",
