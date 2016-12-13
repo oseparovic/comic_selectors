@@ -1,5 +1,22 @@
 [
 {
+  "url":"https://www.imitationlobster.com/",
+  "title":"Imitation Lobster",
+  "imageUrl":"https://static1.squarespace.com/static/56f88246a3360c3a90bdd95f/t/584ec35bbebafb9fcaef6d61/1481556842713/?format=1000w",
+  "imageSelector":".image-block-wrapper img",
+  "imageIndex":"0",
+  "firstSelector":".first-btn a",
+  "firstIndex":"0",
+  "prevSelector":".prev-btn a",
+  "prevIndex":"0",
+  "randomSelector":".random-btn a",
+  "randomIndex":"0",
+  "nextSelector":".next-btn a",
+  "nextIndex":"0",
+  "lastSelector":"https://www.imitationlobster.com/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.nerfnow.com/",
   "title":"Nerf NOW",
   "imageUrl":"http://www.nerfnow.com/img/1961/3078.png",
