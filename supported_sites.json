@@ -664,7 +664,7 @@
 },
 {
   "url":"http://www.channelate.com/",
-  "title":"Channelate"
+  "title":"Channelate",
   "imageUrl":"http://www.channelate.com/comics/2016-06-21-ghost.png",
   "imageSelector":"#comic-1 img",
   "imageIndex":"0",
