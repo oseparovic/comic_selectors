@@ -1,20 +1,18 @@
 [
 {
-  "url":"https://www.imitationlobster.com/",
-  "title":"Imitation Lobster",
-  "imageUrl":"https://static1.squarespace.com/static/56f88246a3360c3a90bdd95f/t/584ec35bbebafb9fcaef6d61/1481556842713/?format=1000w",
-  "imageSelector":"img[data-image-dimensions=942x660]",
+  "url":"http://www.thegamercat.com/",
+  "title":"The GaMERCaT",
+  "imageUrl":"http://www.thegamercat.com/wordpress/wp-content/uploads/2016/12/gamercat_209.jpg",
+  "imageSelector":"#comic img",
   "imageIndex":"0",
-  "firstSelector":".first-btn",
-  "firstIndex":"0",
-  "prevSelector":".prev-btn",
-  "prevIndex":"0",
-  "randomSelector":".random-btn",
-  "randomIndex":"0",
-  "nextSelector":".next-btn",
+  "nextSelector":".comic-nav-next",
   "nextIndex":"0",
-  "lastSelector":"https://www.imitationlobster.com/",
-  "lastIndex":"-1"
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "firstSelector":".comic-nav-next",
+  "firstIndex":"0",
+  "lastSelector":".comic-nav-last",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.nerfnow.com/",
@@ -666,6 +664,7 @@
 },
 {
   "url":"http://www.channelate.com/",
+  "title":"Channelate"
   "imageUrl":"http://www.channelate.com/comics/2016-06-21-ghost.png",
   "imageSelector":"#comic-1 img",
   "imageIndex":"0",
@@ -865,6 +864,7 @@
 },
 {
   "url":"http://www.girlswithslingshots.com/",
+  "title":"Girls With Slingshots",
   "imageUrl":"http://www.girlswithslingshots.com/comics/1467093416-GWS341.jpg",
   "imageSelector":"#cc-comicbody img",
   "imageIndex":"0",
@@ -987,6 +987,7 @@
 },
 {
   "url":"http://www.lovenotfound.com/",
+  "title":"Love Not Found",
   "imageUrl":"http://www.lovenotfound.com/comics/1467617803-2016-07-04_ch10_p29.jpg",
   "imageSelector":"#cc-comic",
   "imageIndex":"0",
