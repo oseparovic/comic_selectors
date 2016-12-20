@@ -651,16 +651,19 @@
   "lastIndex":"3"
 },
 {
-  "url":"http://jimbenton.com/",
+  "url":"http://www.gocomics.com/jim-benton-cartoons",
+  "title":"Jim Benton Cartoons",
   "imageUrl":"http://jimbenton.com/page14/files/JimBentonComic-Halloween.jpg",
-  "imageSelector":".photo-frame",
+  "imageSelector":".strip",
   "imageIndex":"0",
-  "nextSelector":":contains(Previous Comic)",
-  "nextIndex":"0",
-  "prevSelector":":contains(Next Comic)",
+  "firstSelector":".beginning",
+  "firstIndex":"0",
+  "prevSelector":".prev",
   "prevIndex":"0",
-  "randomSelector":"",
-  "randomIndex":"-1"
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/jim-benton-cartoons",
+  "lastIndex":"-1"
 },
 {
   "url":"http://www.channelate.com/",
