@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://botchedspot.com",
+  "title":"Botched Spot",
+  "imageUrl":"http://botchedspot.com/wp-content/blogs.dir/1/files/2016/03/2016-03-04-hulk-gawker.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "randomSelector":".comic-nav-random",
+  "randomIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":".comic-nav-last",
+  "lastIndex":"0"
+},
+{
   "url":"http://invisiblebread.com/",
   "title":"Invisible Bread",
   "imageUrl":"http://invisiblebread.com/comics/2016-12-16-do-it.png",
