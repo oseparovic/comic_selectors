@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://invisiblebread.com/",
+  "title":"Invisible Bread",
+  "imageUrl":"http://invisiblebread.com/comics/2016-12-16-do-it.png",
+  "imageSelector":".comicpane img",
+  "imageIndex":"0",
+  "firstSelector":".navi-first",
+  "firstIndex":"0",
+  "prevSelector":".navi-prev",
+  "prevIndex":"0",
+  "randomSelector":".navi-random",
+  "randomIndex":"0",
+  "nextSelector":".navi-next",
+  "nextIndex":"0",
+  "lastSelector":".navi-last",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.thegamercat.com/",
   "title":"The GaMERCaT",
   "imageUrl":"http://www.thegamercat.com/wordpress/wp-content/uploads/2016/12/gamercat_209.jpg",
