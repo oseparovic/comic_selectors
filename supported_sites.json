@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://www.irregularwebcomic.net/",
+  "title":"Irregular Webcomic",
+  "imageUrl":"http://www.irregularwebcomic.net/comics/irreg3580.jpg",
+  "imageSelector":"p > img",
+  "imageIndex":"0",
+  "firstSelector":"http://www.irregularwebcomic.net/1.html",
+  "firstIndex":"-1",
+  "prevSelector":"a:contains(<)",
+  "prevIndex":"0",
+  "nextSelector":"a:contains(>)",
+  "nextIndex":"0",
+  "lastSelector":"http://www.irregularwebcomic.net/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.gocomics.com/speedbump/",
   "title":"Speed Bump",
   "imageUrl":"http://assets.amuniversal.com/ce855ec0a1df01340c2e005056a9545d",
