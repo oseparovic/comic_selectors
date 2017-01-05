@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://wondermark.com/",
+  "title":"Wondermark",
+  "imageUrl":"http://wondermark.com/c/2017-01-03-1281belief.png",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"http://wondermark.com/001/",
+  "firstIndex":"-1",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "randomSelector":".comic-nav-random",
+  "randomIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":"http://wondermark.com/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.irregularwebcomic.net/",
   "title":"Irregular Webcomic",
   "imageUrl":"http://www.irregularwebcomic.net/comics/irreg3580.jpg",
