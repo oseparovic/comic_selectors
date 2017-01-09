@@ -1,4 +1,19 @@
 [
+  {
+  "url":"http://twokinds.keenspot.com/",
+  "title":"Twokinds",
+  "imageUrl":"http://twokinds.keenspot.com/images/20170105.jpg",
+  "imageSelector":"img[alt=Comic Page]",
+  "imageIndex":"0",
+  "firstSelector":".navbegin",
+  "firstIndex":"0",
+  "prevSelector":".navprev",
+  "prevIndex":"0",
+  "nextSelector":".navnext ",
+  "nextIndex":"0",
+  "lastSelector":"http://twokinds.keenspot.com/",
+  "lastIndex":"-1"
+},
 {
   "url":"http://www.businesscat.happyjar.com/",
   "title":"The Adventures of Business Cat",
