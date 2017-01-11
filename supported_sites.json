@@ -5,13 +5,13 @@
   "imageUrl":"http://www.sssscomic.com/comicpages/658.jpg",
   "imageSelector":".comicnormal",
   "imageIndex":"0",
-  "firstSelector":"#navfirst",
-  "firstIndex":"0",
-  "prevSelector":"#navprev",
+  "firstSelector":"http://www.sssscomic.com/comic.php?page=1",
+  "firstIndex":"-1",
+  "prevSelector":"a:has(#navprev)",
   "prevIndex":"0",
-  "nextSelector":"#navnext",
+  "nextSelector":"a:has(#navnext)",
   "nextIndex":"0",
-  "lastSelector":"#navlast",
+  "lastSelector":"a:has(#navlast)",
   "lastIndex":"0"
 },
 {
