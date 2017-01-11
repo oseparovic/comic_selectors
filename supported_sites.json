@@ -1,5 +1,20 @@
 [
-  {
+{
+  "url":"http://www.sssscomic.com/comic.php",
+  "title":"Stand Still. Stay Silent",
+  "imageUrl":"http://www.sssscomic.com/comicpages/658.jpg",
+  "imageSelector":".comicnormal",
+  "imageIndex":"0",
+  "firstSelector":"#navfirst",
+  "firstIndex":"0",
+  "prevSelector":"#navprev",
+  "prevIndex":"0",
+  "nextSelector":"#navnext",
+  "nextIndex":"0",
+  "lastSelector":"#navlast",
+  "lastIndex":"0"
+},
+{
   "url":"http://twokinds.keenspot.com/",
   "title":"Twokinds",
   "imageUrl":"http://twokinds.keenspot.com/images/20170105.jpg",
