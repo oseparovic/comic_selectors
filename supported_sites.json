@@ -12,7 +12,8 @@
   "nextSelector":"a:has(#navnext)",
   "nextIndex":"0",
   "lastSelector":"a:has(#navlast)",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://gumroad.com/l/sKIXz"
 },
 {
   "url":"http://twokinds.keenspot.com/",
@@ -1463,6 +1464,7 @@
 },
 {
   "url":"http://www.supernormalstep.com/",
+  "title":"Supernormal Step",
   "imageUrl":"http://www.supernormalstep.com/comics/1435723150-015000.jpg",
   "imageSelector":"#cc-comic",
   "imageIndex":"0",
@@ -1475,10 +1477,12 @@
   "nextSelector":".next",
   "nextIndex":"0",
   "lastSelector":".last",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/MikeLLunsford"
 },
 {
   "url":"http://dresdencodak.com/",
+  "title":"Dresden Codak",
   "imageUrl":"http://dresdencodak.com/comics/2016-05-05-dark_science_63.jpg",
   "imageSelector":"#comic img, #preview img",
   "imageIndex":"0",
@@ -1491,7 +1495,8 @@
   "randomSelector":"#preview a",
   "randomIndex":"0",
   "lastSelector":"http://dresdencodak.com/",
-  "lastIndex":"-1"
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/dresdencodak"
 },
 {
   "url":"http://megatokyo.com/",
