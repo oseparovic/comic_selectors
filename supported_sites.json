@@ -1169,13 +1169,15 @@
 },
 {
   "url":"http://www.asofterworld.com/",
+  "title":"A Softer World",
   "imageUrl":"http://www.asofterworld.com/clean/end.jpg",
   "imageSelector":"#comicimg img",
   "imageIndex":"0",
   "nextSelector":"#next a",
   "nextIndex":"0",
   "prevSelector":"#previous a",
-  "prevIndex":"0"
+  "prevIndex":"0",
+  "donateUrl":"https://www.patreon.com/joeycomeau"
 },
 {
   "url":"http://wandpcomic.com/",
@@ -1533,6 +1535,7 @@
 },
 {
   "url":"http://megatokyo.com/",
+  "title":"Megatokyo",
   "imageUrl":"http://megatokyo.com/strips/1434.gif",
   "imageSelector":"#strip img",
   "imageIndex":"0",
