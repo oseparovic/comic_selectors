@@ -783,7 +783,7 @@
 },
 {
   "url":"http://rockpapercynic.com/",
-  "title":"rockpapercynic",
+  "title":"Rock, Paper, Cynic",
   "imageUrl":"http://rockpapercynic.com/strips/2016-09-07.gif",
   "imageSelector":"p > img",
   "imageIndex":"0",
@@ -794,7 +794,8 @@
   "nextSelector":"a[title=Next Comic]",
   "nextIndex":"0",
   "lastSelector":"a[title=Latest Comic]",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/rockpapercynic"
 },
 {
   "url":"http://isitcanon.com/",
@@ -912,6 +913,7 @@
 },
 {
   "url":"http://www.gunshowcomic.com/",
+  "title":"Gunshow",
   "imageUrl":"http://gunshowcomic.com/comics/20140804.png",
   "imageSelector":"img.strip",
   "imageIndex":"0",
@@ -920,7 +922,8 @@
   "prevSelector":".stripnav a",
   "prevIndex":"1",
   "randomSelector":"http://www.gunshowcomic.com/random",
-  "randomIndex":"-1"
+  "randomIndex":"-1",
+  "donateUrl":"https://www.patreon.com/kcgreen"
 },
 {
   "url":"http://www.smbc-comics.com/",
@@ -1105,6 +1108,7 @@
 },
 {
   "url":"http://www.wildelifecomic.com/",
+  "title":"Wilde Life",
   "imageUrl": "http://www.wildelifecomic.com/comics/1466737734-235.jpg",
   "imageSelector":"#cc-comic",
   "imageIndex":"0",
@@ -1117,7 +1121,8 @@
   "nextSelector":"[rel=next]",
   "nextIndex":"0",
   "lastSelector":".last",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/lepas"
 },
 {
   "url":"http://www.dieselsweeties.com/",
@@ -1246,6 +1251,7 @@
 },
 {
   "url":"http://wandpcomic.com/",
+  "title":"Waffles and Pancakes Webcomic"
   "imageUrl":"http://wandpcomic.com/wp-content/uploads/2016/07/WandP39site.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
@@ -1258,7 +1264,8 @@
   "nextSelector":".comic-nav-next",
   "nextIndex":"0",
   "lastSelector":".comic-nav-last",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/DTSaranya"
 },
 {
   "url":"http://thedevilspanties.com/",
@@ -1450,6 +1457,7 @@
 },
 {
   "url":"http://achewood.com/",
+  "title":"Achewood",
   "imageUrl":"http://achewood.com/comic.php?date=07152016",
   "imageSelector":".comic",
   "imageIndex":"0",
@@ -1496,6 +1504,7 @@
 },
 {
   "url":"http://dawnoftimecomics.com/",
+  "title":"Dawn of Time Web Comic",
   "imageUrl":"http://dawnoftimecomics.com/Strips/DawnOfTime305.png",
   "imageSelector":"#strip img",
   "imageIndex":"0",
@@ -1512,7 +1521,7 @@
 },
 {
   "url":"http://www.missingmondaycomic.com/",
-  "tiutle":"Missing Monday",
+  "title":"Missing Monday",
   "imageUrl":"http://dawnoftimecomics.com/Strips/DawnOfTime305.png",
   "imageSelector":"#cc-comic",
   "imageIndex":"0",
@@ -1525,7 +1534,8 @@
   "nextSelector":".next",
   "nextIndex":"0",
   "lastSelector":".last",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/elleskinner"
 },
 {
   "url":"http://www.harpygee.com/",
@@ -1564,6 +1574,7 @@
 },
 {
   "url":"http://wapsisquare.com/",
+  "title":"Wapsi Square",
   "imageUrl":"http://wapsisquare.com/wp-content/uploads/2016/09/2016-09-29-middle-name.jpg",
   "imageSelector":"#comic img",
   "imageIndex":"0",
@@ -1576,7 +1587,8 @@
   "nextSelector":".navi-next",
   "nextIndex":"0",
   "lastSelector":".navi-last",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/pablowapsi"
 },
 {
   "url":"http://www.supernormalstep.com/",
