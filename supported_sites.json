@@ -1060,7 +1060,7 @@
 {
   "url":"http://abominable.cc/",
   "title":"The Abominable Charles Christopher",
-  "imageUrl": "http://67.media.tumblr.com/3a2496c72b73f8a1dd3380d67e59653c/tumblr_o8vpyhwMK21qb05x1o1_r1_1280.jpg",
+  "imageUrl":"http://68.media.tumblr.com/88bca5e42403d9a788c005defab57d05/tumblr_oej5z2AVU11qb05x1o1_1280.jpg",
   "imageSelector":".photo img",
   "imageIndex":"0",
   "firstSelector":".prev_post a",
@@ -1170,6 +1170,7 @@
 },
 {
   "url":"http://www.gunnerkrigg.com/",
+  "title":"Gunnerkrigg Court",
   "imageUrl":"http://www.gunnerkrigg.com/comics/00001689.jpg",
   "imageSelector":".comic_image",
   "imageIndex":"0",
@@ -1182,7 +1183,8 @@
   "nextSelector":".extra .nav .right",
   "nextIndex":"0",
   "lastSelector":"http://www.gunnerkrigg.com/",
-  "lastIndex":"-1"
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/gunnerkrigg"
 },
 {
   "url":"http://www.girlswithslingshots.com/",
@@ -1373,6 +1375,7 @@
 },
 {
   "url":"http://navcomic.com/",
+  "title":"Not A Villain Webcomic",
   "imageUrl":"http://static.navcomic.com/wp-content/uploads/2016/07/4-Page119-jhfvc.jpg",
   "imageSelector":".webcomic-image img",
   "imageIndex":"0",
@@ -1385,7 +1388,8 @@
   "nextSelector":".next-webcomic-link",
   "nextIndex":"0",
   "lastSelector":".last-webcomic-link",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/aneeka"
 },
 {
   "url":"http://terra-comic.com/",
