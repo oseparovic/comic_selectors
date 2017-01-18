@@ -1251,7 +1251,7 @@
 },
 {
   "url":"http://wandpcomic.com/",
-  "title":"Waffles and Pancakes Webcomic"
+  "title":"Waffles and Pancakes Webcomic",
   "imageUrl":"http://wandpcomic.com/wp-content/uploads/2016/07/WandP39site.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
