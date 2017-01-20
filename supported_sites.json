@@ -24,7 +24,7 @@
   "firstIndex":"0",
   "prevSelector":"#prevstrip a",
   "prevIndex":"0",
-  "nextSelector":"#nextstrip",
+  "nextSelector":"#nextstrip a",
   "nextIndex":"0",
   "lastSelector":"http://www.kevinandkell.com/",
   "lastIndex":"-1",
