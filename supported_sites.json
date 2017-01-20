@@ -18,7 +18,7 @@
   "url":"http://thendu.com/",
   "title":"The NDU",
   "imageUrl":"http://www.thendu.com/comics/20151117.jpg",
-  "imageSelector":"#comic img",
+  "imageSelector":"img[src~=\/comics\/.*jpg]",
   "imageIndex":"0",
   "firstSelector":"a:contains(First)",
   "firstIndex":"0",
