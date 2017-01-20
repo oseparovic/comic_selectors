@@ -1,5 +1,35 @@
 [
 {
+  "url":"http://www.nicoleandderek.com/",
+  "title":"Nicole and Derek",
+  "imageUrl":"http://www.nicoleandderek.com/comics/20170120.jpg",
+  "imageSelector":"img[src~=\/comics\/.*jpg]",
+  "imageIndex":"0",
+  "firstSelector":"a:contains(First)",
+  "firstIndex":"0",
+  "prevSelector":"a:contains(Previous)",
+  "prevIndex":"0",
+  "nextSelector":"a:contains(Next)",
+  "nextIndex":"0",
+  "lastSelector":"http://www.nicoleandderek.com/",
+  "lastIndex":"-1"
+},
+{
+  "url":"http://thendu.com/",
+  "title":"The NDU",
+  "imageUrl":"http://www.thendu.com/comics/20151117.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"a:contains(First)",
+  "firstIndex":"0",
+  "prevSelector":"a:contains(Previous)",
+  "prevIndex":"0",
+  "nextSelector":"a:contains(Next)",
+  "nextIndex":"0",
+  "lastSelector":"http://thendu.com/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.wonderkittens.com/",
   "title":"Wonder Kittens",
   "imageUrl":"http://www.wonderkittens.com/comics/20160610.jpg",
