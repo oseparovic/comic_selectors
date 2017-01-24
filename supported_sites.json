@@ -1,5 +1,12 @@
 [
 {
+  "url":"http://www.dilbert.com",
+  "title":"Dilbert",
+  "imageUrl":"http://assets.amuniversal.com/d7239400b8c401342e7b005056a9545d",
+  "imageSelector":".img-comic",
+  "imageIndex":"0",
+},
+{
   "url":"http://www.nicoleandderek.com/",
   "title":"Nicole and Derek",
   "imageUrl":"http://www.nicoleandderek.com/comics/20170120.jpg",
@@ -224,6 +231,21 @@
   "nextIndex":"0",
   "lastSelector":"http://www.irregularwebcomic.net/",
   "lastIndex":"-1"
+},
+{
+  "url":"http://www.gocomics.com/luann/",
+  "title":"Luann",
+  "imageUrl":"http://assets.amuniversal.com/e18c8890bf07013435d3005056a9545d",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.gocomics.com/speedbump/",
