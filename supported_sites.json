@@ -1,5 +1,33 @@
 [
 {
+  "url":"http://www.gocomics.com/dilbert-classics",
+  "title":"Dilbert Classics",
+  "imageUrl":"http://assets.amuniversal.com/d3c70c80bb060134314d005056a9545d",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/dilbert-classics",
+  "lastIndex":"-1"
+},
+{
+  "url":"http://www.lfg.co/page/1",
+  "title":"Looking for Group (LFG)",
+  "imageUrl":"http://www.lfg.co/wp-content/uploads/2013/02/2006-11-12-1.gif",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"http://www.lfg.co/page/1",
+  "firstIndex":"-1",
+  "prevSelector":".comic-left a",
+  "prevIndex":"0",
+  "nextSelector":".comic-right a",
+  "nextIndex":"0"
+},
+{
   "url":"http://inverloch.seraph-inn.com/viewcomic.php",
   "title":"Inverloch | Seraph Inn",
   "imageUrl":"http://inverloch.seraph-inn.com/pages/1.jpg",
