@@ -22,9 +22,9 @@
   "imageIndex":"0",
   "firstSelector":"http://www.lfg.co/page/1",
   "firstIndex":"-1",
-  "prevSelector":".comic-left a",
+  "prevSelector":"#comic-left a",
   "prevIndex":"0",
-  "nextSelector":".comic-right a",
+  "nextSelector":"#comic-right a",
   "nextIndex":"0"
 },
 {
