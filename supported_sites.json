@@ -1,5 +1,35 @@
 [
 {
+  "url":"http://www.giantitp.com/comics/erf0001.html",
+  "title":"Erfworld (giantitp)",
+  "imageUrl":"http://www.giantitp.com/comics/images/6BU91IYzmkt0NSui61H.jpg",
+  "imageSelector":"img[src~=/comics/images/]",
+  "imageIndex":"0",
+  "firstSelector":"a:has(img[src=/Images/redesign/ComicNav_First.gif])",
+  "firstIndex":"0",
+  "prevSelector":"a:has(img[src=/Images/redesign/ComicNav_Back.gif])",
+  "prevIndex":"0",
+  "nextSelector":"a:has(img[src=/Images/redesign/ComicNav_Next.gif])",
+  "nextIndex":"0",
+  "lastSelector":"a:has(img[src=/Images/redesign/ComicNav_Latest.gif])",
+  "lastIndex":"0"
+},
+{
+  "url":"http://www.giantitp.com/comics/oots0001.html",
+  "title":"Order of the Stick (giantitp)",
+  "imageUrl":"http://www.giantitp.com/comics/images/oots0001.gif",
+  "imageSelector":"img[src~=/comics/images/]",
+  "imageIndex":"0",
+  "firstSelector":"a:has(img[src=/Images/redesign/ComicNav_First.gif])",
+  "firstIndex":"0",
+  "prevSelector":"a:has(img[src=/Images/redesign/ComicNav_Back.gif])",
+  "prevIndex":"0",
+  "nextSelector":"a:has(img[src=/Images/redesign/ComicNav_Next.gif])",
+  "nextIndex":"0",
+  "lastSelector":"a:has(img[src=/Images/redesign/ComicNav_Latest.gif])",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.gocomics.com/dilbert-classics",
   "title":"Dilbert Classics",
   "imageUrl":"http://assets.amuniversal.com/d3c70c80bb060134314d005056a9545d",
