@@ -1,5 +1,37 @@
 [
 {
+  "url":"http://amateurhourcomics.com/",
+  "title":"Amateur Hour Comics",
+  "imageUrl":"http://68.media.tumblr.com/669a44241409062187fbf530ae6fc3f1/tumblr_okvoi9ntyP1tlh6mdo1_1280.png",
+  "imageSelector":".photo-hires-item img",
+  "imageIndex":"0",
+  "firstSelector":".first-button",
+  "firstIndex":"0",
+  "prevSelector":".previous-button",
+  "prevIndex":"0",
+  "nextSelector":".next-button",
+  "nextIndex":"0",
+  "lastSelector":".last-button",
+  "lastIndex":"0"
+},
+{
+  "url":"http://www.docrat.com.au/",
+  "title":"Doc Rat",
+  "imageUrl":"http://www.docrat.com.au/wp-content/uploads/2017/02/DR2705.png",
+  "imageSelector":".webcomic-image img",
+  "imageIndex":"0",
+  "firstSelector":".first-webcomic-link",
+  "firstIndex":"0",
+  "prevSelector":".previous-webcomic-link",
+  "prevIndex":"0",
+  "randomSelector":".random-webcomic-link",
+  "randomIndex":"0",
+  "nextSelector":".next-webcomic-link",
+  "nextIndex":"0",
+  "lastSelector":".last-webcomic-link",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.giantitp.com/comics/erf0001.html",
   "title":"Erfworld (giantitp)",
   "imageUrl":"http://www.giantitp.com/comics/images/6BU91IYzmkt0NSui61H.jpg",
@@ -1150,7 +1182,8 @@
   "nextSelector":".next",
   "nextIndex":"0",
   "lastSelector":".last",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/ZachWeinersmith"
 },
 {
   "url":"http://redpanels.com/",
