@@ -407,6 +407,21 @@
   "lastIndex":"-1"
 },
 {
+  "url":"http://www.gocomics.com/luann/",
+  "title":"Luann",
+  "imageUrl":"http://assets.amuniversal.com/e18c8890bf07013435d3005056a9545d",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
+},
+{
   "url":"http://www.gocomics.com/speedbump/",
   "title":"Speed Bump",
   "imageUrl":"http://assets.amuniversal.com/ce855ec0a1df01340c2e005056a9545d",
