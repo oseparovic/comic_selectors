@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://thenoobcomic.com/",
+  "title":"The Noob",
+  "imageUrl":"http://thenoobcomic.com/wp-content/uploads/2015/07/00001.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0"
+  "lastSelector":"http://thenoobcomic.com/",
+  "lastIndex":"-1",
+},
+{
   "url":"http://amateurhourcomics.com/",
   "title":"Amateur Hour Comics",
   "imageUrl":"http://68.media.tumblr.com/669a44241409062187fbf530ae6fc3f1/tumblr_okvoi9ntyP1tlh6mdo1_1280.png",
