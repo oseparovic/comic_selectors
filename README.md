@@ -4,6 +4,7 @@ Supported sites use the following format:
 ```
 {
   "url":"http://nedroid.com/",
+  "title":"Nedroid",
   "imageUrl":"http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg",
   "imageSelector":"div#comic > img",
   "imageIndex":"0",
@@ -16,11 +17,13 @@ Supported sites use the following format:
   "nextSelector":"div.nav-next > a",
   "nextIndex":"0",
   "lastSelector":".nav-last a",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/nedroid"
 },
 ```
 
 * **url** - url of the lastest comic for this site. This is where a new reader will start
+* **title** - plaintext title of the site. When searching in app, special characters like ',.|- will be ignored so don't worry about including them
 * **imageUrl** - featured image that will show up on the feed and to users browsing through list of comics
 * **imageSelector** - the css selector for getting the comic image
 * **imageIndex** - the index of the selected item you are using
@@ -34,6 +37,7 @@ Supported sites use the following format:
 * **nextIndex** - the index of the selected item you are using
 * **lastSelector** - the css selector for getting the last comic link
 * **lastIndex** - the index of the selected item you are using
+* **donateUrl** - the donation page for the comic author if applicable. Patreon, paypal etc. Support the content
 
 Notes: 
 * If you want to supply a direct link to the address use index "-1".
@@ -52,4 +56,4 @@ If you want to see how your added code will work:
 
 #Need help?
 
-If you have questions on how to do this, or have questions/suggestions about the app in general, feel free to contact me via twitter https://twitter.com/lolhistoryapp or email me pageflip@printandpixel.ca
+If you have questions on how to do this, or have questions/suggestions about the app in general, feel free to email me at pageflip@printandpixel.ca
