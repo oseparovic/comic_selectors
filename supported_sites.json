@@ -956,8 +956,7 @@
   "nextSelector":"a:contains(next)",
   "nextIndex":"0",
   "lastSelector":"a:contains(last)",
-  "lastIndex":"0",
-  "donateUrl":"https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=KbNvldz4aHn3FGO12UqyEbuSRV1OopaUzyS1d2oAvpC3g5X76qx0HyKwbLW&dispatch=5885d80a13c0db1f8e263663d3faee8d94717bd303200c3af9aadd01a5f55080"
+  "lastIndex":"0"
 },
 {
   "url":"http://poorlydrawnlines.com/comic/",
