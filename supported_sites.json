@@ -1,5 +1,21 @@
 [
 {
+  "url":"http://www.octopuspie.com/",
+  "title":"Octopus Pie",
+  "imageUrl":"http://www.octopuspie.com/strippy/2016-06-29.png",
+  "imageSelector":"img[src~=/strippy/]",
+  "imageIndex":"0",
+  "firstSelector":"http://www.octopuspie.com/2007-05-14/001-pea-wiggle/",
+  "firstIndex":"-1",
+  "prevSelector":"a[rel=prev]",
+  "prevIndex":"0",
+  "nextSelector":"a[rel=next]",
+  "nextIndex":"0",
+  "lastSelector":"http://www.octopuspie.com/",
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/octopuspie"
+},
+{
   "url":"http://amateurhourcomics.com/",
   "title":"Amateur Hour Comics",
   "imageUrl":"http://68.media.tumblr.com/669a44241409062187fbf530ae6fc3f1/tumblr_okvoi9ntyP1tlh6mdo1_1280.png",
