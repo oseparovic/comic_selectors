@@ -362,7 +362,7 @@
 {
   "url":"http://twokinds.keenspot.com/",
   "title":"Twokinds",
-  "imageUrl":"http://twokinds.keenspot.com/images/20170105.jpg",
+  "imageUrl":"http://cdn.twokinds.keenspot.com/comics/20170216.jpg",
   "imageSelector":".comic img",
   "imageIndex":"0",
   "firstSelector":"a:contains(first comic)",
