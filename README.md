@@ -18,7 +18,8 @@ Supported sites use the following format:
   "nextIndex":"0",
   "lastSelector":".nav-last a",
   "lastIndex":"0",
-  "donateUrl":"https://www.patreon.com/nedroid"
+  "donateUrl":"https://www.patreon.com/nedroid",
+  "nsfw":true
 },
 ```
 
@@ -38,6 +39,7 @@ Supported sites use the following format:
 * **lastSelector** - the css selector for getting the last comic link
 * **lastIndex** - the index of the selected item you are using
 * **donateUrl** - the donation page for the comic author if applicable. Patreon, paypal etc. Support the content
+* **nsfw** - (true/false) whether or not the comic contains nsfw content on ANY of its pages
 
 Notes: 
 * If you want to supply a direct link to the address use index "-1".
