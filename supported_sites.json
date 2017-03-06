@@ -1,6 +1,6 @@
 [
 {
-  "url":"http://www.ozfoxes.com/fauxpas.htm",
+  "url":"http://www.ozfoxes.net/cgi/pl-fp2.cgi",
   "title":"Faux Pas",
   "imageUrl":"http://www.ozfoxes.com/fp/fp-2003lg.jpg",
   "imageSelector":"img[src~=fp/]",
@@ -11,7 +11,7 @@
   "prevIndex":"0",
   "nextSelector":"a:has(img[alt=Next])",
   "nextIndex":"0",
-  "lastSelector":"http://www.ozfoxes.com/fauxpas.htm",
+  "lastSelector":"http://www.ozfoxes.net/cgi/pl-fp2.cgi",
   "lastIndex":"-1",
   "donateUrl":"https://www.patreon.com/ozfoxes"
 },
