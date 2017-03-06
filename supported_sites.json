@@ -1,5 +1,21 @@
 [
 {
+  "url":"http://www.ozfoxes.com/fauxpas.htm",
+  "title":"Faux Pas",
+  "imageUrl":"http://www.ozfoxes.com/fp/fp-2003lg.jpg",
+  "imageSelector":"img[src~=fp/]",
+  "imageIndex":"0",
+  "firstSelector":"a:has(img[alt=First])",
+  "firstIndex":"0",
+  "prevSelector":"a:has(img[alt=Previous])",
+  "prevIndex":"0",
+  "nextSelector":"a:has(img[alt=Next])",
+  "nextIndex":"0",
+  "lastSelector":"http://www.ozfoxes.com/fauxpas.htm",
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/ozfoxes"
+},
+{
   "url":"http://www.octopuspie.com/",
   "title":"Octopus Pie",
   "imageUrl":"http://www.octopuspie.com/strippy/2016-06-29.png",
