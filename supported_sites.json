@@ -1143,8 +1143,8 @@
   "randomIndex":"0",
   "nextSelector":".nav-next",
   "nextIndex":"0",
-  "lastSelector":".nav-last",
-  "lastIndex":"0"
+  "lastSelector":"http://www.cad-comic.com/sillies/",
+  "lastIndex":"-1"
 },
 {
   "url":"http://www.cad-comic.com/cad",
@@ -1160,8 +1160,8 @@
   "randomIndex":"0",
   "nextSelector":".nav-next",
   "nextIndex":"0",
-  "lastSelector":".nav-last",
-  "lastIndex":"0"
+  "lastSelector":"http://www.cad-comic.com/cad",
+  "lastIndex":"-1"
 },
 {
   "url":"http://rockpapercynic.com/",
