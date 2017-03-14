@@ -1690,6 +1690,7 @@
 },
 {
   "url":"http://thedevilspanties.com/",
+  "title":"The Devil's Panties",
   "imageUrl":"http://cdn.thedevilspanties.com/comics/20081024.jpg",
   "imageSelector":"#comic img",
   "imageIndex":"0",
@@ -1701,8 +1702,9 @@
   "randomIndex":"0",
   "nextSelector":".navi-next",
   "nextIndex":"0",
-  "lastSelector":".navi-last",
-  "lastIndex":"0"
+  "lastSelector":"http://thedevilspanties.com/",
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/jenniebreeden"
 },
 {
   "url":"http://electricbunnycomics.com/",
