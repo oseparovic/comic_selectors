@@ -831,7 +831,7 @@
 {
   "url":"http://www.cheerupemokid.com/",
   "title":"Cheer Up, Emo Kid",
-  "imageUrl":"http://www.cheerupemokid.com/wp-content/uploads/2016/12/cuek-0547-morning.png",
+  "imageUrl":"https://www.cheerupemokid.com/wp-content/uploads/2017/03/gocomics-holiday-comic.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
   "firstSelector":".first",
@@ -843,7 +843,8 @@
   "nextSelector":".next",
   "nextIndex":"0",
   "lastSelector":"http://www.cheerupemokid.com/",
-  "lastIndex":"-1"
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/enzocomics"
 },
 {
   "url":"http://fborfw.com/strip_fix/",
