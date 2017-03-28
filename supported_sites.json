@@ -35,7 +35,7 @@
   "url":"http://www.deathbulge.com/comics",
   "title":"Deathbulge",
   "imageUrl":"http://www.deathbulge.com/images/comics/387.jpg",		
-  "imageSelector":"#comic img",		
+  "imageSelector":"#comic-image",		
   "imageIndex":"0",		
   "firstSelector":"#first-button",
   "firstIndex":"0",
