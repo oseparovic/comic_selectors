@@ -2118,5 +2118,18 @@
   "nextIndex":"0",
   "lastSelector":"http://megatokyo.com/index.php",
   "lastIndex":"-1"
+},
+{
+  "url":"http://requiem.seraph-inn.com/viewcomic.php",
+  "title":"The Phoenix Requiem",
+  "imageUrl":"http://requiem.seraph-inn.com/pages/1.jpg",
+  "imageSelector":"#main img",
+  "imageIndex":"0",
+  "firstSelector":"http://requiem.seraph-inn.com/viewcomic.php",
+  "firstIndex":"-1",
+  "prevSelector":"a:contains(Prev)",
+  "prevIndex":"0",
+  "nextSelector":"a:contains(Next)",
+  "nextIndex":"0"
 }
 ]
