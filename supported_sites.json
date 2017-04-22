@@ -2123,7 +2123,7 @@
   "url":"http://requiem.seraph-inn.com/viewcomic.php",
   "title":"The Phoenix Requiem",
   "imageUrl":"http://requiem.seraph-inn.com/pages/1.jpg",
-  "imageSelector":"a:has(img[alt=Page])",
+  "imageSelector":"img[alt=Page]",
   "imageIndex":"0",
   "firstSelector":"a:has(img[alt=First])",
   "firstIndex":"0",
