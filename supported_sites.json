@@ -1,7 +1,7 @@
 [
 {
   "url":"http://dilbert.com/",
-  "title":"http://assets.amuniversal.com/0322fa00002f01358a9d005056a9545d",
+  "title":"Dilbert",
   "imageUrl":"http://www.somethingpositive.net/sp04272017.png",		
   "imageSelector":"img[src~=comics]",		
   "imageIndex":"0",		
