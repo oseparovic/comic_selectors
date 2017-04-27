@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://babyblues.com/",
+  "title":"Baby Blues",
+  "imageUrl":"https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxNy8wNC9CYWJ5X0JsdWVzLjIwMTcwNDI3XzkwMC5naWY=",		
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"#firstcomic a",		
+  "firstIndex":"0",		
+  "prevSelector":"#previouscomic a",		
+  "prevIndex":"0",		
+  "nextSelector":"#nextcomic a",		
+  "nextIndex":"0",
+  "lastSelector":"http://babyblues.com/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://pbfcomics.com",
   "title":"Perry Bible Fellowship",
   "imageUrl":"http://pbfcomics.com/archive_b/PBF277-Still_Life.png",		
