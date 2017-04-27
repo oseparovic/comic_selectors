@@ -1,5 +1,21 @@
 [
 {
+  "url":"http://dilbert.com/",
+  "title":"http://assets.amuniversal.com/0322fa00002f01358a9d005056a9545d",
+  "imageUrl":"http://www.somethingpositive.net/sp04272017.png",		
+  "imageSelector":"img[src~=comics]",		
+  "imageIndex":"0",		
+  "firstSelector":"a:has(img[src~=first])",		
+  "firstIndex":"0",		
+  "prevSelector":"a:has(img[src~=previous])",		
+  "prevIndex":"0",		
+  "nextSelector":"a:contains(NEXT)",		
+  "nextIndex":"0",		
+  "lastSelector":"http://www.monster-pulse.com/",
+  "lastIndex":"-1",
+  "unsupported":true
+},
+{
   "url":"http://www.somethingpositive.net/",
   "title":"Something Positive",
   "imageUrl":"http://www.somethingpositive.net/sp04272017.png",		
