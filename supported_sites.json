@@ -2196,5 +2196,22 @@
   "nextIndex":"0",
   "lastSelector":"http://requiem.seraph-inn.com/viewcomic.php",
   "lastIndex":"-1"
+},
+{
+  "url":"http://floraverse.com/comic/seeds-a-mini-story/prologue/1-cover/",
+  "title":"Floraverse",
+  "imageUrl":"http://apps.veekun.com/flora-cutscenes/res/brokentoy-part2/beleth2bg2h.png",
+  "imageSelector":"img.comic-page-image",
+  "imageIndex":"0",
+  "firstSelector":"http://floraverse.com/comic/seeds-a-mini-story/prologue/1-cover/",
+  "firstIndex":"-1",
+  "prevSelector":"div.-prev a",
+  "prevIndex":"0",
+  "nextSelector":"div.-next a",
+  "nextIndex":"0",
+  "lastSelector":"http://floraverse.com/comic/most-recent/",
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/floraverse",
+  "nsfw":false
 }
 ]
