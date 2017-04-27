@@ -1,4 +1,4 @@
-#Adding comics
+# Adding comics
 Supported sites use the following format:
 
 ```
@@ -46,7 +46,7 @@ Notes:
 * If a comic doesn't have one of the navigation options e.g. a random button, just leave out the two relevant entries; in this case "randomSelector" and "randomIndex"
 * Documentation about how to write the selectors can be found here https://jsoup.org/apidocs/org/jsoup/select/Selector.html
 
-#Testing your work
+# Testing your work
 
 If you want to see how your added code will work:
 
@@ -56,6 +56,6 @@ If you want to see how your added code will work:
 4. you will see an ordered list of results appear below. If you don't see any results, then your selector is invalid or could not find anything on this page.
 5. The number on the left of the result correponds to the index. Use this for the various index entries in the code above e.g "nextIndex". Most of the time you'll find you'll only need to use 0.
 
-#Need help?
+# Need help?
 
 If you have questions on how to do this, or have questions/suggestions about the app in general, feel free to email me at pageflip@printandpixel.ca
