@@ -3,7 +3,7 @@
   "url":"http://oppressive-silence.com/",
   "title":"Oppressive Silence",
   "imageUrl":"http://oppressive-silence.com/wp-content/uploads/2017/05/lemonhead-1.jpg",		
-  "imageSelector":"#entry img",		
+  "imageSelector":".entry img",		
   "imageIndex":"0",		
   "firstSelector":".comic-nav-first",		
   "firstIndex":"0",		
