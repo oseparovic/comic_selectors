@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://www.bunicomic.com/",
+  "title":"Buni",
+  "imageUrl":"http://www.bunicomic.com/wp-content/uploads/2017/05/2017-05-12-Buni.jpg",		
+  "imageSelector":".entry img",		
+  "imageIndex":"0",		
+  "firstSelector":".comic-nav-first",		
+  "firstIndex":"0",		
+  "prevSelector":".comic-nav-previous",		
+  "prevIndex":"0",		
+  "randomSelector":".comic-nav-random",		
+  "randomIndex":"0",		
+  "nextSelector":".comic-nav-next",		
+  "nextIndex":"0",	
+  "lastSelector":"http://www.bunicomic.com/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://oppressive-silence.com/",
   "title":"Oppressive Silence",
   "imageUrl":"http://oppressive-silence.com/wp-content/uploads/2017/05/lemonhead-1.jpg",		
