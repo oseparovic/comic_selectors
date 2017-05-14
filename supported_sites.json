@@ -1,5 +1,35 @@
 [
 {
+  "url":"http://www.d20monkey.com/",
+  "title":"D20 monkey",
+  "imageUrl":"http://www.d20monkey.com/wp-content/uploads/2017/05/20170509.jpg",		
+  "imageSelector":"#comic img",		
+  "imageIndex":"0",		
+  "firstSelector":".navi-first",
+  "firstIndex":"0",
+  "prevSelector":".navi-prev",
+  "prevIndex":"0",
+  "nextSelector":".navi-next",
+  "nextIndex":"0",	
+  "lastSelector":"http://www.d20monkey.com/",
+  "lastIndex":"-1"
+},
+{
+  "url":"http://www.crfh.net/",
+  "title":"CRFH",
+  "imageUrl":"http://www.crfh.net/2017/crfh20170505.jpg",		
+  "imageSelector":"img[src~=.jpg]",		
+  "imageIndex":"0",		
+  "firstSelector":"area[title=first]",		
+  "firstIndex":"0",		
+  "prevSelector":"area[title=previous]",		
+  "prevIndex":"0",			
+  "nextSelector":"area[title=next]",		
+  "nextIndex":"0",	
+  "lastSelector":"http://www.crfh.net/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.bunicomic.com/",
   "title":"Buni",
   "imageUrl":"http://www.bunicomic.com/wp-content/uploads/2017/05/2017-05-12-Buni.jpg",		
