@@ -1,5 +1,35 @@
 [
 {
+  "url":"http://www.gocomics.com/pluggers",
+  "title":"Pluggers",
+  "imageUrl":"http://avatar.amuniversal.com/feature_avatars/hero_images/features/tmplu/large_hero-201701251517.png",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/pluggers",
+  "lastIndex":"-1"
+},
+{
+  "url":"http://www.gocomics.com/foxtrotclassics",
+  "title":"FoxTrot Classics",
+  "imageUrl":"http://avatar.amuniversal.com/feature_avatars/hero_images/features/ftcl/large_hero-201701251521.png",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/foxtrotclassics",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.d20monkey.com/",
   "title":"D20 monkey",
   "imageUrl":"http://www.d20monkey.com/wp-content/uploads/2017/05/20170509.jpg",		
