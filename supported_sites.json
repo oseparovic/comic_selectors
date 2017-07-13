@@ -1,5 +1,21 @@
 [
 {
+  "url":"http://www.maiuscentral.com/jrs/",
+  "title":"Johnny, Roy y Steffy",
+  "imageUrl":"http://www.maiuscentral.com/jrs/wp-content/uploads/2016/07/jrs329-small.png",
+  "imageSelector":"div#comic > a",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav > a",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav > a",
+  "prevIndex":"1",
+  "nextSelector":".comic-nav > a",
+  "nextIndex":"3",
+  "lastSelector":".comic-nav > a",
+  "lastIndex":"4",
+  "nsfw":false
+},
+{
   "url":"http://thenoobcomic.com/",
   "title":"The Noob",
   "imageUrl":"http://thenoobcomic.com/wp-content/uploads/2015/07/00001.jpg",
