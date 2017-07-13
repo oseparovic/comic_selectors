@@ -55,6 +55,7 @@ If you want to see how your added code will work:
 3. type in your CSS Query at the bottom of the page e.g. "div#comic > img"
 4. you will see an ordered list of results appear below. If you don't see any results, then your selector is invalid or could not find anything on this page.
 5. The number on the left of the result correponds to the index. Use this for the various index entries in the code above e.g "nextIndex". Most of the time you'll find you'll only need to use 0.
+6. Test that your version of the file is proper JSON. You can copy paste the whole content into a website like this to test (you'll see an error message if there's a syntax problem) http://json.parser.online.fr/
 
 # Need help?
 
