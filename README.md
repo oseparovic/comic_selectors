@@ -1,4 +1,4 @@
-#Adding comics
+# Adding comics
 Supported sites use the following format:
 
 ```
@@ -18,7 +18,8 @@ Supported sites use the following format:
   "nextIndex":"0",
   "lastSelector":".nav-last a",
   "lastIndex":"0",
-  "donateUrl":"https://www.patreon.com/nedroid"
+  "donateUrl":"https://www.patreon.com/nedroid",
+  "nsfw":true
 },
 ```
 
@@ -38,13 +39,14 @@ Supported sites use the following format:
 * **lastSelector** - the css selector for getting the last comic link
 * **lastIndex** - the index of the selected item you are using
 * **donateUrl** - the donation page for the comic author if applicable. Patreon, paypal etc. Support the content
+* **nsfw** - (true/false) whether or not the comic contains nsfw content on ANY of its pages. Default is false.
 
 Notes: 
 * If you want to supply a direct link to the address use index "-1".
 * If a comic doesn't have one of the navigation options e.g. a random button, just leave out the two relevant entries; in this case "randomSelector" and "randomIndex"
 * Documentation about how to write the selectors can be found here https://jsoup.org/apidocs/org/jsoup/select/Selector.html
 
-#Testing your work
+# Testing your work
 
 If you want to see how your added code will work:
 
@@ -53,7 +55,8 @@ If you want to see how your added code will work:
 3. type in your CSS Query at the bottom of the page e.g. "div#comic > img"
 4. you will see an ordered list of results appear below. If you don't see any results, then your selector is invalid or could not find anything on this page.
 5. The number on the left of the result correponds to the index. Use this for the various index entries in the code above e.g "nextIndex". Most of the time you'll find you'll only need to use 0.
+6. Test that your version of the file is proper JSON. You can copy paste the whole content into a website like this to test (you'll see an error message if there's a syntax problem) http://json.parser.online.fr/
 
-#Need help?
+# Need help?
 
 If you have questions on how to do this, or have questions/suggestions about the app in general, feel free to email me at pageflip@printandpixel.ca
