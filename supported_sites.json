@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://thenoobcomic.com/",
+  "title":"The Noob",
+  "imageUrl":"http://thenoobcomic.com/wp-content/uploads/2015/07/00001.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":"http://thenoobcomic.com/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.htzcomic.com/",
   "title":"HTZ",
   "imageUrl":"http://www.htzcomic.com/comics/2016-03-11-868.png",
