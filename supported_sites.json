@@ -1,5 +1,24 @@
 [
-  {
+{
+  "url":"http://www.htzcomic.com/",
+  "title":"HTZ",
+  "imageUrl":"http://www.htzcomic.com/comics/2016-03-11-868.png",
+  "imageSelector":"div#comic-1 > img",
+  "imageIndex":"0",
+  "firstSelector":"http://www.htzcomic.com/2012/07/11/va-y-me-lo-ejecuta/",
+  "firstIndex":"-1",
+  "prevSelector":".htz_nav_prev > a",
+  "prevIndex":"0",
+  "randomSelector":"http://www.htzcomic.com/?randomcomic&nocache=1",
+  "randomIndex":"-1",
+  "nextSelector":".htz_nav_next > a",
+  "nextIndex":"0",
+  "lastSelector":"http://www.htzcomic.com/",
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/albertgonzalez",
+  "nsfw":false
+},
+{
   "url":"http://www.weregeek.com/",
   "title":"Weregeek",
   "imageUrl":"http://www.weregeek.com/comics/2006-11-27.jpg",
