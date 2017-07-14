@@ -1,5 +1,24 @@
 [
 {
+  "url":"http://witchycomic.com/",
+  "title":"Witchy Comic",
+  "imageUrl":"http://witchycomic.com/wp-content/uploads/2017/07/ch4-p62.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"a.navi-first",
+  "firstIndex":"0",
+  "prevSelector":"a.navi-prev",
+  "prevIndex":"0",
+  "randomSelector":"a.navi-random",
+  "randomIndex":"0",
+  "nextSelector":"a.navi-next",
+  "nextIndex":"0",
+  "lastSelector":"a.navi-last",
+  "lastIndex":"0",
+  "nsfw":false,
+  "donateUrl":"https://www.patreon.com/witchy"
+},
+{
   "url":"http://www.housepetscomic.com/",
   "title":"Housepets!",
   "imageUrl":"http://www.housepetscomic.com/wp-content/uploads/2017/07/2017-07-14-concerned-1.png",
