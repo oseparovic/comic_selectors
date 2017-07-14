@@ -12,7 +12,9 @@
   "randomSelector":".comic-nav-random",		
   "randomIndex":"0",		
   "nextSelector":".comic-nav-next",		
-  "nextIndex":"0",	
+  "nextIndex":"0",
+  "lastSelector":"http://dyingalone.net/",
+  "lastIndex":"-1",
   "nsfw":false,
   "donateUrl":"https://www.patreon.com/ErinDiesAlone"
 },
