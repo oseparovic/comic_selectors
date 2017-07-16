@@ -1,5 +1,22 @@
 [
 {
+  "url":"http://ennuigo.smackjeeves.com/",
+  "title":"Ennui GO!",
+  "imageUrl":"http://www.smackjeeves.com/images/uploaded/comics/6/3/f/63f8d60cfdPVr.jpg",
+  "imageSelector":"#comic_image",
+  "imageIndex":"0",
+  "firstSelector":"http://ennuigo.smackjeeves.com/comics/2196327/ennui-go/",
+  "firstIndex":"-1",
+  "prevSelector":".comic_nav > a:nth-child(2)",
+  "prevIndex":"0",
+  "nextSelector":".comic_nav > a:nth-child(4)",
+  "nextIndex":"0",
+  "lastSelector":".comic_nav > a:nth-child(5)",
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/doctorglasgow",
+  "nsfw":true
+},
+{
   "url":"http://witchycomic.com/",
   "title":"Witchy Comic",
   "imageUrl":"http://witchycomic.com/wp-content/uploads/2017/07/ch4-p62.jpg",
