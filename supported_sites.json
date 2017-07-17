@@ -1,4 +1,21 @@
 [
+  {
+  "url":"http://www.gogetaroomie.com/comic/",
+  "title":"Go Get a Roomie!",
+  "imageUrl":"http://www.gogetaroomie.com/comic/early-to-the-party",
+  "imageSelector":"#cc-comic",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0",
+  "nsfw":true,
+  "donateUrl":"https://www.patreon.com/gogetaroomie"
+},
 {
   "url":"http://witchycomic.com/",
   "title":"Witchy Comic",
