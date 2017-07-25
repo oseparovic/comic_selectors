@@ -2426,6 +2426,8 @@
   "prevIndex":"0",
   "nextSelector":"#comic_navigation .right a",
   "nextIndex":"0",
+  "firstSelector":"http://achewood.com/index.php?date=10012001",
+  "firstIndex":"-1",
   "lastSelector":"http://achewood.com/",
   "lastIndex":"-1"
 },
