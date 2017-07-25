@@ -1712,20 +1712,20 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.cad-comic.com/cad",
+  "url":"http://cad-comic.com/",
   "title":"Ctrl+Alt+Del",
   "imageUrl":"http://cdn2.cad-comic.com/comics/cad-20160919-f12fe.png",
   "imageSelector":".comicpage > a > img",
   "imageIndex":"0",
-  "firstSelector":"a:contains(first)",
-  "firstIndex":"0",
+  "firstSelector":"http://cad-comic.com/comic/nice-melon/",
+  "firstIndex":"-1",
   "prevSelector":"a[rel=prev]",
   "prevIndex":"0",
   "randomSelector":"a:contains(Random)",
   "randomIndex":"0",
   "nextSelector":"a[rel=next]",
   "nextIndex":"0",
-  "lastSelector":"http://www.cad-comic.com/cad",
+  "lastSelector":"http://cad-comic.com/",
   "lastIndex":"-1"
 },
 {
