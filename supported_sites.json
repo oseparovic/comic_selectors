@@ -2026,7 +2026,7 @@
   "lastIndex":"1"
 },
 {
-  "url":"http://chainsawsuit.com/",
+  "url":"http://chainsawsuit.com/comic/",
   "title":"chainsawsuit",
   "imageUrl": "http://chainsawsuit.com/wp-content/uploads/2016/06/20160627_grief.png",
   "imageSelector":"#comic img",
@@ -2037,6 +2037,8 @@
   "prevIndex":"0",
   "randomSelector":"http://chainsawsuit.com/random/?random&nocache=1",
   "randomIndex":"-1",
+  "firstSelector":"http://chainsawsuit.com/comic/archive/2008/03/12/strip-338/",
+  "firstIndex":"-1",
   "lastSelector":"http://chainsawsuit.com/",
   "lastIndex":"-1"
 },
