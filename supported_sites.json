@@ -2200,6 +2200,10 @@
   "nextIndex":"0",
   "prevSelector":"#previous a",
   "prevIndex":"0",
+  "firstSelector":"http://www.asofterworld.com/index.php?id=1",
+  "firstIndex":"-1",
+  "lastSelector":"http://www.asofterworld.com/index.php?id=1248",
+  "lastIndex":"-1",
   "donateUrl":"https://www.patreon.com/joeycomeau"
 },
 {
