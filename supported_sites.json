@@ -1695,20 +1695,20 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.cad-comic.com/sillies",
-  "title":"Ctrl+Alt+Del sillies",
+  "url":"http://cad-comic.com/comic/25864/",
+  "title":"Ctrl+Alt+Del Sillies",
   "imageUrl":"http://cdn2.cad-comic.com/comics/sillies-20160609-422d4.gif",
   "imageSelector":".comicpage > a > img",
   "imageIndex":"0",
-  "firstSelector":"a:contains(first)",
-  "firstIndex":"0",
+  "firstSelector":"http://cad-comic.com/comic/25864/",
+  "firstIndex":"-1",
   "prevSelector":"a[rel=prev]",
   "prevIndex":"0",
   "randomSelector":"a:contains(Random)",
   "randomIndex":"0",
   "nextSelector":"a[rel=next]",
   "nextIndex":"0",
-  "lastSelector":"http://www.cad-comic.com/sillies/",
+  "lastSelector":"a:contains(Last)",
   "lastIndex":"-1"
 },
 {
@@ -1725,8 +1725,8 @@
   "randomIndex":"0",
   "nextSelector":"a[rel=next]",
   "nextIndex":"0",
-  "lastSelector":"http://cad-comic.com/",
-  "lastIndex":"-1"
+  "lastSelector":"a:contains(Last)",
+  "lastIndex":"0"
 },
 {
   "url":"http://rockpapercynic.com/",
