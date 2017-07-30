@@ -201,8 +201,8 @@
   "imageUrl":"http://68.media.tumblr.com/dbabdac199d0e2586995ad94c5592303/tumblr_oryghn6KgA1vmpny4o1_1280.jpg",
   "imageSelector":".photo-hires-item img",
   "imageIndex":"0",
-  "firstSelector":".first-button",
-  "firstIndex":"0",
+  "firstSelector":"http://www.catanacomics.com/post/153854606030",
+  "firstIndex":"-1",
   "prevSelector":".previous-button",
   "prevIndex":"0",
   "randomSelector":".random-random",
@@ -1695,38 +1695,38 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.cad-comic.com/sillies",
-  "title":"Ctrl+Alt+Del sillies",
+  "url":"http://cad-comic.com/comic/25864/",
+  "title":"Ctrl+Alt+Del Sillies",
   "imageUrl":"http://cdn2.cad-comic.com/comics/sillies-20160609-422d4.gif",
   "imageSelector":".comicpage > a > img",
   "imageIndex":"0",
-  "firstSelector":"a:contains(first)",
-  "firstIndex":"0",
+  "firstSelector":"http://cad-comic.com/comic/25864/",
+  "firstIndex":"-1",
   "prevSelector":"a[rel=prev]",
   "prevIndex":"0",
   "randomSelector":"a:contains(Random)",
   "randomIndex":"0",
   "nextSelector":"a[rel=next]",
   "nextIndex":"0",
-  "lastSelector":"http://www.cad-comic.com/sillies/",
+  "lastSelector":"a:contains(Last)",
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.cad-comic.com/cad",
+  "url":"http://cad-comic.com/",
   "title":"Ctrl+Alt+Del",
   "imageUrl":"http://cdn2.cad-comic.com/comics/cad-20160919-f12fe.png",
   "imageSelector":".comicpage > a > img",
   "imageIndex":"0",
-  "firstSelector":"a:contains(first)",
-  "firstIndex":"0",
+  "firstSelector":"http://cad-comic.com/comic/nice-melon/",
+  "firstIndex":"-1",
   "prevSelector":"a[rel=prev]",
   "prevIndex":"0",
   "randomSelector":"a:contains(Random)",
   "randomIndex":"0",
   "nextSelector":"a[rel=next]",
   "nextIndex":"0",
-  "lastSelector":"http://www.cad-comic.com/cad",
-  "lastIndex":"-1"
+  "lastSelector":"a:contains(Last)",
+  "lastIndex":"0"
 },
 {
   "url":"http://rockpapercynic.com/",
@@ -2026,7 +2026,7 @@
   "lastIndex":"1"
 },
 {
-  "url":"http://chainsawsuit.com/",
+  "url":"http://chainsawsuit.com/comic/",
   "title":"chainsawsuit",
   "imageUrl": "http://chainsawsuit.com/wp-content/uploads/2016/06/20160627_grief.png",
   "imageSelector":"#comic img",
@@ -2037,6 +2037,8 @@
   "prevIndex":"0",
   "randomSelector":"http://chainsawsuit.com/random/?random&nocache=1",
   "randomIndex":"-1",
+  "firstSelector":"http://chainsawsuit.com/comic/archive/2008/03/12/strip-338/",
+  "firstIndex":"-1",
   "lastSelector":"http://chainsawsuit.com/",
   "lastIndex":"-1"
 },
@@ -2085,8 +2087,8 @@
   "nextIndex":"2",
   "prevSelector":"#prevbundler a",
   "prevIndex":"0",
-  "randomSelector":"",
-  "randomIndex":"-1"
+  "firstSelector":"http://www.dieselsweeties.com/ics/1/",
+  "firstIndex":"-1"
 },
 {
   "url":"http://www.girlgeniusonline.com/comic.php",
@@ -2200,6 +2202,10 @@
   "nextIndex":"0",
   "prevSelector":"#previous a",
   "prevIndex":"0",
+  "firstSelector":"http://www.asofterworld.com/index.php?id=1",
+  "firstIndex":"-1",
+  "lastSelector":"http://www.asofterworld.com/index.php?id=1248",
+  "lastIndex":"-1",
   "donateUrl":"https://www.patreon.com/joeycomeau"
 },
 {
@@ -2422,6 +2428,8 @@
   "prevIndex":"0",
   "nextSelector":"#comic_navigation .right a",
   "nextIndex":"0",
+  "firstSelector":"http://achewood.com/index.php?date=10012001",
+  "firstIndex":"-1",
   "lastSelector":"http://achewood.com/",
   "lastIndex":"-1"
 },
@@ -2448,15 +2456,13 @@
   "imageUrl":"http://broodhollow.chainsawsuit.com/wp-content/uploads/2016/07/bh_book3_page010_iris.jpg",
   "imageSelector":"#comic img",
   "imageIndex":"0",
-  "firstSelector":".navi-first",
+  "firstSelector":".comic-nav-first",
   "firstIndex":"0",
-  "prevSelector":".navi-prev",
+  "prevSelector":".comic-nav-previous",
   "prevIndex":"0",
-  "randomSelector":".navi-random",
-  "randomIndex":"0",
-  "nextSelector":".navi-next",
+  "nextSelector":".comic-nav-next",
   "nextIndex":"0",
-  "lastSelector":".navi-last",
+  "lastSelector":".comic-nav-last",
   "lastIndex":"0"
 },
 {
