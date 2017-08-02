@@ -2635,5 +2635,22 @@
   "lastIndex":"-1",
   "donateUrl":"https://www.patreon.com/floraverse",
   "nsfw":false
+},
+{
+  "url":"http://www.blastwave-comic.com/",
+  "title":"Gone with the Blastwave",
+  "imageUrl":"http://www.blastwave-comic.com/comics/28.jpg",
+  "imageSelector":"#comic_ruutu > center > img",
+  "imageIndex":"0",
+  "firstSelector":"#comic_ruutu > center > table > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(1) > a",
+  "firstIndex":"0",
+  "prevSelector":"#comic_ruutu > center > table > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(2) > a",
+  "prevIndex":"0",
+  "nextSelector":"#comic_ruutu > center > table > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(3) > a",
+  "nextIndex":"0",
+  "lastSelector":"#comic_ruutu > center > table > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(4) > a",
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/blastwave",
+  "nsfw":false
 }
 ]
