@@ -324,20 +324,19 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://dilbert.com/",
+  "url":"http://dilbert.com/strip/9999-12-31",
   "title":"Dilbert",
-  "imageUrl":"http://www.somethingpositive.net/sp04272017.png",		
-  "imageSelector":"img[src~=comics]",		
-  "imageIndex":"0",		
-  "firstSelector":"a:has(img[src~=first])",		
-  "firstIndex":"0",		
-  "prevSelector":"a:has(img[src~=previous])",		
-  "prevIndex":"0",		
-  "nextSelector":"a:contains(NEXT)",		
-  "nextIndex":"0",		
-  "lastSelector":"http://www.monster-pulse.com/",
-  "lastIndex":"-1",
-  "unsupported":true
+  "imageUrl":"http://assets.amuniversal.com/968ac0604e050135dbae005056a9545d",
+  "imageSelector":"img.img-comic",
+  "imageIndex":"0",
+  "firstSelector":"http://dilbert.com/strip/1989-04-16",
+  "firstIndex":"-1",
+  "prevSelector":"div.nav-left > a",
+  "prevIndex":"0",
+  "nextSelector":"div.nav-right > a",
+  "nextIndex":"0",
+  "lastSelector":"http://dilbert.com/strip/9999-12-31",
+  "lastIndex":"-1"
 },
 {
   "url":"http://www.somethingpositive.net/",
