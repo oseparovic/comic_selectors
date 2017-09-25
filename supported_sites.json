@@ -1,5 +1,38 @@
 [
   {
+    "url":"http://www.leasticoulddo.com/comic/20170923/",
+  "title":"Least I could do",
+  "imageUrl":"http://www.leasticoulddo.com/wp-content/uploads/2017/09/20170923-img.jpg",
+  "imageSelector":"div#comic > img",
+  "imageIndex":"0",
+  "firstSelector":".nav-first a",
+  "firstIndex":"0",
+  "prevSelector":"div.nav-previous > a",
+  "prevIndex":"9",
+  "nextSelector":"div.nav-next > a",
+  "nextIndex":"6",
+  "lastSelector":".nav-last a",
+  "lastIndex":"0",
+  "nsfw":true,
+    "supported":false
+  },
+  {
+  "url":"http://bizarro.com/",
+  "title":"Bizarro",
+  "imageUrl":"http://bizarro.com/wp-content/uploads/2017/09/Bizarro-09-17-17-hdrWB.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"#firstcomic a",
+  "firstIndex":"0",
+  "prevSelector":"#previouscomic a",
+  "prevIndex":"0",
+  "nextSelector":"#nextcomic a",
+  "nextIndex":"0",
+  "lastSelector":"#lastcomic a",
+  "lastIndex":"0",
+  "donateUrl":"http://bizarro.com/"
+},
+  {
   "url":"http://tardaasa.thecomicseries.com/comics/",
   "title":"Tardaasa",
   "imageUrl":"http://tardaasa.thecomicseries.com/files/tardaasabild72_halv.jpg",
