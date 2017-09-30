@@ -340,23 +340,6 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.thedoghousediaries.com/",
-  "title":"Doghouse Diaries",
-  "imageUrl":"http://thedoghousediaries.com/dhdcomics/AbilityScores.png",		
-  "imageSelector":"#imgdiv img",		
-  "imageIndex":"0",		
-  "firstSelector":"#firstlink",		
-  "firstIndex":"0",		
-  "prevSelector":"#previouslink",		
-  "prevIndex":"0", 
-  "randomSelector":"#randomlink",		
-  "randomIndex":"0",	
-  "nextSelector":"#nextlink",		
-  "nextIndex":"0",		
-  "lastSelector":"http://www.thedoghousediaries.com/",
-  "lastIndex":"-1"
-},
-{
   "url":"http://dilbert.com/strip/9999-12-31",
   "title":"Dilbert",
   "imageUrl":"http://assets.amuniversal.com/968ac0604e050135dbae005056a9545d",
