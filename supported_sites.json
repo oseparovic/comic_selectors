@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://trekkercomic.com/",
+  "title":"Trekker Comic",
+  "imageUrl":"http://trekkercomic.com/wp-content/uploads/2017/08/Darkstar_page36WEB.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":"http://trekkercomic.com/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.scurrycomic.com/scurry-comic",
   "title":"Scurry Comic",
   "imageUrl":"https://static1.squarespace.com/static/569c45c305f8e2b24da78673/t/5a0d758c0d9297ba599b7dc5/1510831508966/17+copy.jpg?format=1000w",
