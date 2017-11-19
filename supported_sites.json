@@ -1,5 +1,37 @@
 [
 {
+  "url":"http://www.everblue-comic.com/",
+  "title":"Everblue",
+  "imageUrl":"http://www.everblue-comic.com/assets/images/comics/201711080148141933911/Vol1-Ch4-Page-88-283.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"a.first",
+  "firstIndex":"0",
+  "prevSelector":"a.prev",
+  "prevIndex":"0",
+  "nextSelector":"a.next",
+  "nextIndex":"0",
+  "lastSelector":"a.latest",
+  "lastIndex":"0"
+},
+{
+  "url":"http://www.lutherlevy.com/",
+  "title":"Family Man",
+  "imageUrl":"http://www.lutherlevy.com/comics/2017-06-05-Family-Man-page-442.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"a.navi-first",
+  "firstIndex":"0",
+  "prevSelector":"a.navi-prev",
+  "prevIndex":"0",
+  "randomSelector":"a.navi-random",
+  "randomIndex":"0",
+  "nextSelector":"a.navi-next",
+  "nextIndex":"0",
+  "lastSelector":"a.navi-last",
+  "lastIndex":"0"
+},
+{
   "url":"http://bird-boy.com/",
   "title":"Bird Boy",
   "imageUrl":"http://bird-boy.com/wp-content/uploads/2017/11/2017-11-04-Vol3-pg41.jpg",
