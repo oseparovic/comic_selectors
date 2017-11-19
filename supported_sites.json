@@ -1,6 +1,55 @@
 [
-  {
-    "url":"http://www.leasticoulddo.com/comic/20170923/",
+{
+  "url":"http://www.casualvillain.com/Unsounded/",
+  "unsupported":true
+},
+{
+  "url":"http://www.marecomic.com/",
+  "title":"Mare Internum",
+  "imageUrl":"http://www.marecomic.com/comics/MI_web_446.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":"http://www.marecomic.com/",
+  "lastIndex":"-1"
+},
+{
+  "url":"http://www.meekcomic.com/",
+  "title":"The Meek",
+  "imageUrl":"http://www.meekcomic.com/comics/TM_web_545.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":".comic-nav-first",
+  "firstIndex":"0",
+  "prevSelector":".comic-nav-previous",
+  "prevIndex":"0",
+  "nextSelector":".comic-nav-next",
+  "nextIndex":"0",
+  "lastSelector":"http://www.meekcomic.com/",
+  "lastIndex":"-1"
+},
+{
+  "url":"https://strongfemaleprotagonist.com",
+  "title":"Strong Female Protagonist",
+  "imageUrl":"https://strongfemaleprotagonist.com/wp-content/uploads/2017/11/sfp-7-49-for-web.png",
+  "imageSelector":"img.size-full",
+  "imageIndex":"0",
+  "firstSelector":"a:has(img[src~=first-button.png])",
+  "firstIndex":"0",
+  "prevSelector":"a:has(img[src~=left-arrow.png])",
+  "prevIndex":"0",
+  "nextSelector":"a:has(img[src~=right-arrow.png])",
+  "nextIndex":"0",
+  "lastSelector":"a:has(img[src~=last-button.png])",
+  "lastIndex":"0"
+},
+{
+  "url":"http://www.leasticoulddo.com/comic/20170923/",
   "title":"Least I could do",
   "imageUrl":"http://www.leasticoulddo.com/wp-content/uploads/2017/09/20170923-img.jpg",
   "imageSelector":"div#comic > img",
