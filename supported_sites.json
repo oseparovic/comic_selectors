@@ -3,7 +3,7 @@
   "url":"http://www.scurrycomic.com/scurry-comic",
   "title":"Scurry Comic",
   "imageUrl":"https://static1.squarespace.com/static/569c45c305f8e2b24da78673/t/5a0d758c0d9297ba599b7dc5/1510831508966/17+copy.jpg?format=1000w",
-  "imageSelector":".thumb-image",
+  "imageSelector":".image-block-wrapper img",
   "imageIndex":"0",
   "firstSelector":"a.first-btn",
   "firstIndex":"0",
@@ -12,7 +12,8 @@
   "nextSelector":"a.next-btn",
   "nextIndex":"0",
   "lastSelector":"a.today-btn",
-  "lastIndex":"0"
+  "lastIndex":"0",
+  "unsupported":true
 },
 {
   "url":"http://www.everblue-comic.com/",
