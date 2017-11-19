@@ -47,7 +47,8 @@
   "nextSelector":".comic-nav-next",
   "nextIndex":"0",
   "lastSelector":"http://www.meekcomic.com/",
-  "lastIndex":"-1"
+  "lastIndex":"-1",
+  "nsfw":true
 },
 {
   "url":"https://strongfemaleprotagonist.com",
