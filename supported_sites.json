@@ -17,7 +17,8 @@
 {
   "url":"http://www.casualvillain.com/Unsounded/",
   "imageUrl":"http://www.casualvillain.com/Unsounded/comic/ch12/pageart/ch12_01.jpg",
-  "unsupported":true
+  "unsupported":true,
+  "nsfw":true
 },
 {
   "url":"http://www.marecomic.com/",
