@@ -1,5 +1,36 @@
 [
 {
+  "url":"http://www.spinnyverse.com/",
+  "title":"Spinnerette",
+  "imageUrl":"http://www.spinnyverse.com/comics/1510750057-2017-11-15.jpg",
+  "imageSelector":"img#cc-comic",
+  "imageIndex":"0",
+  "firstSelector":"a.first",
+  "firstIndex":"0",
+  "prevSelector":"a.prev",
+  "prevIndex":"0",
+  "nextSelector":"a.next",
+  "nextIndex":"0",
+  "lastSelector":"http://www.spinnyverse.com/",
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/spinnerette"
+},
+{
+  "url":"http://www.lackadaisycats.com/comic.php",
+  "title":"Lackadaisy",
+  "imageUrl":"http://trekkercomic.com/wp-content/uploads/2017/08/Darkstar_page36WEB.jpg",
+  "imageSelector":"#content img",
+  "imageIndex":"0",
+  "firstSelector":"http://www.lackadaisycats.com/comic.php?comicid=1",
+  "firstIndex":"-1",
+  "prevSelector":".prev a",
+  "prevIndex":"0",
+  "nextSelector":".next a",
+  "nextIndex":"0",
+  "lastSelector":"http://www.lackadaisycats.com/comic.php",
+  "lastIndex":"-1"
+},
+{
   "url":"http://trekkercomic.com/",
   "title":"Trekker Comic",
   "imageUrl":"http://trekkercomic.com/wp-content/uploads/2017/08/Darkstar_page36WEB.jpg",
