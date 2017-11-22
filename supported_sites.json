@@ -1,5 +1,21 @@
 [
 {
+  "url":"http://ma3comic.com/",
+  "title":"Menage a 3",
+  "imageUrl":"http://www.ma3comic.com/comics/1511261426-mat20171121.png",
+  "imageSelector":"#cc-comicbody img",
+  "imageIndex":"0",
+  "firstSelector":"a.first",
+  "firstIndex":"0",
+  "prevSelector":"a.prev",
+  "prevIndex":"0",
+  "nextSelector":"a.next",
+  "nextIndex":"0",
+  "lastSelector":"a.latest",
+  "lastIndex":"0",
+  "nsfw":true
+},
+{
   "url":"http://www.reallifecomics.com/index.php",
   "title":"Real Life Comics",
   "imageUrl":"http://reallifecomics.com/wp-content/uploads/2015/12/20151210_3252.jpg",
@@ -2026,8 +2042,8 @@
   "randomIndex":"-1",
   "firstSelector":".navi-first",
   "firstIndex":"0",
-  "lastSelector":".navi-last",
-  "lastIndex":"0"
+  "lastSelector":"http://extrafabulouscomics.com/",
+  "lastIndex":"-1"
 },
 {
   "url":"http://www.mrlovenstein.com/",
