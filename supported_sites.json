@@ -3,7 +3,7 @@
   "url":"https://www.arcamax.com/thefunnies/zits/",
   "title":"Zits",
   "imageUrl":"https://www.arcamax.com/newspics/158/15815/1581591.gif",
-  "imageSelector":"#comic img",
+  "imageSelector":"#comic-zoom img",
   "imageIndex":"0",
   "prevSelector":"a.prev",
   "prevIndex":"0",
