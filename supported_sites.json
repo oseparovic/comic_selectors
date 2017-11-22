@@ -11,7 +11,7 @@
   "prevIndex":"0",
   "nextSelector":"a.next",
   "nextIndex":"0",
-  "lastSelector":"a.latest",
+  "lastSelector":"a.last",
   "lastIndex":"0",
   "nsfw":true
 },
