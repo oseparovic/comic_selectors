@@ -1,5 +1,33 @@
 [
 {
+  "url":"https://www.arcamax.com/thefunnies/zits/",
+  "title":"Zits",
+  "imageUrl":"https://www.arcamax.com/newspics/158/15815/1581591.gif",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "prevSelector":"a.prev",
+  "prevIndex":"0",
+  "nextSelector":"a.next",
+  "nextIndex":"0",
+  "lastSelector":"https://www.arcamax.com/thefunnies/zits/",
+  "lastIndex":"-1"
+},
+{
+  "url":"http://blondie.com/todays_strip/",
+  "title":"Blondie",
+  "imageUrl":"https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTcvMTEvQmxvbmRpZS4yMDE3MTEyMl85MDAuZ2lm",
+  "imageSelector":"#comicpanel img",
+  "imageIndex":"0",
+  "firstSelector":"#firstcomic a",
+  "firstIndex":"0",
+  "prevSelector":"#previouscomic a",
+  "prevIndex":"0",
+  "nextSelector":"#nextcomic a",
+  "nextIndex":"0",
+  "lastSelector":"http://blondie.com/todays_strip/",
+  "lastIndex":"-1"
+},
+{
   "url":"http://ma3comic.com/",
   "title":"Menage a 3",
   "imageUrl":"http://www.ma3comic.com/comics/1511261426-mat20171121.png",
