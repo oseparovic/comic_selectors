@@ -1,9 +1,22 @@
 [
 {
+  "url":"https://www.arcamax.com/thefunnies/diamondlil/",
+  "title":"Diamond Lil",
+  "imageUrl":"https://www.arcamax.com/newspics/158/15816/1581635.gif",
+  "imageSelector":"img#comic-zoom",
+  "imageIndex":"0",
+  "prevSelector":"a.prev",
+  "prevIndex":"0",
+  "nextSelector":"a.next",
+  "nextIndex":"0",
+  "lastSelector":"https://www.arcamax.com/thefunnies/diamondlil/",
+  "lastIndex":"-1"
+},
+{
   "url":"https://www.arcamax.com/thefunnies/zits/",
   "title":"Zits",
   "imageUrl":"https://www.arcamax.com/newspics/158/15815/1581591.gif",
-  "imageSelector":"#comic-zoom img",
+  "imageSelector":"img#comic-zoom",
   "imageIndex":"0",
   "prevSelector":"a.prev",
   "prevIndex":"0",
