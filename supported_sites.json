@@ -1,5 +1,21 @@
 [
 {
+  "url":"http://www.berkeleymews.com/",
+  "title":"Berkeley Mews",
+  "imageUrl":"http://www.berkeleymews.com/comics/2009-12-27-heaven-winner.jpg",
+  "imageSelector":"#comic img",
+  "imageIndex":"0",
+  "firstSelector":"http://www.berkeleymews.com/?p=19",
+  "firstIndex":"-1",
+  "prevSelector":".navi-prev",
+  "prevIndex":"0",
+  "nextSelector":".navi-next",
+  "nextIndex":"0",
+  "lastSelector":"http://www.berkeleymews.com/",
+  "lastIndex":"-1",
+  "donateUrl":"http://www.patreon.com/berkeleymews"
+},
+{
   "url":"http://notinventedhe.re",
   "title": "Not Invented Here",
   "imageUrl":"http://thiswas.notinventedhe.re/on/2009-09-21",
