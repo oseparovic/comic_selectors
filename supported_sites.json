@@ -16,6 +16,23 @@
   "donateUrl":"http://www.patreon.com/berkeleymews"
 },
 {
+  "url":"http://notinventedhe.re",
+  "title": "Not Invented Here",
+  "imageUrl":"http://thiswas.notinventedhe.re/on/2009-09-21",
+  "imageSelector":"#comic-content > a > img",
+  "imageIndex":"0",
+  "firstSelector":"http://notinventedhe.re/on/2009-9-21",
+  "firstIndex":"-1",
+  "prevSelector":"a#nav-previous",
+  "prevIndex":"0",
+  "nextSelector":"a#nav-next",
+  "nextIndex":"0",
+  "lastSelector":"http://notinventedhe.re",
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/notinventedhere",
+  "nsfw":false
+},
+{
   "url":"https://www.arcamax.com/thefunnies/diamondlil/",
   "title":"Diamond Lil",
   "imageUrl":"https://www.arcamax.com/newspics/158/15816/1581635.gif",
@@ -713,18 +730,20 @@
 {
   "url":"http://pbfcomics.com",
   "title":"Perry Bible Fellowship",
-  "imageUrl":"http://pbfcomics.com/archive_b/PBF277-Still_Life.png",		
+  "imageUrl":"http://pbfcomics.com/wp-content/uploads/2016/03/PBF032-Todays_My_Birthday.png",
   "imageSelector":"#comic img",
   "imageIndex":"0",
-  "firstSelector":"#firstcomic a",		
-  "firstIndex":"0",		
-  "prevSelector":"#previouscomic a",		
+  "firstSelector":"http://pbfcomics.com/comics/stiff-breeze/",
+  "firstIndex":"-1",
+  "prevSelector":".pbf-nav-previous a",
   "prevIndex":"0",		
-  "nextSelector":"#nextcomic a",		
+  "nextSelector":".pbf-nav-next a",
   "nextIndex":"0",
-  "lastSelector":"http://babyblues.com/",
-  "lastIndex":"-1",
-  "unsupported":true
+  "lastSelector":".pbf-nav-latest a",
+  "lastIndex":"0",
+  "randomSelector":"http://pbfcomics.com/random",
+  "randomIndex":"-1",
+  "unsupported":false
 },
 {
   "url":"http://www.geeksngoblins.com/",
