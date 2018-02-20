@@ -2949,5 +2949,23 @@
   "lastIndex":"0",
   "donateUrl":"https://www.patreon.com/blastwave",
   "nsfw":false
+}, 
+{
+  "url":"http://theawkwardyeti.com/",
+  "title":"The Awkward Yeti",
+  "imageUrl":"http://theawkwardyeti.com/wp-content/uploads/2018/02/012418_JobSatisfaction.jpg",
+  "imageSelector":"div#comic > img",
+  "imageIndex":"0",
+  "firstSelector":"span.navi.navi-first.navi-void",
+  "firstIndex":"0",
+  "prevSelector":"span.navi.navi-prev.navi-void",
+  "prevIndex":"0",
+  "randomSelector":"http://theawkwardyeti.com/?random&amp;nocache=1",
+  "randomIndex":"-1",
+  "nextSelector":"span.navi.navi-next.navi-void",
+  "nextIndex":"0",
+"lastSelector":"span.navi.navi-last.navi-void",
+  "lastIndex":"0",
+  "nsfw":false
 }
 ]
