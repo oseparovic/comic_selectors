@@ -2954,7 +2954,7 @@
   "url":"http://theawkwardyeti.com/",
   "title":"The Awkward Yeti",
   "imageUrl":"http://theawkwardyeti.com/wp-content/uploads/2018/02/012418_JobSatisfaction.jpg",
-  "imageSelector":"div#comic > img",
+  "imageSelector":"#comic img",
   "imageIndex":"0",
   "firstSelector":".navi-first",
   "firstIndex":"0",
