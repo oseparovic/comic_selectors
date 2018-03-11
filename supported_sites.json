@@ -2972,7 +2972,7 @@
   "url":"http://willsaveworldforgold.com/",
   "title":"Will Save World for Gold",
   "imageUrl":"http://willsaveworldforgold.com/extras/Odivallusthumb.png",
-  "imageSelector":"#comic > img",
+  "imageSelector":"#comic img",
   "imageIndex":"0",
   "firstSelector":".navi-first",
   "firstIndex":"0",
