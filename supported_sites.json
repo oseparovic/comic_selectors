@@ -1,5 +1,20 @@
 [
-  http://assets.amuniversal.com/093ad9d0e45e01351229005056a9545d
+  
+{
+  "url":"http://www.gocomics.com/9chickweedlane",
+  "title":"9 Chickweed Lane",
+  "imageUrl":"http://assets.amuniversal.com/093ad9d0e45e01351229005056a9545d",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/9chickweedlane",
+  "lastIndex":"-1"
+},
 {
   "url":"http://www.gocomics.com/nonsequitur",
   "title":"Non Sequitur",
