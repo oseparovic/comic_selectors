@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://www.gocomics.com/pluggers",
+  "title":"Non Sequitur",
+  "imageUrl":"http://assets.amuniversal.com/1a418090038501361dda005056a9545d",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/nonsequitur",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.berkeleymews.com/",
   "title":"Berkeley Mews",
   "imageUrl":"http://www.berkeleymews.com/comics/2009-12-27-heaven-winner.jpg",
