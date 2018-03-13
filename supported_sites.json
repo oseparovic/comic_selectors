@@ -183,7 +183,7 @@
 {
   "url":"https://www.arcamax.com/thefunnies/zits/",
   "title":"Zits",
-  "imageUrl":"https://www.arcamax.com/newspics/158/15815/1581591.gif",
+  "imageUrl":"https://www.arcamax.com/newspics/160/16086/1608617.gif",
   "imageSelector":"img#comic-zoom",
   "imageIndex":"0",
   "prevSelector":"a.prev",
@@ -1649,7 +1649,7 @@
 {
   "url":"http://botchedspot.com",
   "title":"Botched Spot",
-  "imageUrl":"http://botchedspot.com/wp-content/blogs.dir/1/files/2016/03/2016-03-04-hulk-gawker.jpg",
+  "imageUrl":"https://botchedspot.com/wp-content/blogs.dir/1/files/2018/03/2018-03-12-history-tree-of-woe.jpg",
   "imageSelector":"#comic img",
   "imageIndex":"0",
   "firstSelector":".comic-nav-first",
@@ -1683,7 +1683,7 @@
 {
   "url":"http://www.thegamercat.com/",
   "title":"The GaMERCaT",
-  "imageUrl":"http://www.thegamercat.com/wordpress/wp-content/uploads/2016/12/gamercat_209.jpg",
+  "imageUrl":"http://thegamercat.com/wp-content/uploads/2017/12/gamercat_264.jpg",
   "imageSelector":"#comic img",
   "imageIndex":"0",
   "nextSelector":".comic-nav-next",
@@ -1791,7 +1791,7 @@
 {
   "url":"http://www.schlockmercenary.com/",
   "title":"Schlock Mercenary",
-  "imageUrl":"http://www.schlockmercenary.com/strip/6015/0/schlock20161130.jpg?v=1480015709692",
+  "imageUrl":"https://www.schlockmercenary.com/strip/6483/0/schlock20180312.jpg?v=1520551496101",
   "imageSelector":".strip-image-wrapper img",
   "imageIndex":"0",
   "firstSelector":"http://www.schlockmercenary.com/2000-06-12",
@@ -1979,7 +1979,7 @@
 {
   "url":"http://www.megacynics.com/",
   "title":"MegaCynics",
-  "imageUrl":"http://www.megacynics.com/img/comics/000880.jpg",
+  "imageUrl":"https://www.megacynics.com/img/comics/001095.jpg",
   "imageSelector":".mc-body-comic-stage-wrap img",
   "imageIndex":"0",
   "firstSelector":".nav_rewind",
@@ -1996,7 +1996,7 @@
 {
   "url":"http://www.whompcomic.com/",
   "title":"Whomp!",
-  "imageUrl":"http://www.whompcomic.com/comics/1476663726-2016-10-17-Then-And-Chow.jpg",
+  "imageUrl":"https://www.whompcomic.com/comics/1520811125-2018-03-12-The-Puke-Stops-Here.jpg",
   "imageSelector":"#cc-comic",
   "imageIndex":"0",
   "firstSelector":".first",
@@ -2013,7 +2013,7 @@
 {
   "url":"http://www.loadingartist.com/latest",
   "title":"Loading Artist",
-  "imageUrl":"http://www.loadingartist.com/wp-content/uploads/2016/10/2016-10-06-time-and-plays.jpg",
+  "imageUrl":"https://loadingartist.com/wp-content/uploads/2018/02/2018-03-08-lifes-a-beach.jpg",
   "imageSelector":".col .comic img[src]",
   "imageIndex":"0",
   "firstSelector":".first",
@@ -2309,7 +2309,7 @@
 {
   "url":"http://www.smbc-comics.com/",
   "title":"Saturday Morning Breakfast Cereal (smbc)",
-  "imageUrl":"http://www.smbc-comics.com/comics/20131026.png",
+  "imageUrl":"https://www.smbc-comics.com/comics/1520872044-20180312.png",
   "imageSelector":"#cc-comic",
   "imageIndex":"0",
   "firstSelector":".first",
@@ -2574,7 +2574,7 @@
 {
   "url":"http://www.girlswithslingshots.com/",
   "title":"Girls With Slingshots",
-  "imageUrl":"http://www.girlswithslingshots.com/comics/1467093416-GWS341.jpg",
+  "imageUrl":"https://girlswithslingshots.com/comics/1520403202-GWS785.jpg",
   "imageSelector":"#cc-comicbody img",
   "imageIndex":"0",
   "firstSelector":".first",
@@ -3024,7 +3024,7 @@
 {
   "url":"http://megatokyo.com/",
   "title":"Megatokyo",
-  "imageUrl":"http://megatokyo.com/strips/1434.gif",
+  "imageUrl":"https://megatokyo.com/strips/1509.png",
   "imageSelector":"#strip img",
   "imageIndex":"0",
   "firstSelector":"http://megatokyo.com/strip/1",
