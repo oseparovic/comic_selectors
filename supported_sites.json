@@ -2277,7 +2277,7 @@
 {
   "url":"http://www.thingsinsquares.com/",
   "title":"Things in Squares",
-  "imageUrl":"http://www.thingsinsquares.com/wp-content/uploads/old-woman-dream-comic.jpg",
+  "imageUrl":"https://www.thingsinsquares.com/wp-content/uploads/tryouts-comic.png",
   "imageSelector":".entry-content img",
   "imageIndex":"0",
   "firstSelector":"a:has(.arrow-first)",
