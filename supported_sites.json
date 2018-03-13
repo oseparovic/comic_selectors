@@ -3,7 +3,7 @@
   "url":"http://www.bearnutscomic.com/",
   "title":"Bear Nuts",
   "imageUrl":"http://www.bearnutscomic.com/comics/2018-03-12-621-bear-nuts.jpg",
-  "imageSelector":".item-comic-image img",
+  "imageSelector":"#comic img",
   "imageIndex":"0",
   "firstSelector":"http://www.bearnutscomic.com/2008/08/17/01-bear-nuts/",		
   "firstIndex":"-1",		
