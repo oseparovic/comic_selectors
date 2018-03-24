@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://www.gocomics.com/tomthedancingbug",
+  "title":"Tom the Dancing Bug",
+  "imageUrl":"http://assets.amuniversal.com/8441f3400ebf01362241005056a9545d",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/tomthedancingbug",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.gocomics.com/theargylesweater",
   "title":"The Argyle Sweater",
   "imageUrl":"http://assets.amuniversal.com/d8a8f880087201361fda005056a9545d",
