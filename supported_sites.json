@@ -2020,7 +2020,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/foxtrot/",
+  "url":"http://www.gocomics.com/foxtrot/1988/04/11",
   "title":"FoxTrot",
   "imageUrl":"http://assets.amuniversal.com/a0b7c9d0f481012e2fb900163e41dd5b",
   "imageSelector":".item-comic-image img",
@@ -2035,7 +2035,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/bignate/",
+  "url":"http://www.gocomics.com/bignate/1991/01/07",
   "title":"Big Nate",
   "imageUrl":"http://assets.amuniversal.com/1fbaba60e6dd012e2fb300163e41dd5b",
   "imageSelector":".item-comic-image img",
@@ -2050,7 +2050,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/baldo/",
+  "url":"http://www.gocomics.com/baldo/2000/01/01",
   "title":"Baldo",
   "imageUrl":"http://assets.amuniversal.com/503d0f40a37c01340dfd005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -2065,7 +2065,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/getfuzzy/",
+  "url":"http://www.gocomics.com/getfuzzy/1999/09/06",
   "title":"Get Fuzzy",
   "imageUrl":"http://assets.amuniversal.com/ad525190a2ca01340d2f005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -2080,7 +2080,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/pearlsbeforeswine/",
+  "url":"http://www.gocomics.com/pearlsbeforeswine/2002/01/07",
   "title":"Pearls Before Swine",
   "imageUrl":"http://assets.amuniversal.com/9afdd460028b012f2fbf00163e41dd5b",
   "imageSelector":".item-comic-image img",
@@ -2174,7 +2174,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/spot-the-frog",
+  "url":"http://www.gocomics.com/spot-the-frog/2004/01/05",
   "title":"Spot the Frog",
   "imageUrl":"http://assets.amuniversal.com/cc45ecb074fe012ee3c400163e41dd5b",
   "imageSelector":".item-comic-image img",
@@ -2267,7 +2267,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/garfield",
+  "url":"http://www.gocomics.com/garfield/1978/06/19",
   "title":"Garfield",
   "imageUrl":"https://d1ejxu6vysztl5.cloudfront.net/comics/garfield/2016/2016-11-30.gif",
   "imageSelector":".item-comic-image img",
@@ -2282,7 +2282,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/calvinandhobbes/",
+  "url":"http://www.gocomics.com/calvinandhobbes/1985/11/18",
   "title":"Calvin and Hobbes",
   "imageUrl":"http://assets.amuniversal.com/b373c0b077f30134dd61005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -2791,7 +2791,7 @@
   "donateUrl":"https://www.patreon.com/redpanels"
 },
 {
-  "url":"http://www.gocomics.com/jim-benton-cartoons",
+  "url":"http://www.gocomics.com/jim-benton-cartoons/2014/06/12",
   "title":"Jim Benton Cartoons",
   "imageUrl":"http://jimbenton.com/page14/files/JimBentonComic-Halloween.jpg",
   "imageSelector":".item-comic-image img",
