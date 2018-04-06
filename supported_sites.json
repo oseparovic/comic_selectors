@@ -553,7 +553,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/9chickweedlane",
+  "url":"http://www.gocomics.com/9chickweedlane/1993/07/13",
   "title":"9 Chickweed Lane",
   "imageUrl":"http://assets.amuniversal.com/093ad9d0e45e01351229005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -564,11 +564,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/9chickweedlane",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/nonsequitur",
+  "url":"http://www.gocomics.com/nonsequitur/1992/02/16",
   "title":"Non Sequitur",
   "imageUrl":"http://assets.amuniversal.com/1a418090038501361dda005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -579,8 +579,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/nonsequitur",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.berkeleymews.com/",
@@ -1109,7 +1109,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/pluggers",
+  "url":"http://www.gocomics.com/pluggers/2001/04/08",
   "title":"Pluggers",
   "imageUrl":"http://avatar.amuniversal.com/feature_avatars/hero_images/features/tmplu/large_hero-201701251517.png",
   "imageSelector":".item-comic-image img",
@@ -1120,11 +1120,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/pluggers",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/foxtrotclassics",
+  "url":"http://www.gocomics.com/foxtrotclassics/2007/01/01",
   "title":"FoxTrot Classics",
   "imageUrl":"http://avatar.amuniversal.com/feature_avatars/hero_images/features/ftcl/large_hero-201701251521.png",
   "imageSelector":".item-comic-image img",
@@ -1135,8 +1135,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/foxtrotclassics",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.d20monkey.com/",
@@ -1632,7 +1632,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/dilbert-classics",
+  "url":"http://www.gocomics.com/dilbert-classics/2012/06/13",
   "title":"Dilbert Classics",
   "imageUrl":"http://assets.amuniversal.com/d3c70c80bb060134314d005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -1643,8 +1643,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/dilbert-classics",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.lfg.co/page/1",
@@ -1691,7 +1691,7 @@
   "donateUrl":"https://www.patreon.com/user?u=872675"
 },
 {
-  "url":"http://www.gocomics.com/pickles",
+  "url":"http://www.gocomics.com/pickles/2003/01/01",
   "title":"Pickles",
   "imageUrl":"http://assets.amuniversal.com/e6a9ba50bc25013432dd005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -1702,8 +1702,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/pickles",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.stationv3.com/",
@@ -1718,21 +1718,6 @@
   "nextSelector":"a:has(img[src=http://www.stationv3.com/images/next2.gif])",
   "nextIndex":"0",
   "lastSelector":"http://www.stationv3.com/",
-  "lastIndex":"-1"
-},
-{
-  "url":"http://www.gocomics.com/luann",
-  "title":"Luann",
-  "imageUrl":"http://assets.amuniversal.com/b405c7f0ace501341c8f005056a9545d",
-  "imageSelector":".item-comic-image img",
-  "imageIndex":"0",
-  "firstSelector":".fa-backward",
-  "firstIndex":"0",
-  "prevSelector":".fa-caret-left",
-  "prevIndex":"0",
-  "nextSelector":".fa-caret-right",
-  "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/luann",
   "lastIndex":"-1"
 },
 {
@@ -1828,7 +1813,7 @@
   "donateUrl":"https://www.patreon.com/egscomics"
 },
 {
-  "url":"http://www.gocomics.com/fowl-language",
+  "url":"http://www.gocomics.com/fowl-language/2015/10/03",
   "title":"Fowl Language",
   "imageUrl":"http://assets.amuniversal.com/7ce13e300f0d0134679f005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -1975,7 +1960,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/luann/",
+  "url":"http://www.gocomics.com/luann/1985/03/17",
   "title":"Luann",
   "imageUrl":"http://assets.amuniversal.com/e18c8890bf07013435d3005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -1990,7 +1975,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/speedbump/",
+  "url":"http://www.gocomics.com/speedbump/2002/01/01",
   "title":"Speed Bump",
   "imageUrl":"http://assets.amuniversal.com/ce855ec0a1df01340c2e005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -2005,7 +1990,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/peanuts/",
+  "url":"http://www.gocomics.com/peanuts/1950/10/02",
   "title":"Peanuts",
   "imageUrl":"http://assets.amuniversal.com/e33a10c0f87b013014e9001dd8b71c47",
   "imageSelector":".item-comic-image img",
