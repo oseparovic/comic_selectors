@@ -118,7 +118,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/stevekelley",
+  "url":"http://www.gocomics.com/stevekelley/2005/01/05",
   "title":"Steve Kelley",
   "imageUrl":"http://assets.amuniversal.com/527711800fcc013622d4005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -129,11 +129,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/stevekelley",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/jerryholbert",
+  "url":"http://www.gocomics.com/jerryholbert/2011/06/01",
   "title":"Jerry Holbert",
   "imageUrl":"http://assets.amuniversal.com/bba3bb70103d01362311005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -144,11 +144,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/jerryholbert",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/bobgorrell",
+  "url":"http://www.gocomics.com/bobgorrell/2004/03/25",
   "title":"Bob Gorrell",
   "imageUrl":"http://assets.amuniversal.com/a9ff6c50105201362326005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -159,11 +159,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/bobgorrell",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/kencatalino",
+  "url":"http://www.gocomics.com/kencatalino/2005/01/04",
   "title":"Ken Catalino",
   "imageUrl":"http://assets.amuniversal.com/3f8bb2d00e18013621f5005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -174,11 +174,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/kencatalino",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/stevebreen",
+  "url":"http://www.gocomics.com/stevebreen/2008/08/01",
   "title":"Steve Breen",
   "imageUrl":"http://assets.amuniversal.com/ff78bfc0107301362330005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -189,11 +189,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/stevebreen",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/chipbok",
+  "url":"http://www.gocomics.com/chipbok/2002/08/09",
   "title":"Chip Bok",
   "imageUrl":"http://assets.amuniversal.com/4a9bdf00113d0136237b005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -204,11 +204,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/chipbok",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/theflyingmccoys",
+  "url":"http://www.gocomics.com/theflyingmccoys/2005/05/09",
   "title":"The Flying McCoys",
   "imageUrl":"http://assets.amuniversal.com/fcbaa570087201361fda005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -219,8 +219,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/theflyingmccoys",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.gocomics.com/closetohome",
