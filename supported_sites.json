@@ -15,7 +15,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/ben",
+  "url":"http://www.gocomics.com/ben/2009/01/01",
   "title":"Ben",
   "imageUrl":"http://assets.amuniversal.com/d952d6f012c6013623c0005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -26,8 +26,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/ben",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"https://www.arcamax.com/thefunnies/culdesac/",
@@ -43,7 +43,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/robert-ariail",
+  "url":"http://www.gocomics.com/robert-ariail/2011/06/01",
   "title":"Robert Ariail",
   "imageUrl":"http://assets.amuniversal.com/1d9ada600ea50136222e005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -54,11 +54,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/robert-ariail",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/garyvarvel",
+  "url":"http://www.gocomics.com/garyvarvel/1993/12/10",
   "title":"Gary Varvel",
   "imageUrl":"http://assets.amuniversal.com/f0b5449010f90136235d005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -69,11 +69,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/garyvarvel",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/danasummers",
+  "url":"http://www.gocomics.com/danasummers/2001/04/23",
   "title":"Dana Summers",
   "imageUrl":"http://assets.amuniversal.com/fe19b340108a01362336005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -84,11 +84,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/danasummers",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/glennmccoy",
+  "url":"http://www.gocomics.com/glennmccoy/1999/08/25",
   "title":"Glenn McCoy",
   "imageUrl":"http://assets.amuniversal.com/e78b1e40110601362368005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -99,11 +99,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/glennmccoy",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/mike-lester",
+  "url":"http://www.gocomics.com/mike-lester/2011/09/15",
   "title":"Mike Lester",
   "imageUrl":"http://assets.amuniversal.com/dee1f8b0112201362375005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -114,8 +114,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/mike-lester",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.gocomics.com/stevekelley",
