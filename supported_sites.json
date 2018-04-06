@@ -223,7 +223,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/closetohome",
+  "url":"http://www.gocomics.com/closetohome/1992/12/07",
   "title":"Close to Home",
   "imageUrl":"http://assets.amuniversal.com/1dccf870093c01362038005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -234,11 +234,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/closetohome",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/inthebleachers",
+  "url":"http://www.gocomics.com/inthebleachers/1986/04/10",
   "title":"In the Bleachers",
   "imageUrl":"http://assets.amuniversal.com/0fe91b10087301361fda005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -249,11 +249,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/inthebleachers",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/tomthedancingbug",
+  "url":"http://www.gocomics.com/tomthedancingbug/1998/01/04",
   "title":"Tom the Dancing Bug",
   "imageUrl":"http://assets.amuniversal.com/8441f3400ebf01362241005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -264,11 +264,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/tomthedancingbug",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/theargylesweater",
+  "url":"http://www.gocomics.com/theargylesweater/2006/03/01",
   "title":"The Argyle Sweater",
   "imageUrl":"http://assets.amuniversal.com/d8a8f880087201361fda005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -279,11 +279,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/theargylesweater",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/nancy/",
+  "url":"http://www.gocomics.com/nancy/1996/01/29",
   "title":"Nancy",
   "imageUrl":"http://assets.amuniversal.com/2837e4a002ce01361d90005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -294,11 +294,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/nancy/",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/animalcrackers/",
+  "url":"http://www.gocomics.com/animalcrackers/2001/04/08",
   "title":"Animal Crackers",
   "imageUrl":"http://assets.amuniversal.com/368826c0f9d101351a46005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -309,8 +309,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/animalcrackers/",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://sallyforth.com/",
@@ -328,7 +328,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/duplex",
+  "url":"http://www.gocomics.com/duplex/1996/08/12",
   "title":"The Duplex",
   "imageUrl":"http://assets.amuniversal.com/5770d99002cb01361d8d005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -339,8 +339,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/duplex",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.gocomics.com/monty/2001/04/02",
