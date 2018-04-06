@@ -1,6 +1,6 @@
 [
 {
-  "url":"http://www.gocomics.com/thefuscobrothers",
+  "url":"http://www.gocomics.com/thefuscobrothers/1998/01/01",
   "title":"The Fusco Brothers",
   "imageUrl":"http://assets.amuniversal.com/f39121701352013623ee005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -11,8 +11,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/thefuscobrothers",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.gocomics.com/ben",
