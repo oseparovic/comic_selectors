@@ -103,7 +103,7 @@
   "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/mike-lester",
+  "url":"http://www.gocomics.com/mike-lester/2011/09/15",
   "title":"Mike Lester",
   "imageUrl":"http://assets.amuniversal.com/dee1f8b0112201362375005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -114,8 +114,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/mike-lester",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.gocomics.com/stevekelley",
