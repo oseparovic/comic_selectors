@@ -343,7 +343,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/monty",
+  "url":"http://www.gocomics.com/monty/2001/04/02",
   "title":"Monty",
   "imageUrl":"http://assets.amuniversal.com/c13c4680030301361db0005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -354,11 +354,11 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/monty",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
-  "url":"http://www.gocomics.com/poochcafe",
+  "url":"http://www.gocomics.com/poochcafe/2003/04/27",
   "title":"Pooch Cafe",
   "imageUrl":"http://assets.amuniversal.com/7a5735f002cb01361d8d005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -369,8 +369,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/poochcafe",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.bearnutscomic.com/",
@@ -388,7 +388,7 @@
   "lastIndex":"-1"
 },
 {
-  "url":"http://www.gocomics.com/arloandjanis",
+  "url":"http://www.gocomics.com/arloandjanis/1994/05/02",
   "title":"Arlo and Janis",
   "imageUrl":"http://assets.amuniversal.com/06d3eb5002e301361d9d005056a9545d",
   "imageSelector":".item-comic-image img",
@@ -399,8 +399,8 @@
   "prevIndex":"0",
   "nextSelector":".fa-caret-right",
   "nextIndex":"0",
-  "lastSelector":"http://www.gocomics.com/arloandjanis",
-  "lastIndex":"-1"
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
 },
 {
   "url":"http://www.gocomics.com/wizardofid/2002/01/01",
