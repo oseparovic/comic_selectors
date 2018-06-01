@@ -3836,5 +3836,22 @@
   "lastIndex":"-1",
   "donateUrl":"",
   "nsfw":false
+ },
+ {
+  "url":"http://goblinscomic.org/",
+  "title":"Goblins",
+  "imageUrl":"http://goblinscomic.com/comics/20170517.jpg",
+  "imageSelector":"#cc-comic",
+  "imageIndex":"0",
+  "firstSelector":".first",
+  "firstIndex":"0",
+  "prevSelector":".prev",
+  "prevIndex":"0",
+  "nextSelector":".next",
+  "nextIndex":"0",
+  "lastSelector":".last",
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/Goblins",
+  "nsfw":false
  }
 ]
