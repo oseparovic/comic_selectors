@@ -3853,5 +3853,22 @@
   "lastIndex":"0",
   "donateUrl":"https://www.patreon.com/Goblins",
   "nsfw":false
+ },
+ {
+  "url":"http://thepropertyofhate.com/TPoH/",
+  "title":"The Property of Hate",
+  "imageUrl":"http://thepropertyofhate.com/comics/tpoh_547dfae6a2683.jpg",
+  "imageSelector":"div.comic_comic > img",
+  "imageIndex":"0",
+  "firstSelector":"div.comic_navbar > a",
+  "firstIndex":"0",
+  "prevSelector":"div.comic_navbar > a",
+  "prevIndex":"1",
+  "nextSelector":"div.comic_navbar > a",
+  "nextIndex":"2",
+  "lastSelector":"div.comic_navbar > a",
+  "lastIndex":"3",
+  "donateUrl":"https://www.patreon.com/sarahjolley",
+  "nsfw":false
  }
 ]
