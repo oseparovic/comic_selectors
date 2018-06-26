@@ -2873,18 +2873,18 @@
   "url":"http://explosm.net/",
   "title":"Cyanide & Happiness",
   "imageUrl":"http://files.explosm.net/comics/Kris/pulled.png",
-  "imageSelector":".small-12.medium-12.large-12.columns img",
+  "imageSelector":"img#main-comic",
   "imageIndex":"0",
-  "firstSelector":"http://explosm.net/comics/oldest",
-  "firstIndex":"-1",
-  "prevSelector":".previous-comic",
-  "prevIndex":"0",
-  "randomSelector":".random-comic-link",
-  "randomIndex":"0",
-  "nextSelector":".next-comic",
-  "nextIndex":"0",
-  "lastSelector":"http://explosm.net/",
-  "lastIndex":"-1"
+  "firstSelector":"div.comic-nav > a",
+  "firstIndex":"0",
+  "prevSelector":"div.comic-nav > a",
+  "prevIndex":"1",
+  "randomSelector":"div.comic-nav > a",
+  "randomIndex":"2",
+  "nextSelector":"div.comic-nav > a",
+  "nextIndex":"3",
+  "lastSelector":"div.comic-nav > a",
+  "lastIndex":"4"
 },
 {
   "url":"http://www.safelyendangered.com/",
@@ -3852,6 +3852,23 @@
   "lastSelector":".last",
   "lastIndex":"0",
   "donateUrl":"https://www.patreon.com/Goblins",
+  "nsfw":false
+ },
+ {
+  "url":"http://thepropertyofhate.com/TPoH/",
+  "title":"The Property of Hate",
+  "imageUrl":"http://thepropertyofhate.com/comics/tpoh_547dfae6a2683.jpg",
+  "imageSelector":"div.comic_comic > img",
+  "imageIndex":"0",
+  "firstSelector":"div.comic_navbar > a",
+  "firstIndex":"0",
+  "prevSelector":"div.comic_navbar > a",
+  "prevIndex":"1",
+  "nextSelector":"div.comic_navbar > a",
+  "nextIndex":"2",
+  "lastSelector":"div.comic_navbar > a",
+  "lastIndex":"3",
+  "donateUrl":"https://www.patreon.com/sarahjolley",
   "nsfw":false
  }
 ]
