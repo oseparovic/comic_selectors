@@ -3872,5 +3872,22 @@
   "lastIndex":"3",
   "donateUrl":"https://www.patreon.com/sarahjolley",
   "nsfw":false
+ },
+ {
+  "url":"http://yesthievescan.com",
+  "title":"Thieves Can't",
+  "imageUrl":"http://www.yesthievescan.com/wp-content/uploads/2018/05/TC-Logo-01-1.png",
+  "imageSelector":"img.attachment-full",
+  "imageIndex":"0",
+  "firstSelector":"a.first-webcomic-link",
+  "firstIndex":"0",
+  "prevSelector":"a.previous-webcomic-link",
+  "prevIndex":"0",
+  "nextSelector":"a.next-webcomic-link",
+  "nextIndex":"0",
+  "lastSelector":"a.last-webcomic-link",
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/thievescant",
+  "nsfw":false
  }
 ]
