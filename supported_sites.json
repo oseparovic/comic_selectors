@@ -3890,5 +3890,20 @@
   "lastIndex":"0",
   "donateUrl":"https://www.patreon.com/thievescant",
   "nsfw":false
+ },
+ {
+  "url":"http://introvertdoodles.com/",
+  "title":"Introvert Doodles",
+  "imageUrl":"http://i0.wp.com/introvertdoodles.com/wp-content/uploads/2015/09/cover.png?w=505",
+  "imageSelector":".attachment-panel-comic-strip",
+  "imageIndex":"0",
+  "prevSelector":".nav-previous a",
+  "prevIndex":"0",
+  "nextSelector":".nav-next a",
+  "nextIndex":"0",
+  "randomSelector":"http://introvertdoodles.com/comic/?random",
+  "randomIndex":"-1",
+  "donateUrl":"http://introvertdoodles.com/shop-introvert-doodles/",
+  "nsfw":false
  }
 ]
