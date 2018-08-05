@@ -3017,7 +3017,7 @@
   "url":"http://www.girlgeniusonline.com/comic.php",
   "title":"Girl Genius Online",
   "imageUrl": "http://www.girlgeniusonline.com/ggmain/strips/ggmain20160624.jpg",
-  "imageSelector":"#comicbody img",
+  "imageSelector":"#comicbody img[alt=Comic]",
   "imageIndex":"0",
   "firstSelector":"#topfirst",
   "firstIndex":"0",
