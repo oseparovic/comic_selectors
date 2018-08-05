@@ -2868,7 +2868,6 @@
   "lastIndex":"0",
   "donateUrl":"https://www.patreon.com/ryanhudson"
 },
-
 {
   "url":"http://explosm.net/",
   "title":"Cyanide & Happiness",
@@ -2884,7 +2883,8 @@
   "nextSelector":"div.comic-nav > a",
   "nextIndex":"3",
   "lastSelector":"div.comic-nav > a",
-  "lastIndex":"4"
+  "lastIndex":"4",
+  "donateUrl":"https://www.patreon.com/cyanide_and_happiness/overview"
 },
 {
   "url":"http://www.safelyendangered.com/",
