@@ -940,21 +940,20 @@
   "unsupported":true
   },
   {
-  "url":"https://bizarro.com/daily-comic/",
+  "url":"http://comicskingdom.com/bizarro/today",
   "title":"Bizarro",
   "imageUrl":"https://safr.kingfeatures.com/idn/v2/js/img.php?i=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CaXphcnJvLzIwMTgvMDcvQml6YXJyb19wLjIwMTgwNzMxLnBuZw",
-  "imageSelector":"img#kfs-comic",
+  "imageSelector":".overlay img",
   "imageIndex":"0",
   "firstSelector":"https://bizarro.com/daily-comic/?fd=1996-02-04",
   "firstIndex":"-1",
-  "prevSelector":"a[rel=prev]",
+  "prevSelector":"a:has(i.fa-caret-left)",
   "prevIndex":"0",
-  "nextSelector":"a[rel=next]",
+  "nextSelector":"a:has(i.fa-caret-right)",
   "nextIndex":"0",
-  "lastSelector":"https://bizarro.com/daily-comic/",
+  "lastSelector":"http://comicskingdom.com/bizarro/today",
   "lastIndex":"-1",
-  "donateUrl":"http://bizarro.com/",
-  "unsupported":true
+  "donateUrl":"https://bizarro.com/tip-jar/"
   },
   {
   "url":"http://tardaasa.thecomicseries.com/comics/",
