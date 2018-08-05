@@ -3903,6 +3903,8 @@
   "nextIndex":"0",
   "randomSelector":"http://introvertdoodles.com/comic/?random",
   "randomIndex":"-1",
+  "lastSelector":"http://introvertdoodles.com/",
+  "lastIndex":"-1",
   "donateUrl":"http://introvertdoodles.com/shop-introvert-doodles/",
   "nsfw":false
  }
