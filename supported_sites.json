@@ -946,14 +946,15 @@
   "imageSelector":"img#kfs-comic",
   "imageIndex":"0",
   "firstSelector":"https://bizarro.com/daily-comic/?fd=1996-02-04",
-  "firstIndex":"0",
+  "firstIndex":"-1",
   "prevSelector":"a[rel=prev]",
   "prevIndex":"0",
   "nextSelector":"a[rel=next]",
   "nextIndex":"0",
   "lastSelector":"https://bizarro.com/daily-comic/",
-  "lastIndex":"0",
-  "donateUrl":"http://bizarro.com/"
+  "lastIndex":"-1",
+  "donateUrl":"http://bizarro.com/",
+  "unsupported":true
   },
   {
   "url":"http://tardaasa.thecomicseries.com/comics/",
