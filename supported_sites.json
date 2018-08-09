@@ -3902,5 +3902,20 @@
   "lastIndex":"-1",
   "donateUrl":"http://introvertdoodles.com/shop-introvert-doodles/",
   "nsfw":false
+ },
+ {
+  "url":"http://freefall.purrsia.com/",
+  "title":"Freefall",
+  "imageUrl":"http://freefall.purrsia.com/ff3200/fc03159.png",
+  "imageSelector":"body>a>img",
+  "imageIndex":"0",
+  "prevSelector":"body>a",
+  "prevIndex":"1",
+  "nextSelector":"body>a",
+  "nextIndex":"3",
+  "lastSelector":"http://freefall.purrsia.com/",
+  "lastIndex":"-1",
+  "donateUrl":"https://www.patreon.com/freefall",
+  "nsfw":false
  }
 ]
