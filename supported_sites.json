@@ -704,16 +704,18 @@
   "lastIndex":"-1"
 },
 {
-  "url":"https://www.arcamax.com/thefunnies/zits/",
+  "url":"http://zitscomics.com/",
   "title":"Zits",
-  "imageUrl":"https://www.arcamax.com/newspics/160/16086/1608617.gif",
-  "imageSelector":"img#comic-zoom",
+  "imageUrl":"https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9aaXRzLzIwMTgvMDkvWml0cy4yMDE4MDkxMF85MDAuZ2lm",
+  "imageSelector":"#comicpanel img",
   "imageIndex":"0",
-  "prevSelector":"a.prev",
+  "firstSelector":"#firstcomic a",
+  "firstIndex":"0",
+  "prevSelector":"#previouscomic a",
   "prevIndex":"0",
-  "nextSelector":"a.next",
+  "nextSelector":"#nextcomic a",
   "nextIndex":"0",
-  "lastSelector":"https://www.arcamax.com/thefunnies/zits/",
+  "lastSelector":"http://zitscomics.com/",
   "lastIndex":"-1"
 },
 {
