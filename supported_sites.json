@@ -1,6 +1,21 @@
 [
 {
-"url":"http://www.gocomics.com/fminus/2005/05/10",
+  "url":"http://www.samandfuzzy.com/",
+  "title":"Sam & Fuzzy",
+  "imageUrl":"http://www.samandfuzzy.com/img/comics/002576.gif",
+  "imageSelector":".comic-image",
+  "imageIndex":"0",
+  "firstSelector":"http://www.samandfuzzy.com/1",
+  "firstIndex":"-1",
+  "prevSelector":".prev-page a",
+  "prevIndex":"0",
+  "nextSelector":".next-page a",
+  "nextIndex":"0",
+  "lastSelector":"http://www.samandfuzzy.com",
+  "lastIndex":"-1"
+},
+{
+  "url":"http://www.gocomics.com/fminus/2005/05/10",
   "title":"F Minus",
   "imageUrl":"http://assets.amuniversal.com/045eae008f5f0136525d005056a9545d",
   "imageSelector":".item-comic-image img",
