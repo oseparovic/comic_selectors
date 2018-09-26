@@ -4015,5 +4015,19 @@
   "lastIndex":"-1",
   "donateUrl":"https://www.patreon.com/freefall",
   "nsfw":false
+ },
+ {
+  "url":"http://www.creators.com/read/one-big-happy",
+  "title":"One Big Happy",
+  "imageUrl":"https://www.creators.com/api/images/resize/300/300/aHR0cHM6Ly9jZG4uY3JlYXRvcnMuY29tL2ZlYXR1cmVzL29uZS1iaWctaGFwcHkuanBn",
+  "imageSelector":".fancybox img",
+  "imageIndex":"0",
+  "prevSelector":"#nav_prev",
+  "prevIndex":"0",
+  "nextSelector":"#nav_next",
+  "nextIndex":"0",
+  "lastSelector":"h5.title[itemprop='name'] a",
+  "lastIndex":"0",
+  "nsfw":false
  }
 ]
