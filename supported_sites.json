@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://www.gocomics.com/rubes/2002/01/01",
+  "title":"Rubes",
+  "imageUrl":"http://assets.amuniversal.com/6e2d80a07564013648ac005056a9545d",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":".fa-forward",
+  "lastIndex":"0"
+},
+{
   "url":"https://www.gocomics.com/dicktracy/2001/04/08",
   "title":"Dick Tracy",
   "imageUrl":"https://assets.amuniversal.com/0817d480636c012ee3c300163e41dd5b",
