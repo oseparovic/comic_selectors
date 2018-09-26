@@ -3999,5 +3999,18 @@
   "lastSelector":"h5.title[itemprop='name'] a",
   "lastIndex":"0",
   "nsfw":false
+ },
+ {
+  "url":"https://comicskingdom.com/mother-goose-grimm/",
+  "title":"Mother Goose & Grimm",
+  "imageUrl":"https://comicskingdom.com/system/features/81/headers/see_more.jpg?1385523990",
+  "imageSelector":"img[alt='Zone']",
+  "imageIndex":"0",
+  "prevSelector":"a:has(i.fa-caret-left)",
+  "prevIndex":"0",
+  "nextSelector":"a:has(i.fa-caret-right)",
+  "nextIndex":"0",
+  "lastSelector":"https://comicskingdom.com/mother-goose-grimm/",
+  "lastIndex":"-1"
  }
 ]
