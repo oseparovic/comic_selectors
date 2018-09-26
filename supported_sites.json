@@ -4011,6 +4011,7 @@
   "nextSelector":"a:has(i.fa-caret-right)",
   "nextIndex":"0",
   "lastSelector":"https://comicskingdom.com/mother-goose-grimm/",
-  "lastIndex":"-1"
+  "lastIndex":"-1",
+  "nsfw":false
  }
 ]
