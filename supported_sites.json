@@ -455,9 +455,9 @@
   "imageIndex":"0",
   "firstSelector":"http://www.bearnutscomic.com/2008/08/17/01-bear-nuts/",		
   "firstIndex":"-1",		
-  "prevSelector":"a:contains(? Previous)",		
+  "prevSelector":"a:contains(◄ Previous)",		
   "prevIndex":"0",		
-  "nextSelector":"a:contains(Next ?)",		
+  "nextSelector":"a:contains(Next ►)",		
   "nextIndex":"0",	
   "lastSelector":"http://www.bearnutscomic.com/",
   "lastIndex":"-1"
@@ -2291,9 +2291,9 @@
   "imageIndex":"0",
   "firstSelector":"http://pvponline.com/comic/mon-may-04",
   "firstIndex":"-1",
-  "prevSelector":"a:contains(? Prev)",
+  "prevSelector":"a:contains(◀ Prev)",
   "prevIndex":"0",
-  "nextSelector":"a:contains(Next ?)",
+  "nextSelector":"a:contains(Next ▶)",
   "nextIndex":"0",
   "lastSelector":"http://pvponline.com/comic",
   "lastIndex":"-1"
