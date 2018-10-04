@@ -4221,5 +4221,35 @@
   "nextIndex": 0,
   "lastSelector": ".fa-forward",
   "lastIndex": 0
+ },
+ {
+  "url": "http://beetlebailey.com/comics/january-7-1996/",
+  "title": "Beetle Bailey",
+  "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMTk5Ni8wMS9CZWV0bGVfQmFpbGV5X2hzLjE5OTYwMTA3XzkwMC5naWY=",
+  "imageSelector": "img[src^=https://safr.kingfeatures.com]",
+  "imageIndex": 0,
+  "firstSelector": "#firstcomic > a",
+  "firstIndex": 0,
+  "prevSelector": "#previouscomic > a",
+  "prevIndex": 0,
+  "nextSelector": "#nextcomic > a",
+  "nextIndex": 0,
+  "lastSelector": "#lastcomic > a",
+  "lastIndex": 0
+ },
+ {
+  "url": "http://dennisthemenace.com/comics/january-7-1996/",
+  "title": "dennisthemenace.com",
+  "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9EZW5uaXNUaGVNZW5hY2UvMTk5Ni8wMS9EZW5uaXNfVGhlX01lbmFjZV9ocy4xOTk2MDEwN185MDAuZ2lm",
+  "imageSelector": "img[src^=https://safr.kingfeatures.com]",
+  "imageIndex": 0,
+  "firstSelector": "#firstcomic > a",
+  "firstIndex": 0,
+  "prevSelector": "#previouscomic > a",
+  "prevIndex": 0,
+  "nextSelector": "#nextcomic > a",
+  "nextIndex": 0,
+  "lastSelector": "#lastcomic > a",
+  "lastIndex": 0
  }
 ]
