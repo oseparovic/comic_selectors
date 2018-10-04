@@ -4251,5 +4251,50 @@
   "nextIndex": 0,
   "lastSelector": "#lastcomic > a",
   "lastIndex": 0
+ },
+ {
+  "url": "https://www.gocomics.com/drabble/1990/01/11",
+  "title": "Drabble",
+  "imageUrl": "http://assets.amuniversal.com/1cced410837f0130279f001dd8b71c47",
+  "imageSelector": ".item-comic-image img",
+  "imageIndex": 0,
+  "firstSelector": ".fa-backward",
+  "firstIndex": 0,
+  "prevSelector": ".fa-caret-left",
+  "prevIndex": 0,
+  "nextSelector": ".fa-caret-right",
+  "nextIndex": 0,
+  "lastSelector": ".fa-forward",
+  "lastIndex": 0
+ },
+ {
+  "url": "https://www.gocomics.com/stonesoup/1995/11/20",
+  "title": "Stone Soup",
+  "imageUrl": "http://assets.amuniversal.com/8a678720aea00130da94001dd8b71c47",
+  "imageSelector": ".item-comic-image img",
+  "imageIndex": 0,
+  "firstSelector": ".fa-backward",
+  "firstIndex": 0,
+  "prevSelector": ".fa-caret-left",
+  "prevIndex": 0,
+  "nextSelector": ".fa-caret-right",
+  "nextIndex": 0,
+  "lastSelector": ".fa-forward",
+  "lastIndex": 0
+ },
+ {
+  "url": "https://www.gocomics.com/thebuckets/1996/02/19",
+  "title": "The Buckets",
+  "imageUrl": "http://assets.amuniversal.com/1065ca8082bf0130270b001dd8b71c47",
+  "imageSelector": ".item-comic-image img",
+  "imageIndex": 0,
+  "firstSelector": ".fa-backward",
+  "firstIndex": 0,
+  "prevSelector": ".fa-caret-left",
+  "prevIndex": 0,
+  "nextSelector": ".fa-caret-right",
+  "nextIndex": 0,
+  "lastSelector": ".fa-forward",
+  "lastIndex": 0
  }
 ]
