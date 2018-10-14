@@ -4298,5 +4298,23 @@
   "nextIndex": 0,
   "lastSelector": ".fa-forward",
   "lastIndex": 0
- }
+ },
+ {
+  "url": "https://www.bugmartini.com/",
+  "title": "Bug Martini",
+  "imageUrl": "https://www.bugmartini.com/wp-content/uploads/2018/10/2018-10-08_A_Tot_Mess.jpg",
+  "imageSelector": ".comic-table img",
+  "imageIndex": "0",
+  "firstSelector": "",
+  "firstIndex": "0",
+  "prevSelector": ".comic_navi_left a",
+  "prevIndex": "0",
+  "randomSelector": "https://www.bugmartini.com/?random&nocache=1",
+  "randomIndex": "-1",
+  "nextSelector": ".comic_navi_right a",
+  "nextIndex": "0",
+  "lastSelector": "",
+  "lastIndex": "0",
+  "donateUrl": "https://www.patreon.com/BugMartini",
+}
 ]
