@@ -6012,5 +6012,20 @@
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
     "lastIndex": 0
+  },
+  {
+    "url": "https://www.monkeyuser.com",
+    "title": "MonkeyUser",
+    "imageUrl": "https://www.monkeyuser.com/assets/images/2018/97-production-ready.png",
+    "imageSelector": ".content > p > img",
+    "imageIndex": 0,
+    "firstSelector": "https://www.monkeyuser.com/2016/project-lifecycle/",
+    "firstIndex": -1,
+    "prevSelector": ".prev > a",
+    "prevIndex": 0,
+    "nextSelector": ".next > a",
+    "nextIndex": 0,
+    "lastSelector": "https://www.monkeyuser.com/",
+    "lastIndex": -1
   }
 ]
