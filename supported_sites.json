@@ -5,7 +5,8 @@
     "imageUrl": "https://4.bp.blogspot.com/-pSPFADJhM5c/W7LvYGIbXOI/AAAAAAAAC_8/3xyr148tcdE7UVz3EhUgSrv9XmT4qfdMgCLcBGAs/s1600/avatar-halloweenBLOG.jpg",
     "imageSelector": ".article-content div a img",
     "imageIndex": 0,
-    "donateUrl":"https://www.patreon.com/Sephko"
+    "donateUrl":"https://www.patreon.com/Sephko",
+    "unsupported":true
   },
   {
     "url":"https://warandpeas.com/",
