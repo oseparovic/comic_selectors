@@ -6041,7 +6041,7 @@
     "url":"http://misfile.com/",
     "title":"Misfile",
     "imageUrl":"https://vignette.wikia.nocookie.net/misfile/images/5/5f/Angry.jpg",
-    "imageSelector":".comic2 > a > img",
+    "imageSelector":".comic2 img",
     "imageIndex":"0",
     "firstSelector":".comicnav > a",
     "firstIndex":"0",
