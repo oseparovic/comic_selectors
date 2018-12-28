@@ -2031,18 +2031,18 @@
   {
     "url": "http://www.sssscomic.com/comic.php",
     "title": "Stand Still. Stay Silent",
-    "imageUrl": "http://www.sssscomic.com/comicpages/658.jpg",
+    "imageUrl": "http://sssscomic.com/comicpages/1.jpg",
     "imageSelector": ".comicnormal",
     "imageIndex": "0",
     "firstSelector": "http://www.sssscomic.com/comic.php?page=1",
     "firstIndex": "-1",
-    "prevSelector": "a:has(#navprev)",
+    "prevSelector": "a:has(img[src$=prev.png])",
     "prevIndex": "0",
-    "nextSelector": "a:has(#navnext)",
+    "nextSelector": "a:has(img[src$=next.png])",
     "nextIndex": "0",
-    "lastSelector": "a:has(#navlast)",
+    "lastSelector": "a:has(img[src$=last.png])",
     "lastIndex": "0",
-    "donateUrl": "https://gumroad.com/l/sKIXz"
+    "donateUrl": "https://gumroad.com/minnasundberg"
   },
   {
     "url": "http://twokinds.keenspot.com/",
