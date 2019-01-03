@@ -6052,5 +6052,40 @@
     "lastSelector":".comicnav > a",
     "lastIndex":"4",
     "donateUrl":"http://www.misfile.com/donation.page"
+  },
+  {
+    "url":"http://rain.thecomicseries.com/comics/",
+    "title":"Rain",
+    "imageUrl":"http://rain.thecomicseries.com/images/comics/dfebc8f8d333973fadb59e1e6552ebbd454448621.png",
+    "imageSelector":"div#comicimagewrap > img",
+    "imageIndex":"0",
+    "firstSelector":"div#comicnav > a",
+    "firstIndex":"0",
+    "prevSelector":"div#comicnav > a",
+    "prevIndex":"1",
+    "randomSelector":"div#container > #navigation a",
+    "randomIndex":"2",
+    "nextSelector":"div#comicnav > a",
+    "nextIndex":"2",
+    "lastSelector":"div#comicnav > a",
+    "lastIndex":"3",
+    "donateUrl":"https://www.patreon.com/RainComic"
+  },
+  {
+    "url":"http://www.goodbyetohalos.com/comic",
+    "title":"Goodbye To Halos",
+    "imageUrl":"http://www.goodbyetohalos.com/comics/1525597087-800_title_zoom.jpg",
+    "imageSelector":"img#cc-comic",
+    "imageIndex":"0",
+    "firstSelector":"a.cc-first",
+    "firstIndex":"0",
+    "prevSelector":"a.cc-prev",
+    "prevIndex":"0",
+    "nextSelector":"a.cc-next",
+    "nextIndex":"0",
+    "lastSelector":"a.cc-next",
+    "lastIndex":"0",
+    "donateUrl":"https://www.patreon.com/goodbyetohalos",
+    "nsfw":true
   }
 ]
