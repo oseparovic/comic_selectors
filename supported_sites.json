@@ -6087,5 +6087,24 @@
     "lastIndex":"0",
     "donateUrl":"https://www.patreon.com/goodbyetohalos",
     "nsfw":true
+  },
+  {
+  "url":"https://www.webtoons.com/en/challenge/erma/erma-1-/viewer?title_no=170650&episode_no=1",
+  "title":"Erma",
+  "imageUrl":"https://webtoon-phinf.pstatic.net/20180414_23/1523661870693NBc6T_JPEG/a47c1852-93e0-4e47-9003-e4747f4125ca.jpg?type=q90",
+  "imageSelector":"#_imageList > img",
+  "imageIndex":"0",
+  "firstSelector":"[data-episode-no=1] > a",
+  "firstIndex":"0",
+  "prevSelector":"[title=Previous Episode]",
+  "prevIndex":"0",
+  "randomSelector":"https://www.webtoons.com/en/challenge/erma/erma-sleep-floating/viewer?title_no=170650&episode_no=149",
+  "randomIndex":"-1",
+  "nextSelector":"[title=Next Episode]",
+  "nextIndex":"0",
+  "lastSelector":"#_bottomEpisodeList > div.episode_cont > ul > li:nth-last-child(1) > a",
+  "lastIndex":"0",
+  "donateUrl":"http://www.bjsincorporated.com/",
+  "nsfw":false
   }
 ]
