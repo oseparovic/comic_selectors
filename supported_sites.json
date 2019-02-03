@@ -6090,7 +6090,8 @@
   "lastSelector":"#_bottomEpisodeList > div.episode_cont > ul > li:nth-last-child(1) > a",
   "lastIndex":"0",
   "donateUrl":"http://www.bjsincorporated.com/",
-  "nsfw":false
+  "nsfw":false,
+  "unsupported":true
   },
   {
     "url": "http://arcticcirclecartoons.com/comics/august-27-2007/",
