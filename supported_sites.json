@@ -175,19 +175,6 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.arcamax.com/thefunnies/culdesac/",
-    "title": "Cul de sac",
-    "imageUrl": "https://www.arcamax.com/newspics/161/16151/1615151.gif",
-    "imageSelector": "#comic-zoom",
-    "imageIndex": "0",
-    "prevSelector": ".prev",
-    "prevIndex": "0",
-    "nextSelector": ".next",
-    "nextIndex": "0",
-    "lastSelector": "https://www.arcamax.com/thefunnies/culdesac/",
-    "lastIndex": "-1"
-  },
-  {
     "url": "http://www.gocomics.com/robert-ariail/2011/06/01",
     "title": "Robert Ariail",
     "imageUrl": "http://assets.amuniversal.com/1d9ada600ea50136222e005056a9545d",
@@ -4250,20 +4237,18 @@
   "lastIndex": 0
  },
  {
-  "url": "http://beetlebailey.com/comics/january-7-1996/",
-  "title": "Beetle Bailey",
-  "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMTk5Ni8wMS9CZWV0bGVfQmFpbGV5X2hzLjE5OTYwMTA3XzkwMC5naWY=",
-  "imageSelector": "img[src^=https://safr.kingfeatures.com]",
-  "imageIndex": 0,
-  "firstSelector": "#firstcomic > a",
-  "firstIndex": 0,
-  "prevSelector": "#previouscomic > a",
-  "prevIndex": 0,
-  "nextSelector": "#nextcomic > a",
-  "nextIndex": 0,
-  "lastSelector": "#lastcomic > a",
-  "lastIndex": 0
- },
+    "url": "https://www.arcamax.com/thefunnies/beetlebailey/",
+    "title": "Beetle Bailey",
+    "imageUrl": "https://www.arcamax.com/newspics/cache/lw600/171/17138/1713898.jpg",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/beetlebailey/",
+    "lastIndex": "-1"
+  },
  {
   "url": "http://dennisthemenace.com/comics/january-7-1996/",
   "title": "dennisthemenace.com",
