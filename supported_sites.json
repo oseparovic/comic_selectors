@@ -550,18 +550,16 @@
     "lastIndex": "0"
   },
   {
-    "url": "http://hagarthehorrible.com/",
+    "url": "https://www.arcamax.com/thefunnies/hagarthehorrible/",
     "title": "Hagar the Horrible",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9IYWdhclRoZUhvcnJpYmxlLzIwMTgvMDMvSGFnYXJfVGhlX0hvcnJpYmxlLjIwMTgwMzEyXzkwMC5naWY=",
-    "imageSelector": "#comicpanel img",
+    "imageUrl": "https://www.arcamax.com/newspics/cache/lw600/171/17138/1713896.jpg",
+    "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
-    "firstSelector": "#firstcomic a",
-    "firstIndex": "0",
-    "prevSelector": "#previouscomic a",
+    "prevSelector": "a.prev",
     "prevIndex": "0",
-    "nextSelector": "#nextcomic a",
+    "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "http://hagarthehorrible.com/",
+    "lastSelector": "https://www.arcamax.com/thefunnies/hagarthehorrible/",
     "lastIndex": "-1"
   },
   {
