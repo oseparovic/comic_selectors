@@ -1428,18 +1428,16 @@
     "lastIndex": "-1"
   },
   {
-    "url": "http://babyblues.com/",
+    "url": "https://www.arcamax.com/thefunnies/babyblues/",
     "title": "Baby Blues",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMjAxNy8wNC9CYWJ5X0JsdWVzLjIwMTcwNDI3XzkwMC5naWY=",
-    "imageSelector": "#comic img",
+    "imageUrl": "https://www.arcamax.com/newspics/cache/lw600/171/17138/1713884.jpg",
+    "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
-    "firstSelector": "#firstcomic a",
-    "firstIndex": "0",
-    "prevSelector": "#previouscomic a",
+    "prevSelector": "a.prev",
     "prevIndex": "0",
-    "nextSelector": "#nextcomic a",
+    "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "http://babyblues.com/",
+    "lastSelector": "https://www.arcamax.com/thefunnies/babyblues/",
     "lastIndex": "-1"
   },
   {
