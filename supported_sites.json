@@ -756,18 +756,16 @@
     "lastIndex": "-1"
   },
   {
-    "url": "http://blondie.com/todays_strip/",
+    "url": "https://www.arcamax.com/thefunnies/blondie/",
     "title": "Blondie",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CbG9uZGllLzIwMTcvMTEvQmxvbmRpZS4yMDE3MTEyMl85MDAuZ2lm",
-    "imageSelector": "#comicpanel img",
+    "imageUrl": "https://www.arcamax.com/newspics/171/17145/1714501.gif",
+    "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
-    "firstSelector": "#firstcomic a",
-    "firstIndex": "0",
-    "prevSelector": "#previouscomic a",
+    "prevSelector": "a.prev",
     "prevIndex": "0",
-    "nextSelector": "#nextcomic a",
+    "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "http://blondie.com/todays_strip/",
+    "lastSelector": "https://www.arcamax.com/thefunnies/blondie/",
     "lastIndex": "-1"
   },
   {
