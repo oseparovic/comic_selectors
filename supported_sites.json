@@ -457,7 +457,8 @@
     "nextSelector": "#nextcomic a",
     "nextIndex": "0",
     "lastSelector": "http://sallyforth.com/",
-    "lastIndex": "-1"
+    "lastIndex": "-1",
+    "unsupported": true
   },
   {
     "url": "http://www.gocomics.com/duplex/1996/08/12",
@@ -2388,19 +2389,6 @@
     "nextSelector": "a:has(img[src=http://phdcomics.com/comics/images/next_button.gif])",
     "nextIndex": "0",
     "lastSelector": "http://phdcomics.com/",
-    "lastIndex": "-1"
-  },
-  {
-    "url": "http://doonesbury.washingtonpost.com/",
-    "title": "Doonesbury",
-    "imageUrl": "http://assets.amuniversal.com/da9cd40076b40134dbdf005056a9545d",
-    "imageSelector": ".strip",
-    "imageIndex": "0",
-    "prevSelector": "a:contains(Prev)",
-    "prevIndex": "0",
-    "nextSelector": "a:contains(Next)",
-    "nextIndex": "0",
-    "lastSelector": "http://doonesbury.washingtonpost.com/",
     "lastIndex": "-1"
   },
   {
