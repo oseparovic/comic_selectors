@@ -2902,8 +2902,8 @@
     "randomIndex": "2",
     "nextSelector": "div.comic-nav > a",
     "nextIndex": "3",
-    "lastSelector": "div.comic-nav > a",
-    "lastIndex": "4",
+    "lastSelector": "http://explosm.net/",
+    "lastIndex": "-1",
     "donateUrl": "https://www.patreon.com/cyanide_and_happiness/overview"
   },
   {
