@@ -1,3 +1,9 @@
+# What is this?
+
+This is the backend selector handling for the PageFlip comic reader app on Android: https://play.google.com/store/apps/details?id=com.printandpixel.pageflip2&hl=en_US
+
+The app uses css selectors to read and pull out comics and navigation links directly from the comic sites to provide them to the user in a mobile friendly universal format with browsing history, bookmarks and accessibility features
+
 # Adding comics
 Supported sites use the following format:
 
@@ -59,4 +65,4 @@ If you want to see how your added code will work:
 
 # Need help?
 
-If you have questions on how to do this, or have questions/suggestions about the app in general, feel free to email me at pageflip@printandpixel.ca
+If you have questions on how to do this, or have questions/suggestions about the app in general, feel free to open an issue on this project :)
