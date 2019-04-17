@@ -6036,21 +6036,6 @@
     "lastIndex": 0
   },
   {
-    "url": "http://babyblues.com/comics/january-8-1995/",
-    "title": "babyblues.com",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CYWJ5Qmx1ZXMvMTk5NS8wMS9CYWJ5X0JsdWVzX3FzLjE5OTUwMTA4XzkwMC5naWY=",
-    "imageSelector": "img[src^=https://safr.kingfeatures.com]",
-    "imageIndex": 0,
-    "firstSelector": "#firstcomic > a",
-    "firstIndex": 0,
-    "prevSelector": "#previouscomic > a",
-    "prevIndex": 0,
-    "nextSelector": "#nextcomic > a",
-    "nextIndex": 0,
-    "lastSelector": "#lastcomic a",
-    "lastIndex": 0
-  },
-  {
     "url": "http://betweenfriendscomics.com/comics/january-7-1996/",
     "title": "Between Friends",
     "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZXR3ZWVuRnJpZW5kcy8xOTk2LzAxL0JldHdlZW5fRnJpZW5kc19xcy4xOTk2MDEwN185MDAuZ2lm",
