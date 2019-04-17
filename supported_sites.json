@@ -4815,21 +4815,6 @@
     "lastIndex": 0
   },
   {
-    "url": "https://www.gocomics.com/bad-machinery/2016/04/11",
-    "title": "Bad Machinery",
-    "imageUrl": "http://assets.amuniversal.com/d82f4340dfde01335166005056a9545d",
-    "imageSelector": ".item-comic-image img",
-    "imageIndex": 0,
-    "firstSelector": ".fa-backward",
-    "firstIndex": 0,
-    "prevSelector": ".fa-caret-left",
-    "prevIndex": 0,
-    "nextSelector": ".fa-caret-right",
-    "nextIndex": 0,
-    "lastSelector": ".fa-forward",
-    "lastIndex": 0
-  },
-  {
     "url": "https://www.gocomics.com/badreporter/2005/08/12",
     "title": "Bad Reporter",
     "imageUrl": "http://assets.amuniversal.com/9772e8d05db2012ee3bf00163e41dd5b",
