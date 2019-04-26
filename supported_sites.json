@@ -1363,13 +1363,13 @@
     "url": "http://www.darthsanddroids.net/",
     "title": "Darth & Droids",
     "imageUrl": "http://www.darthsanddroids.net/comics/darths1502.jpg",
-    "imageSelector": "#cc-comic",
+    "imageSelector": ".center>p>img",
     "imageIndex": "0",
-    "firstSelector": ".first",
+    "firstSelector": "a.darth:contains(<<FIRST)",
     "firstIndex": "0",
-    "prevSelector": ".prev",
+    "prevSelector": "a.darth:contains(<PREVIOUS)",
     "prevIndex": "0",
-    "nextSelector": ".next",
+    "nextSelector": "a.darth:contains(NEXT>)",
     "nextIndex": "0",
     "lastSelector": "http://www.darthsanddroids.net/",
     "lastIndex": "-1"
@@ -1756,9 +1756,9 @@
     "lastIndex": "0"
   },
   {
-    "url": "http://www.lfg.co/page/1",
+    "url": "https://www.lfg.co/page/1",
     "title": "Looking for Group (LFG)",
-    "imageUrl": "http://www.lfg.co/wp-content/uploads/2013/02/2006-11-12-1.gif",
+    "imageUrl": "https://www.lfg.co/wp-content/uploads/2013/02/2006-11-12-1.gif",
     "imageSelector": "#comic-img img",
     "imageIndex": "0",
     "firstSelector": "#comic-nav-menu > a:contains(« First)",
@@ -2988,10 +2988,10 @@
     "lastIndex": "-1"
   },
   {
-    "url": "http://questionablecontent.net/",
+    "url": "https://questionablecontent.net/",
     "title": "Questionable Content",
-    "imageUrl": "http://www.questionablecontent.net/comics/3252.png",
-    "imageSelector": "#strip",
+    "imageUrl": "https://www.questionablecontent.net/comics/3252.png",
+    "imageSelector": "#container>.row>.column>img",
     "imageIndex": "0",
     "firstSelector": "#comicnav a",
     "firstIndex": "0",
