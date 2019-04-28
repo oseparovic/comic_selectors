@@ -1,5 +1,21 @@
 [
   {
+  "url":"https://dndoggos.com",
+  "title":"dndoggos.com",
+  "imageUrl":"https://dndoggos.com/images/banner.png",
+  "imageSelector":"img.comic-image",
+  "imageIndex":"0",
+  "firstSelector":".nav-button[ng-click='ctrl.first()']",
+  "firstIndex":"0",
+  "prevSelector":"button[ng-click='ctrl.previous()']",
+  "prevIndex":"0",
+  "nextSelector":"button[ng-click='ctrl.next()']",
+  "nextIndex":"0",
+  "lastSelector":"button[ng-click='ctrl.last()']",
+  "lastIndex":"0",
+  "donateUrl":"https://www.patreon.com/dndoggos"
+},
+  {
     "url": "http://www.sephko.com/",
     "title": "Sephko",
     "imageUrl": "https://4.bp.blogspot.com/-pSPFADJhM5c/W7LvYGIbXOI/AAAAAAAAC_8/3xyr148tcdE7UVz3EhUgSrv9XmT4qfdMgCLcBGAs/s1600/avatar-halloweenBLOG.jpg",
