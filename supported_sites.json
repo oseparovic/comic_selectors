@@ -1,7 +1,7 @@
 [  {
-  "url":"https://www.threepanelsoul.com",
+  "url":"www.threepanelsoul.com",
   "title":"Three Panel Soul",
-  "imageUrl":"http://www.threepanelsoul.com/",
+  "imageUrl":"www.threepanelsoul.com/",
   "imageSelector":"img[id=cc-comic]",
   "imageIndex":"0",
   "firstSelector":"a[class=cc-first]",
