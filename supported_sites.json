@@ -6176,10 +6176,10 @@
   "nsfw":false
  },
  {
-  "url":"http://www.sleeplessdomain.com/",
+  "url":"https://www.sleeplessdomain.com/",
   "title":"Sleepless Domain",
-  "imageUrl":"http://www.sleeplessdomain.com/comics/1438655415-chaptercover.png",
-  "imageSelector":"div#cc-comic",
+  "imageUrl":"https://www.sleeplessdomain.com/comics/1438655415-chaptercover.png",
+  "imageSelector":"img#cc-comic",
   "imageIndex":"0",
   "firstSelector":"a.cc-first",
   "firstIndex":"0",
