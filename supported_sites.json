@@ -5973,18 +5973,18 @@
   {
     "url":"http://misfile.com/",
     "title":"Misfile",
-    "imageUrl":"https://vignette.wikia.nocookie.net/misfile/images/5/5f/Angry.jpg",
-    "imageSelector":".comic2 img",
+    "imageUrl":"http://www.misfile.com/images/logo.gif",
+    "imageSelector":"#cc-comic",
     "imageIndex":"0",
-    "firstSelector":".comicnav > a",
+    "firstSelector":".cc-first",
     "firstIndex":"0",
-    "prevSelector":".comicnav > a",
-    "prevIndex":"1",
-    "nextSelector":".comicnav > a",
-    "nextIndex":"3",
-    "lastSelector":".comicnav > a",
-    "lastIndex":"4",
-    "donateUrl":"http://www.misfile.com/donation.page"
+    "prevSelector":".cc-prev",
+    "prevIndex":"0",
+    "nextSelector":".cc-next",
+    "nextIndex":"0",
+    "lastSelector":".cc-last",
+    "lastIndex":"0",
+    "donateUrl":"http://celestialfiling.storenvy.com/"
   },
   {
     "url":"http://rain.thecomicseries.com/comics/",
