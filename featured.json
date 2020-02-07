@@ -1,40 +1,42 @@
-[{
-        "url": "http://xkcd.com/",
-        "title": "xkcd",
-        "imageUrl": "http://imgs.xkcd.com/comics/alternative_energy_revolution.jpg"
-    },
-{
-        "url": "http://nedroid.com/",
-        "title": "nedroid",
-        "imageUrl": "http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg"
-    },
-    {
-        "url": "http://extrafabulouscomics.com/",
-        "title": "extrafabulouscomics",
-        "imageUrl": "http://extrafabulouscomics.com/wp-content/uploads/2016/06/IMG_20160611_142250.jpg"},
-    {
-        "url": "http://www.mrlovenstein.com/",
-        "title": "mrlovenstein",
-        "imageUrl": "http://www.mrlovenstein.com/images/comics/752_buttered_up.png"
-    },
-    {
-        "url": "http://www.thingsinsquares.com/",
-        "title": "thingsinsquares",
-        "imageUrl": "http://www.thingsinsquares.com/wp-content/uploads/old-woman-dream-comic.jpg"
-    },
-    {
-        "url": "http://www.safelyendangered.com/",
-        "title": "safelyendangered",
-        "imageUrl": "http://www.safelyendangered.com/wp-content/uploads/2016/06/art-of-seduction.png"
-    },
-    {
-        "url": "http://www.oglaf.com/",
-        "title": "oglaf",
-        "imageUrl": "http://media.oglaf.com/comic/hoops.jpg"
-    },
-    {
-        "url": "http://explosm.net/",
-        "title": "explosm",
-        "imageUrl": "http://files.explosm.net/comics/Kris/rewarding.png?t=3BE74A"
-    }
+[
+  {
+    "url": "http://xkcd.com/",
+    "title": "xkcd",
+    "imageUrl": "http://imgs.xkcd.com/comics/alternative_energy_revolution.jpg"
+  },
+  {
+    "url": "http://nedroid.com/",
+    "title": "nedroid",
+    "imageUrl": "http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg"
+  },
+  {
+    "url": "http://extrafabulouscomics.com/",
+    "title": "extrafabulouscomics",
+    "imageUrl": "http://extrafabulouscomics.com/wp-content/uploads/2016/06/IMG_20160611_142250.jpg"
+  },
+  {
+    "url": "http://www.mrlovenstein.com/",
+    "title": "mrlovenstein",
+    "imageUrl": "http://www.mrlovenstein.com/images/comics/752_buttered_up.png"
+  },
+  {
+    "url": "http://www.thingsinsquares.com/",
+    "title": "thingsinsquares",
+    "imageUrl": "http://www.thingsinsquares.com/wp-content/uploads/old-woman-dream-comic.jpg"
+  },
+  {
+    "url": "http://www.safelyendangered.com/",
+    "title": "safelyendangered",
+    "imageUrl": "http://www.safelyendangered.com/wp-content/uploads/2016/06/art-of-seduction.png"
+  },
+  {
+    "url": "http://www.oglaf.com/",
+    "title": "oglaf",
+    "imageUrl": "http://media.oglaf.com/comic/hoops.jpg"
+  },
+  {
+    "url": "http://explosm.net/",
+    "title": "explosm",
+    "imageUrl": "http://files.explosm.net/comics/Kris/rewarding.png?t=3BE74A"
+  }
 ]
