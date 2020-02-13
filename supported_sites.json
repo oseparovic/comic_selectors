@@ -6192,5 +6192,20 @@
     "lastIndex": "0",
     "donateUrl": "https://www.patreon.com/cubewatermelon",
     "nsfw": false
+  },
+  {
+    "url": "https://satwcomic.com/latest",
+    "title": "Scandinavia and the World",
+    "imageUrl": "https://satwcomic.com/img_satwcomic/scandinavia-logo-8.png",
+    "imageSelector": "center>a>img[src*='/art/']",
+    "imageIndex": "0",
+    "firstSelector": "a[title*='beginning']",
+    "firstIndex": "0",
+    "prevSelector": "a[title*='alt+p']",
+    "prevIndex": "0",
+    "nextSelector": "a[title*='alt+n']",
+    "nextIndex": "0",
+    "lastSelector": "a[title^='Latest']",
+    "lastIndex": "0"
   }
 ]
