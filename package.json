@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prettier": "1.19.1"
+  },
+  "scripts": {
+    "format": "prettier --write supported_sites.json featured.json"
+  }
+}
