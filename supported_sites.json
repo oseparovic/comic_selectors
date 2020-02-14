@@ -6207,5 +6207,20 @@
     "nextIndex": "0",
     "lastSelector": "a[title^='Latest']",
     "lastIndex": "0"
+  },
+  {
+    "url": "https://www.gocomics.com/overthehedge/1995/06/12",
+    "title": "Over the Hedge",
+    "imageUrl": "https://assets.amuniversal.com/20debb4028dd0138e4cb005056a9545d",
+    "imageSelector": ".item-comic-image img",
+    "imageIndex": 0,
+    "firstSelector": ".fa-backward",
+    "firstIndex": 0,
+    "prevSelector": ".fa-caret-left",
+    "prevIndex": 0,
+    "nextSelector": ".fa-caret-right",
+    "nextIndex": 0,
+    "lastSelector": ".fa-forward",
+    "lastIndex": 0
   }
 ]
