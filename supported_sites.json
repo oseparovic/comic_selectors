@@ -1758,18 +1758,18 @@
     "lastIndex": "0"
   },
   {
-    "url": "http://www.giantitp.com/comics/oots0001.html",
+    "url": "https://www.giantitp.com/comics/oots0001.html",
     "title": "Order of the Stick (giantitp)",
-    "imageUrl": "http://www.giantitp.com/comics/images/oots0001.gif",
-    "imageSelector": "img[src~=/comics/images/]",
+    "imageUrl": "https://i.giantitp.com/comics/oots/oots0001.gif",
+    "imageSelector": "td[align=center]>img",
     "imageIndex": "0",
-    "firstSelector": "a:has(img[src=/Images/redesign/ComicNav_First.gif])",
+    "firstSelector": "a:has(img[title='First Comic'])",
     "firstIndex": "0",
-    "prevSelector": "a:has(img[src=/Images/redesign/ComicNav_Back.gif])",
+    "prevSelector": "a:has(img[title='Previous Comic'])",
     "prevIndex": "0",
-    "nextSelector": "a:has(img[src=/Images/redesign/ComicNav_Next.gif])",
+    "nextSelector": "a:has(img[title='Next Comic'])",
     "nextIndex": "0",
-    "lastSelector": "a:has(img[src=/Images/redesign/ComicNav_Latest.gif])",
+    "lastSelector": "a:has(img[title='Latest Comic'])",
     "lastIndex": "0"
   },
   {
