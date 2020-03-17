@@ -6222,5 +6222,20 @@
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
     "lastIndex": 0
+  },
+  {
+    "url": "https://stupidfox.net",
+    "title": "Stupid Fox",
+    "imageUrl": "http://stupidfox.net/art/core/",
+    "imageSelector": ".comicmid>center>a>img",
+    "imageIndex": "0",
+    "firstSelector": "a[title='StupidFox from the beginning']",
+    "firstIndex": "0",
+    "prevSelector": "div.comicleft>a",
+    "prevIndex": "0",
+    "nextSelector": "div.comicright>a",
+    "nextIndex": "0",
+    "lastSelector": "a[title='Latest StupidFox']",
+    "lastIndex": "0"
   }
 ]
