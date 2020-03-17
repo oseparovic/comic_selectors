@@ -6226,7 +6226,7 @@
   {
     "url": "https://stupidfox.net",
     "title": "Stupid Fox",
-    "imageUrl": "http://stupidfox.net/art/core/",
+    "imageUrl": "http://stupidfox.net/art/core/186-brain-freeze.jpg",
     "imageSelector": ".comicmid>center>a>img",
     "imageIndex": "0",
     "firstSelector": "a[title='StupidFox from the beginning']",
