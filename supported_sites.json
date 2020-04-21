@@ -1762,8 +1762,8 @@
   {
     "url": "http://www.giantitp.com/comics/oots0001.html",
     "title": "Order of the Stick (giantitp)",
-    "imageUrl": "http://www.giantitp.com/comics/images/oots0001.gif",
-    "imageSelector": "img[src~=/comics/images/]",
+    "imageUrl": "https://i.giantitp.com//comics/oots/oots0001.gif",
+    "imageSelector": "img[src~=/comics/oots]",
     "imageIndex": "0",
     "firstSelector": "a:has(img[alt='First Comic'])",
     "firstIndex": "0",
