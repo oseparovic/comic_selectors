@@ -1743,23 +1743,6 @@
     "lastIndex": "0"
   },
   {
-    "url": "http://www.giantitp.com/comics/erf0001.html",
-    "title": "Erfworld (giantitp)",
-    "imageUrl": "http://www.giantitp.com/comics/images/6BU91IYzmkt0NSui61H.jpg",
-    "imageSelector": "img[src~=/comics/images/]",
-    "imageIndex": "0",
-    "imageSelector": "img[src~=/comics/images/]",
-    "imageIndex": "0",
-    "firstSelector": "a:has(img[alt='First Comic'])",
-    "firstIndex": "0",
-    "prevSelector": "a:has(img[alt='Previous Comic'])",
-    "prevIndex": "0",
-    "nextSelector": "a:has(img[alt='Next Comic'])",
-    "nextIndex": "0",
-    "lastSelector": "a:has(img[alt='Latest Comic'])",
-    "lastIndex": "0"
-  },
-  {
     "url": "http://www.giantitp.com/comics/oots0001.html",
     "title": "Order of the Stick (giantitp)",
     "imageUrl": "https://i.giantitp.com//comics/oots/oots0001.gif",
