@@ -1743,33 +1743,18 @@
     "lastIndex": "0"
   },
   {
-    "url": "http://www.giantitp.com/comics/erf0001.html",
-    "title": "Erfworld (giantitp)",
-    "imageUrl": "http://www.giantitp.com/comics/images/6BU91IYzmkt0NSui61H.jpg",
-    "imageSelector": "img[src~=/comics/images/]",
-    "imageIndex": "0",
-    "firstSelector": "a:has(img[src=/Images/redesign/ComicNav_First.gif])",
-    "firstIndex": "0",
-    "prevSelector": "a:has(img[src=/Images/redesign/ComicNav_Back.gif])",
-    "prevIndex": "0",
-    "nextSelector": "a:has(img[src=/Images/redesign/ComicNav_Next.gif])",
-    "nextIndex": "0",
-    "lastSelector": "a:has(img[src=/Images/redesign/ComicNav_Latest.gif])",
-    "lastIndex": "0"
-  },
-  {
     "url": "http://www.giantitp.com/comics/oots0001.html",
     "title": "Order of the Stick (giantitp)",
-    "imageUrl": "http://www.giantitp.com/comics/images/oots0001.gif",
-    "imageSelector": "img[src~=/comics/images/]",
+    "imageUrl": "https://i.giantitp.com//comics/oots/oots0001.gif",
+    "imageSelector": "img[src~=/comics/oots]",
     "imageIndex": "0",
-    "firstSelector": "a:has(img[src=/Images/redesign/ComicNav_First.gif])",
+    "firstSelector": "a:has(img[alt='First Comic'])",
     "firstIndex": "0",
-    "prevSelector": "a:has(img[src=/Images/redesign/ComicNav_Back.gif])",
+    "prevSelector": "a:has(img[alt='Previous Comic'])",
     "prevIndex": "0",
-    "nextSelector": "a:has(img[src=/Images/redesign/ComicNav_Next.gif])",
+    "nextSelector": "a:has(img[alt='Next Comic'])",
     "nextIndex": "0",
-    "lastSelector": "a:has(img[src=/Images/redesign/ComicNav_Latest.gif])",
+    "lastSelector": "a:has(img[alt='Latest Comic'])",
     "lastIndex": "0"
   },
   {
@@ -6206,6 +6191,36 @@
     "nextSelector": "a[title*='alt+n']",
     "nextIndex": "0",
     "lastSelector": "a[title^='Latest']",
+    "lastIndex": "0"
+  },
+  {
+    "url": "https://www.gocomics.com/overthehedge/1995/06/12",
+    "title": "Over the Hedge",
+    "imageUrl": "https://assets.amuniversal.com/20debb4028dd0138e4cb005056a9545d",
+    "imageSelector": ".item-comic-image img",
+    "imageIndex": 0,
+    "firstSelector": ".fa-backward",
+    "firstIndex": 0,
+    "prevSelector": ".fa-caret-left",
+    "prevIndex": 0,
+    "nextSelector": ".fa-caret-right",
+    "nextIndex": 0,
+    "lastSelector": ".fa-forward",
+    "lastIndex": 0
+  },
+  {
+    "url": "https://stupidfox.net",
+    "title": "Stupid Fox",
+    "imageUrl": "http://stupidfox.net/art/core/186-brain-freeze.jpg",
+    "imageSelector": ".comicmid>center>a>img",
+    "imageIndex": "0",
+    "firstSelector": "a[title='StupidFox from the beginning']",
+    "firstIndex": "0",
+    "prevSelector": "div.comicleft>a",
+    "prevIndex": "0",
+    "nextSelector": "div.comicright>a",
+    "nextIndex": "0",
+    "lastSelector": "a[title='Latest StupidFox']",
     "lastIndex": "0"
   }
 ]
