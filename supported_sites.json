@@ -1487,19 +1487,21 @@
     "lastIndex": "-1"
   },
   {
-    "url": "http://www.commitstrip.com/en/2012/02/22/interview/",
+    "url": "https://webcomic-redirect.glitch.me/commitstrip/latest",
     "title": "Commit Strip",
-    "imageUrl": "http://www.commitstrip.com/wp-content/uploads/2012/02/Strip-1sur4-interview-800-final1.jpg",
+    "imageUrl": "https://www.commitstrip.com/wp-content/uploads/2012/02/Strip-1sur4-interview-800-final1.jpg",
     "imageSelector": ".entry-content img",
     "imageIndex": "0",
-    "firstSelector": "http://www.commitstrip.com/en/2012/02/22/interview/",
+    "firstSelector": "https://www.commitstrip.com/en/2012/02/22/interview/",
     "firstIndex": "-1",
     "prevSelector": ".nav-previous a",
     "prevIndex": "0",
-    "randomSelector": "http://www.commitstrip.com/?random=1",
+    "randomSelector": "https://www.commitstrip.com/?random=1",
     "randomIndex": "-1",
     "nextSelector": ".nav-next a",
-    "nextIndex": "0"
+    "nextIndex": "0",
+    "lastSelector": "https://webcomic-redirect.glitch.me/commitstrip/latest",
+    "lastIndex": "-1"
   },
   {
     "url": "http://www.sandraandwoo.com/",
