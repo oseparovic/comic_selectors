@@ -2926,12 +2926,12 @@
     "donateUrl": "https://www.patreon.com/cyanide_and_happiness/overview"
   },
   {
-    "url": "http://www.safelyendangered.com/",
+    "url": "https://www.safelyendangered.com/comic/surprise/",
     "title": "Safely Endangered",
-    "imageUrl": "https://www.safelyendangered.com/wp-content/uploads/2018/03/shit-copy.png",
+    "imageUrl": "https://www.safelyendangered.com/wp-content/uploads/2014/02/snake-charmer-1.png",
     "imageSelector": "#comic img",
     "imageIndex": "0",
-    "firstSelector": "http://www.safelyendangered.com/comic/ignored/",
+    "firstSelector": "https://www.safelyendangered.com/comic/clone/",
     "firstIndex": "-1",
     "prevSelector": ".comic_navi_left a",
     "prevIndex": "0",
@@ -2939,7 +2939,7 @@
     "randomIndex": "0",
     "nextSelector": ".comic_navi_right a",
     "nextIndex": "0",
-    "lastSelector": "http://www.safelyendangered.com/",
+    "lastSelector": "https://www.safelyendangered.com/comic/surprise/",
     "lastIndex": "-1"
   },
   {
