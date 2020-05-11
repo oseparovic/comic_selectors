@@ -5957,8 +5957,24 @@
     "lastIndex": -1
   },
   {
-    "url": "http://misfile.com/",
+    "url": "http://misfile.com/misfile/",
     "title": "Misfile",
+    "imageUrl": "http://www.misfile.com/comicsthumbs/20040222_LAOj.jpg",
+    "imageSelector": "#cc-comic",
+    "imageIndex": "0",
+    "firstSelector": ".cc-first",
+    "firstIndex": "0",
+    "prevSelector": ".cc-prev",
+    "prevIndex": "0",
+    "nextSelector": ".cc-next",
+    "nextIndex": "0",
+    "lastSelector": ".cc-last",
+    "lastIndex": "0",
+    "donateUrl": "http://celestialfiling.storenvy.com/"
+  },
+  {
+    "url": "http://misfile.com/hell-high/",
+    "title": "Misfile/Hell High",
     "imageUrl": "http://www.misfile.com/images/logo.gif",
     "imageSelector": "#cc-comic",
     "imageIndex": "0",
