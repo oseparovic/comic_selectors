@@ -6242,15 +6242,15 @@
     "lastIndex": "0"
   },
   {
-    "url":"https://www.creators.com/read/the-other-coast/05/20/277139",
-    "title":"The Other Coast",
-    "imageUrl":"https://cdn.creators.com/features/the-other-coast-thumb.jpg",
-    "imageSelector":"div.row> img",
-    "imageIndex":"0",
-    "prevSelector":"a.prev",
-    "prevIndex":"0",
-    "nextSelector":"a.next",
-    "nextIndex":"0",
-    "nsfw":false
+    "url": "https://www.creators.com/read/the-other-coast/05/20/277139",
+    "title": "The Other Coast",
+    "imageUrl": "https://cdn.creators.com/features/the-other-coast-thumb.jpg",
+    "imageSelector": "div.row> img",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "nsfw": false
   }
 ]
