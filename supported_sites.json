@@ -6266,5 +6266,23 @@
     "nextSelector": ".btn-lg+ .btn-primary",
     "nextIndex": "0",
     "nsfw": false
+  },
+  {
+    "url":"https://www.gocomics.com/lay-lines/2015/01/26",
+    "title":"Lay Lines",
+    "imageUrl":"https://assets.amuniversal.com/cd68633083d20132c030005056a9545d",
+    "imageSelector":".item-comic-image img",
+    "imageIndex":"0",
+    "firstSelector":".fa-backward",
+    "firstIndex":"0",
+    "prevSelector":".js-previous-comic",
+    "prevIndex":"0",
+    "randomSelector":".gc-calendar-nav__select a",
+    "randomIndex":"0",
+    "nextSelector":".btn-outline-secondary.fa-caret-right",
+    "nextIndex":"0",
+    "lastSelector":".fa-forward",
+    "lastIndex":"0",
+    "nsfw":false
   }
 ]
