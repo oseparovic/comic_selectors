@@ -3014,7 +3014,7 @@
     "url": "https://questionablecontent.net/",
     "title": "Questionable Content",
     "imageUrl": "https://www.questionablecontent.net/comics/3252.png",
-    "imageSelector": "#container>.row>.column>img",
+    "imageSelector": "#strip",
     "imageIndex": "0",
     "firstSelector": "#comicnav a",
     "firstIndex": "0",
