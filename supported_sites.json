@@ -2780,7 +2780,7 @@
   {
     "url": "http://extrafabulouscomics.com/",
     "title": "Extra Fabulous Comics",
-    "imageUrl": "http://extrafabulouscomics.com/wp-content/uploads/2016/06/IMG_20160611_142250.jpg",
+    "imageUrl": "https://extrafabulouscomics.com/wp-content/uploads/2019/05/IMG_20190512_224941-e1557750144661.jpg",
     "imageSelector": "div#comic img",
     "imageIndex": "0",
     "nextSelector": ".comic-nav-next",
