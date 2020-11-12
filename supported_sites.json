@@ -1436,19 +1436,18 @@
     "lastIndex": "-1"
   },
   {
-    "url": "http://dilbert.com/strip/9999-12-31",
+    "url": "https://www.arcamax.com/thefunnies/dilbert/",
     "title": "Dilbert",
-    "imageUrl": "https://assets.amuniversal.com/968ac0604e050135dbae005056a9545d",
-    "imageSelector": "img.img-comic",
+    "imageUrl": "https://www.arcamax.com/newspics/200/20067/2006702.gif",
+    "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
-    "firstSelector": "http://dilbert.com/strip/1989-04-16",
-    "firstIndex": "-1",
-    "prevSelector": "div.nav-left > a",
+    "prevSelector": "a.prev",
     "prevIndex": "0",
-    "nextSelector": "div.nav-right > a",
+    "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "http://dilbert.com/strip/9999-12-31",
-    "lastIndex": "-1"
+    "lastSelector": "https://www.arcamax.com/thefunnies/dilbert/",
+    "lastIndex": "-1",
+    "nsfw": false
   },
   {
     "url": "http://www.somethingpositive.net/",
