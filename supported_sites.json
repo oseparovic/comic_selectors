@@ -6767,5 +6767,22 @@
     "lastIndex": "0",
     "donateUrl": "https://www.patreon.com/drugsandwires",
     "nsfw": true
+  },
+  {
+    "url":"http://the-whiteboard.com/autowb001.html",
+    "title":"The Whiteboard",
+    "imageUrl":"http://www.the-whiteboard.com/media/18-banner-1.jpg",
+    "imageSelector":"img[src~=autot?wb\d+]",
+    "imageIndex":"0",
+    "firstSelector":"a:has(img[src=first.png])",
+    "firstIndex":"0",
+    "prevSelector":"a:has(img[src=previous.png])",
+    "prevIndex":"0",
+    "nextSelector":"a:has(img[src=next.png])",
+    "nextIndex":"0",
+    "lastSelector":"a:has(img[src=today.png])",
+    "lastIndex":"0",
+    "donateUrl":"https://www.patreon.com/docsmachine",
+    "nsfw":false
   }
 ]
