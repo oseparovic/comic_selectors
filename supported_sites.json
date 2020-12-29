@@ -6784,5 +6784,22 @@
     "lastIndex": "0",
     "donateUrl": "https://www.patreon.com/docsmachine",
     "nsfw": false
+  },
+  {
+    "url": "https://buttsmithy.com/",
+    "title": "Alfie",
+    "imageUrl": "https://buttsmithy.com/wp-content/uploads/2016/11/1.jpg",
+    "imageSelector": "#comic img",
+    "imageIndex": "0",
+    "firstSelector": "https://buttsmithy.com/archives/comic/p1",
+    "firstIndex": "-1",
+    "prevSelector": ".comic-nav-previous",
+    "prevIndex": "0",
+    "nextSelector": ".comic-nav-next",
+    "nextIndex": "0",
+    "lastSelector": "https://buttsmithy.com/",
+    "lastIndex": "-1",
+    "donateUrl": "https://www.patreon.com/InCaseArt",
+    "nsfw": true
   }
 ]
