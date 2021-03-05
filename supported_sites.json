@@ -651,7 +651,7 @@
   {
     "url": "https://www.arcamax.com/thefunnies/hagarthehorrible/",
     "title": "Hagar the Horrible",
-    "imageUrl": "https://www.arcamax.com/newspics/cache/lw600/171/17138/1713896.jpg",
+    "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068801.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
     "prevSelector": "a.prev",
@@ -851,7 +851,7 @@
   {
     "url": "https://www.arcamax.com/thefunnies/diamondlil/",
     "title": "Diamond Lil",
-    "imageUrl": "https://www.arcamax.com/newspics/158/15816/1581635.gif",
+    "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068830.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
     "prevSelector": "a.prev",
@@ -864,7 +864,7 @@
   {
     "url": "https://www.arcamax.com/thefunnies/zits/",
     "title": "Zits",
-    "imageUrl": "https://www.arcamax.com/newspics/cache/lw600/171/17138/1713883.jpg",
+    "imageUrl": "https://www.arcamax.com/newspics/206/20687/2068787.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
     "prevSelector": "a.prev",
@@ -877,7 +877,7 @@
   {
     "url": "https://www.arcamax.com/thefunnies/blondie/",
     "title": "Blondie",
-    "imageUrl": "https://www.arcamax.com/newspics/171/17145/1714501.gif",
+    "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068802.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
     "prevSelector": "a.prev",
@@ -1113,7 +1113,7 @@
   {
     "url": "https://www.arcamax.com/thefunnies/bizarro/",
     "title": "Bizarro",
-    "imageUrl": "https://www.arcamax.com/newspics/cache/lw600/171/17139/1713947.jpg",
+    "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068853.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
     "prevSelector": "a.prev",
@@ -1438,7 +1438,7 @@
   {
     "url": "https://www.arcamax.com/thefunnies/dilbert/",
     "title": "Dilbert",
-    "imageUrl": "https://www.arcamax.com/newspics/200/20067/2006702.gif",
+    "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068818.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
     "prevSelector": "a.prev",
@@ -2479,7 +2479,7 @@
   {
     "url": "http://www.gocomics.com/garfield/1978/06/19",
     "title": "Garfield",
-    "imageUrl": "https://d1ejxu6vysztl5.cloudfront.net/comics/garfield/2016/2016-11-30.gif",
+    "imageUrl": "https://assets.amuniversal.com/1a6eb5804e2601394988005056a9545d",
     "imageSelector": ".item-comic-image img",
     "imageIndex": "0",
     "firstSelector": ".fa-backward",
@@ -4383,7 +4383,7 @@
   {
     "url": "https://www.arcamax.com/thefunnies/beetlebailey/",
     "title": "Beetle Bailey",
-    "imageUrl": "https://www.arcamax.com/newspics/cache/lw600/171/17138/1713898.jpg",
+    "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068803.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
     "prevSelector": "a.prev",
@@ -6554,19 +6554,17 @@
     "lastIndex": 0
   },
   {
-    "url": "http://curtiscomics.com/comics/january-7-1996/",
-    "title": "curtiscomics.com",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9DdXJ0aXMvMTk5Ni8wMS9DdXJ0aXNfaHMuMTk5NjAxMDdfOTAwLmdpZg==",
-    "imageSelector": "img[src^=https://safr.kingfeatures.com]",
-    "imageIndex": 0,
-    "firstSelector": "#firstcomic > a",
-    "firstIndex": 0,
-    "prevSelector": "#previouscomic > a",
-    "prevIndex": 0,
-    "nextSelector": "#nextcomic > a",
-    "nextIndex": 0,
-    "lastSelector": "#lastcomic > a",
-    "lastIndex": 0
+    "url": "https://www.arcamax.com/thefunnies/curtis/",
+    "title": "Curtis",
+    "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068855.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/curtis/",
+    "lastIndex": "-1"
   },
   {
     "url": "https://www.uptofourplayers.com/",
