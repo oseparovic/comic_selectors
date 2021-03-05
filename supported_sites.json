@@ -4394,19 +4394,17 @@
     "lastIndex": "-1"
   },
   {
-    "url": "http://dennisthemenace.com/comics/january-7-1996/",
-    "title": "dennisthemenace.com",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9EZW5uaXNUaGVNZW5hY2UvMTk5Ni8wMS9EZW5uaXNfVGhlX01lbmFjZV9ocy4xOTk2MDEwN185MDAuZ2lm",
-    "imageSelector": "img[src^=https://safr.kingfeatures.com]",
-    "imageIndex": 0,
-    "firstSelector": "#firstcomic > a",
-    "firstIndex": 0,
-    "prevSelector": "#previouscomic > a",
-    "prevIndex": 0,
-    "nextSelector": "#nextcomic > a",
-    "nextIndex": 0,
-    "lastSelector": "#lastcomic > a",
-    "lastIndex": 0
+    "url": "https://www.arcamax.com/thefunnies/dennisthemenace/",
+    "title": "Dennis the Menace",
+    "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068858.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/dennisthemenace/",
+    "lastIndex": "-1"
   },
   {
     "url": "https://www.gocomics.com/drabble/1990/01/11",
