@@ -5323,7 +5323,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported":true
   },
   {
     "url": "https://www.gocomics.com/the-bent-pinky/2013/08/26",
@@ -5442,7 +5443,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported":true
   },
   {
     "url": "https://www.gocomics.com/big-nate-first-class/2015/01/07",
