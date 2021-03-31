@@ -1321,21 +1321,21 @@
     "lastIndex": "-1"
   },
   {
-    "url": "http://www.catanacomics.com/",
+    "url": "https://www.gocomics.com/little-moments-of-love/2018/09/24",
     "title": "Catana Comics",
-    "imageUrl": "http://68.media.tumblr.com/dbabdac199d0e2586995ad94c5592303/tumblr_oryghn6KgA1vmpny4o1_1280.jpg",
-    "imageSelector": ".photo-hires-item img",
+    "imageUrl": "https://assets.amuniversal.com/70439bb00c04013934aa005056a9545d",
+    "imageSelector": ".item-comic-image img",
     "imageIndex": "0",
-    "firstSelector": "http://www.catanacomics.com/post/153854606030",
-    "firstIndex": "-1",
-    "prevSelector": ".previous-button",
+    "firstSelector": ".fa-backward",
+    "firstIndex": "0",
+    "prevSelector": ".fa-caret-left",
     "prevIndex": "0",
-    "randomSelector": ".random-random",
+    "randomSelector": "a:contains(random)",
     "randomIndex": "0",
-    "nextSelector": ".next-button",
+    "nextSelector": ".fa-caret-right",
     "nextIndex": "0",
-    "lastSelector": "http://www.catanacomics.com/",
-    "lastIndex": "-1"
+    "lastSelector": ".fa-forward",
+    "lastIndex": "0"
   },
   {
     "url": "http://www.gocomics.com/pluggers/2001/04/08",
@@ -6487,7 +6487,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/clayjones/2005/01/03",
