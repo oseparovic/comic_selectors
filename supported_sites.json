@@ -4595,36 +4595,6 @@
     "lastIndex": 0
   },
   {
-    "url": "http://beetlebailey.com/comics/january-7-1996/",
-    "title": "Beetle Bailey",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZWV0bGVCYWlsZXkvMTk5Ni8wMS9CZWV0bGVfQmFpbGV5X2hzLjE5OTYwMTA3XzkwMC5naWY=",
-    "imageSelector": "img[src^=https://safr.kingfeatures.com]",
-    "imageIndex": 0,
-    "firstSelector": "#firstcomic > a",
-    "firstIndex": 0,
-    "prevSelector": "#previouscomic > a",
-    "prevIndex": 0,
-    "nextSelector": "#nextcomic > a",
-    "nextIndex": 0,
-    "lastSelector": "#lastcomic > a",
-    "lastIndex": 0
-  },
-  {
-    "url": "http://dennisthemenace.com/comics/january-7-1996/",
-    "title": "dennisthemenace.com",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9EZW5uaXNUaGVNZW5hY2UvMTk5Ni8wMS9EZW5uaXNfVGhlX01lbmFjZV9ocy4xOTk2MDEwN185MDAuZ2lm",
-    "imageSelector": "img[src^=https://safr.kingfeatures.com]",
-    "imageIndex": 0,
-    "firstSelector": "#firstcomic > a",
-    "firstIndex": 0,
-    "prevSelector": "#previouscomic > a",
-    "prevIndex": 0,
-    "nextSelector": "#nextcomic > a",
-    "nextIndex": 0,
-    "lastSelector": "#lastcomic > a",
-    "lastIndex": 0
-  },
-  {
     "url": "https://www.gocomics.com/drabble/1990/01/11",
     "title": "Drabble",
     "imageUrl": "https://assets.amuniversal.com/1cced410837f0130279f001dd8b71c47",
@@ -6436,7 +6406,8 @@
     "nextSelector": "#nextcomic > a",
     "nextIndex": 0,
     "lastSelector": "#lastcomic a",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/baby-trump/2018/01/24",
@@ -6456,10 +6427,10 @@
     "lastIndex": 0
   },
   {
-    "url": "http://betweenfriendscomics.com/comics/january-7-1996/",
+    "url": "https://www.arcamax.com/thefunnies/betweenfriends/",
     "title": "Between Friends",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CZXR3ZWVuRnJpZW5kcy8xOTk2LzAxL0JldHdlZW5fRnJpZW5kc19xcy4xOTk2MDEwN185MDAuZ2lm",
-    "imageSelector": "img[src^=https://safr.kingfeatures.com]",
+    "imageUrl": "https://www.arcamax.com/newspics/208/20812/2081209.gif",
+    "imageSelector": "img#comic-zoom",
     "imageIndex": 0,
     "firstSelector": "#firstcomic > a",
     "firstIndex": 0,
