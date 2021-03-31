@@ -6431,15 +6431,13 @@
     "title": "Between Friends",
     "imageUrl": "https://www.arcamax.com/newspics/208/20812/2081209.gif",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": 0,
-    "firstSelector": "#firstcomic > a",
-    "firstIndex": 0,
-    "prevSelector": "#previouscomic > a",
-    "prevIndex": 0,
-    "nextSelector": "#nextcomic > a",
-    "nextIndex": 0,
-    "lastSelector": "#lastcomic > a",
-    "lastIndex": 0
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/betweenfriends/",
+    "lastIndex": -1
   },
   {
     "url": "https://www.gocomics.com/brian-mcfadden/2013/12/15",
