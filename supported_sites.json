@@ -6695,6 +6695,8 @@
     "firstIndex": "0",
     "prevSelector": ".navigation-previous",
     "prevIndex": "0",
+    "randomSelector": ".navigation-random",
+    "randomIndex": "0",
     "nextSelector": ".navigation-next",
     "nextIndex": "0",
     "lastSelector": ".navigation-last",
