@@ -3677,12 +3677,12 @@
     "imageUrl": "http://dresdencodak.com/wp-content/uploads/2019/03/2010-06-03-dark_science_01.jpg",
     "imageSelector": ".entry-content img[srcset]",
     "imageIndex": "0",
-    "nextSelector": ".entry-content > p:first-child a",
-    "nextIndex": "2",
-    "firstSelector": ".entry-content > p:first-child a",
-    "firstIndex": "1",
-    "prevSelector": ".entry-content > p:first-child a",
+    "firstSelector": "http://dresdencodak.com/2010/06/03/dark-science-01/",
+    "firstIndex": "-1",
+    "prevSelector": "a:has(img[alt=Previous Page])",
     "prevIndex": "0",
+    "nextSelector": "a:has(img[alt=Next Page])",
+    "nextIndex": "0",
     "donateUrl": "https://www.patreon.com/dresdencodak"
   },
   {
