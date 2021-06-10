@@ -3658,17 +3658,17 @@
     "donateUrl": "https://www.patreon.com/MikeLLunsford"
   },
   {
-    "url": "http://dresdencodak.com/category/oneoffs/",
+    "url": "http://dresdencodak.com/2005/06/14/lil-werner/",
     "title": "Dresden Codak (One-offs)",
     "imageUrl": "http://dresdencodak.com/wp-content/uploads/2019/03/2009-09-22-caveman_science_fiction.jpg",
     "imageSelector": ".entry-content img[srcset]",
     "imageIndex": "0",
     "firstSelector": "http://dresdencodak.com/2005/06/08/the-tomorrow-man/",
     "firstIndex": "-1",
-    "nextSelector": ".entry-content > p:first-child a",
-    "nextIndex": "1",
-    "prevSelector": ".entry-content > p:first-child a",
+    "prevSelector": "a:has(img[alt=Previous Page])",
     "prevIndex": "0",
+    "nextSelector": "a:has(img[alt=Next Page])",
+    "nextIndex": "0",
     "donateUrl": "https://www.patreon.com/dresdencodak"
   },
   {
@@ -3686,17 +3686,17 @@
     "donateUrl": "https://www.patreon.com/dresdencodak"
   },
   {
-    "url": "http://dresdencodak.com/category/hob/",
+    "url": "http://dresdencodak.com/2007/02/08/pom/",
     "title": "Dresden Codak (Hob)",
     "imageUrl": "http://dresdencodak.com/wp-content/uploads/2019/03/2007-02-08-pom.jpg",
     "imageSelector": ".entry-content img[srcset]",
     "imageIndex": "0",
-    "nextSelector": ".entry-content > p:first-child a",
-    "nextIndex": "2",
-    "firstSelector": ".entry-content > p:first-child a",
-    "firstIndex": "1",
-    "prevSelector": ".entry-content > p:first-child a",
+    "firstSelector": "http://dresdencodak.com/2007/02/08/pom/",
+    "firstIndex": "-1",
+    "prevSelector": "a:has(img[alt=Previous Page])",
     "prevIndex": "0",
+    "nextSelector": "a:has(img[alt=Next Page])",
+    "nextIndex": "0",
     "donateUrl": "https://www.patreon.com/dresdencodak"
   },
   {
