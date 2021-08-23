@@ -6540,6 +6540,19 @@
     "lastIndex": "-1"
   },
   {
+    "url": "https://www.arcamax.com/thefunnies/brilliantmindofedisonlee/",
+    "title": "Brilliant Mind of Edison Lee",
+    "imageUrl": "https://www.arcamax.com/newspics/214/21474/2147422.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/brilliantmindofedisonlee",
+    "lastIndex": "-1"
+  },
+  {
     "url": "https://www.uptofourplayers.com/",
     "title": "Up to Four Players",
     "imageUrl": "https://www.peginc.com/wp-content/uploads/2017/05/upto4players.png",
