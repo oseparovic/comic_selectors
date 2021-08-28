@@ -6911,5 +6911,22 @@
     "lastIndex": "-1",
     "donateUrl": "https://www.patreon.com/InCaseArt",
     "nsfw": true
+  },
+  {
+    "url": "http://clowncorps.net/",
+    "title": "Clown Corps",
+    "imageUrl": "http://clowncorps.net/wp-content/uploads/2021/08/clown5cover.jpg",
+    "imageSelector": "#comic img",
+    "imageIndex": "0",
+    "firstSelector": "http://clowncorps.net/comic/chapter-one-cover/",
+    "firstIndex": "-1",
+    "prevSelector": ".comic-nav-previous",
+    "prevIndex": "0",
+    "nextSelector": ".comic-nav-next",
+    "nextIndex": "0",
+    "lastSelector": "http://clowncorps.net/",
+    "lastIndex": "-1",
+    "donateUrl": "https://www.patreon.com/joechoui",
+    "nsfw": false
   }
 ]
