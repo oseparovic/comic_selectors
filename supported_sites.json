@@ -4187,9 +4187,9 @@
   {
     "url": "https://www.arcamax.com/thefunnies/mothergooseandgrimm/",
     "title": "Mother Goose & Grimm",
-    "imageUrl": "https://www.arcamax.com/newspics/cache/lw600/171/17139/1713910.jpg",
+    "imageUrl": "https://www.arcamax.com/jsnews/images/comics/mothergooseandgrimm.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "0",
+    "imageIndex": "-1",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
@@ -6941,6 +6941,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/1anddone/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/archie/",
@@ -6954,6 +6955,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/archie/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/barneygoogle/",
@@ -6967,6 +6969,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/barneygoogle/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/carpediem/",
@@ -6980,6 +6983,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/carpediem/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/crankshaft/",
@@ -6993,6 +6997,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/crankshaft/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/dustin/",
@@ -7006,6 +7011,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/dustin/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/familycircus/",
@@ -7019,6 +7025,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/familycircus/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/gingermeggs/",
@@ -7032,6 +7039,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/gingermeggs/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/heathcliff/",
@@ -7045,6 +7053,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/heathcliff/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/hiandlois/",
@@ -7058,6 +7067,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/hiandlois/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/humorcartoon/",
@@ -7071,6 +7081,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/humorcartoon/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/marvin/",
@@ -7084,6 +7095,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/marvin/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/mutts/",
@@ -7097,6 +7109,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/mutts/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/rugrats/",
@@ -7110,6 +7123,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/rugrats/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/scarygary/",
@@ -7123,6 +7137,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/scarygary/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/spectickles/",
@@ -7136,6 +7151,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/spectickles/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/strangebrew/",
@@ -7149,6 +7165,7 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/strangebrew/",
     "lastIndex": "-1"
+    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/thelockhorns/",
@@ -7162,5 +7179,6 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/thelockhorns/",
     "lastIndex": "-1"
+    "nsfw": false
   }
 ]
