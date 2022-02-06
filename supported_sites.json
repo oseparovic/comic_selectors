@@ -6930,21 +6930,17 @@
     "nsfw": false
   },
   {
-    "url": "https://www.gocomics.com/1-and-done/2015/08/24",
+    "url": "https://www.arcamax.com/thefunnies/1anddone/",
     "title": "1 and Done",
-    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/oad/large_oad_rec_201704060956.jpg",
-    "imageSelector": ".item-comic-image img",
+    "imageUrl": "https://www.arcamax.com/jsnews/images/comics/1anddone.png",
+    "imageSelector": "img#comic-zoom",
     "imageIndex": "-1",
-    "firstSelector": ".fa-backward",
-    "firstIndex": "0",
-    "prevSelector": ".fa-caret-left",
+    "prevSelector": "a.prev",
     "prevIndex": "0",
-    "randomSelector": "a:contains(random)",
-    "randomIndex": "0",
-    "nextSelector": ".fa-caret-right",
+    "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": ".fa-forward",
-    "lastIndex": "0"
+    "lastSelector": "https://www.arcamax.com/thefunnies/1anddone/",
+    "lastIndex": "-1"
   },
   {
     "url": "https://www.arcamax.com/thefunnies/archie/",
