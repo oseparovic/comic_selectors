@@ -6934,13 +6934,13 @@
     "title": "1 and Done",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/1anddone.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/1anddone/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
@@ -6948,13 +6948,13 @@
     "title": "Archie",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/archie.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/archie/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
@@ -6962,13 +6962,13 @@
     "title": "Barney Google And Snuffy Smith",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/barneygoogle.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/barneygoogle/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
@@ -6976,13 +6976,13 @@
     "title": "Carpe Diem",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/carpediem.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/carpediem/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
@@ -6990,13 +6990,13 @@
     "title": "Crankshaft",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/crankshaft.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/crankshaft/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
@@ -7004,13 +7004,13 @@
     "title": "Dustin",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/dustin.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/dustin/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
@@ -7018,13 +7018,13 @@
     "title": "Family Circus",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/familycircus.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/familycircus/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
@@ -7032,13 +7032,13 @@
     "title": "Ginger Meggs",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/gingermeggs.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/gingermeggs/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
@@ -7046,13 +7046,13 @@
     "title": "Heathcliff",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/heathcliff.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/heathcliff/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
@@ -7060,7 +7060,7 @@
     "title": "Hi and Lois",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/hiandlois.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
@@ -7074,7 +7074,7 @@
     "title": "Jerry King Cartoons",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/humorcartoon.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
@@ -7088,7 +7088,7 @@
     "title": "Marvin",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/marvin.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
@@ -7102,7 +7102,7 @@
     "title": "Mutts",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/mutts.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
@@ -7116,7 +7116,7 @@
     "title": "Rugrats",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/rugrats.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
@@ -7130,7 +7130,7 @@
     "title": "Scary Gary",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/scarygary.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
@@ -7144,7 +7144,7 @@
     "title": "Spectickles",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/spectickles.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
@@ -7158,7 +7158,7 @@
     "title": "Strange Brew",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/strangebrew.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
@@ -7172,7 +7172,7 @@
     "title": "The Lockhorns",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/thelockhorns.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
