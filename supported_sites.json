@@ -5447,9 +5447,9 @@
     "unsupported": true
   },
   {
-    "url": "https://www.gocomics.com/big-nate-first-class/2015/01/07",
+    "url": "https://www.gocomics.com/big-nate-first-class/2015/01/12",
     "title": "Big Nate: First Class",
-    "imageUrl": "https://assets.amuniversal.com/abe0efd078d60132bc23005056a9545d",
+    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/ubadge_images/features/bncl/mid_u-201701251615.png",
     "imageSelector": ".item-comic-image img",
     "imageIndex": 0,
     "firstSelector": ".fa-backward",
