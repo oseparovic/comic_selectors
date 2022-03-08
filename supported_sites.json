@@ -7180,5 +7180,23 @@
     "lastSelector": "https://www.arcamax.com/thefunnies/thelockhorns/",
     "lastIndex": "-1",
     "nsfw": false
+  },
+  {
+    "url": "https://www.gocomics.com/buckles/2021/05/10",
+    "title": "Buckles",
+    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/ubadge_images/features/kfbk/mid_kfbk_u_202104281500.png",
+    "imageSelector": ".item-comic-image img",
+    "imageIndex": "0",
+    "firstSelector": ".fa-backward",
+    "firstIndex": "0",
+    "prevSelector": ".fa-caret-left",
+    "prevIndex": "0",
+    "randomSelector": "a:contains(random)",
+    "randomIndex": "0",
+    "nextSelector": ".fa-caret-right",
+    "nextIndex": "0",
+    "lastSelector": ".fa-forward",
+    "lastIndex": "0"
+    "nsfw": false
   }  
 ]
