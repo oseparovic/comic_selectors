@@ -4189,7 +4189,7 @@
     "title": "Mother Goose & Grimm",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/mothergooseandgrimm.png",
     "imageSelector": "img#comic-zoom",
-    "imageIndex": "-1",
+    "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
