@@ -4932,7 +4932,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported":true
   },
   {
     "url": "https://www.gocomics.com/askshagg/2002/08/12",
@@ -5886,7 +5887,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported":true
   },
   {
     "url": "https://www.gocomics.com/tim-campbell/2017/07/01",
@@ -5988,7 +5990,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported":true
   },
   {
     "url": "https://www.gocomics.com/cheer-up-emo-kid/2017/03/20",
@@ -6457,22 +6460,6 @@
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
     "lastIndex": 0
-  },
-  {
-    "url": "http://bucklescomic.com/comics/march-31-1996/",
-    "title": "Buckles",
-    "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9CdWNrbGVzLzE5OTYvMDMvQnVja2xlc19xcy4xOTk2MDMzMV85MDAuZ2lm",
-    "imageSelector": "img[src^=https://safr.kingfeatures.com]",
-    "imageIndex": 0,
-    "firstSelector": "#firstcomic > a",
-    "firstIndex": 0,
-    "prevSelector": "#previouscomic > a",
-    "prevIndex": 0,
-    "nextSelector": "#nextcomic > a",
-    "nextIndex": 0,
-    "lastSelector": "#lastcomic > a",
-    "lastIndex": 0,
-    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/chanlowe/2001/04/23",
