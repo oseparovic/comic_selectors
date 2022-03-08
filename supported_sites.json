@@ -2465,7 +2465,7 @@
     "url": "http://sinfest.net/",
     "title": "Sinfest",
     "imageUrl": "http://www.sinfest.net/btphp/comics/2016-11-30.gif",
-    "imageSelector": "tbody.style5 img",
+    "imageSelector": "tr:eq(1) img",
     "imageIndex": "0",
     "firstSelector": "a:has(img[src=../images/first.gif])",
     "firstIndex": "0",
