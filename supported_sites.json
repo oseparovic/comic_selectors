@@ -2676,7 +2676,7 @@
     "prevIndex": "0",
     "randomSelector": "https://loadingartist.com/random",
     "randomIndex": "-1",
-    "nextSelector": ".rightnav > a",
+    "nextSelector": ".right-nav > a",
     "nextIndex": "0",
     "lastSelector": ".last",
     "lastIndex": "0",
