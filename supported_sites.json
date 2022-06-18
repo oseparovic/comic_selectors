@@ -2459,7 +2459,8 @@
     "nextSelector": ".next-strip",
     "nextIndex": "0",
     "lastSelector": "http://www.schlockmercenary.com/",
-    "lastIndex": "-1"
+    "lastIndex": "-1",
+    "unsupported": true
   },
   {
     "url": "http://sinfest.net/",
