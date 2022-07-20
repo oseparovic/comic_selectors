@@ -1,5 +1,21 @@
 [
   {
+    "url":"https://www.mezzacotta.net/garfield/",
+    "title":"The Square Root of Minus Garfield",
+    "imageUrl":"https://www.mezzacotta.net/garfield/comics/1.png",
+    "imageSelector":"img[src^=/garfield/comics/]",
+    "imageIndex":"0",
+    "firstSelector":"a:containsOwn(First)",
+    "firstIndex":"0",
+    "prevSelector":"a:containsOwn(Previous)",
+    "prevIndex":"0",
+    "nextSelector":"a:containsOwn(Next)",
+    "nextIndex":"0",
+    "lastSelector":"a:containsOwn(Latest)",
+    "lastIndex":"0",
+    "nsfw":false
+  },
+  {
     "url": "www.threepanelsoul.com",
     "title": "Three Panel Soul",
     "imageUrl": "www.threepanelsoul.com/",
