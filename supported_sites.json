@@ -1,7 +1,7 @@
 [
   {
     "url":"https://www.mezzacotta.net/garfield/",
-    "title":"The Square Root of Minus Garfield",
+    "title":"Square Root of Minus Garfield",
     "imageUrl":"https://www.mezzacotta.net/garfield/comics/1.png",
     "imageSelector":"img[src^=/garfield/comics/]",
     "imageIndex":"0",
