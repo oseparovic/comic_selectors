@@ -7200,5 +7200,22 @@
     "lastSelector": ".fa-forward",
     "lastIndex": "0",
     "nsfw": false
+  },
+  {
+    "url":"https://recursioncomic.com/",
+    "title":"Recursion",
+    "imageUrl":"https://recursioncomic.com/sites/default/files/inline-images/recursion%20logo_0.png",
+    "imageSelector":"article > div.content > div > img",
+    "imageIndex":"0",
+    "firstSelector":".flippy-first a",
+    "firstIndex":"0",
+    "prevSelector":".flippy-previous a",
+    "prevIndex":"0",
+    "nextSelector":".flippy-next a",
+    "nextIndex":"0",
+    "lastSelector":".flippy-last a",
+    "lastIndex":"0",
+    "donateUrl":"https://www.patreon.com/recursioncomic",
+    "nsfw":false
   }
 ]
