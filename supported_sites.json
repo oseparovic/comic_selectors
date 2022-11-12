@@ -2,7 +2,7 @@
     {
     "url": "https://www.gocomics.com/lola/2001/04/08",
     "title": "Lola",
-    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ll/large_ll_rec_201808131042.jpg",
+    "imageUrl": "https://assets.amuniversal.com/c8f803a006e4013bc009005056a9545d",
     "imageSelector": ".item-comic-image img",
     "imageIndex": "0",
     "firstSelector": ".fa-backward",
