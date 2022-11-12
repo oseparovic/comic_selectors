@@ -1,4 +1,21 @@
 [
+    {
+    "url": "https://www.gocomics.com/lola/2001/04/08",
+    "title": "Lola",
+    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ll/large_ll_rec_201808131042.jpg",
+    "imageSelector": ".item-comic-image img",
+    "imageIndex": "0",
+    "firstSelector": ".fa-backward",
+    "firstIndex": "0",
+    "prevSelector": ".fa-caret-left",
+    "prevIndex": "0",
+    "randomSelector": "a:contains(random)",
+    "randomIndex": "0",
+    "nextSelector": ".fa-caret-right",
+    "nextIndex": "0",
+    "lastSelector": ".fa-forward",
+    "lastIndex": "0"
+  },
   {
     "url": "https://www.mezzacotta.net/garfield/",
     "title": "Square Root of Minus Garfield",
