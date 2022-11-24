@@ -1,4 +1,17 @@
 [
+    {
+    "url": "https://www.arcamax.com/thefunnies/macanudo/",
+    "title": "Macanudo",
+    "imageUrl": "https://resources.arcamax.com/newspics/233/23396/2339660.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/macanudo/",
+    "lastIndex": "-1"
+  },
   {
     "url": "https://www.gocomics.com/lola/2001/04/08",
     "title": "Lola",
@@ -2069,21 +2082,17 @@
     "donateUrl": "https://www.patreon.com/egscomics"
   },
   {
-    "url": "https://www.fowllanguagecomics.com",
+    "url": "https://www.arcamax.com/thefunnies/fowllanguage/",
     "title": "Fowl Language",
     "imageUrl": "https://assets.amuniversal.com/7ce13e300f0d0134679f005056a9545d",
-    "imageSelector": ".main-img[src*=jpg]",
+    "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
-    "firstSelector": "a:contains(First)",
-    "firstIndex": "0",
-    "prevSelector": "a:contains(Prev)",
+    "prevSelector": "a.prev",
     "prevIndex": "0",
-    "randomSelector": "a:contains(Random)",
-    "randomIndex": "0",
-    "nextSelector": "a:contains(Next)",
+    "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "a:contains(Last)",
-    "lastIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/fowllanguage/",
+    "lastIndex": "-1",
     "donateUrl": "http://www.fowllanguagecomics.com/support/"
   },
   {
