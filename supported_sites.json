@@ -5949,21 +5949,19 @@
     "lastIndex": 0
   },
   {
-    "url": "https://www.gocomics.com/candorville/2004/01/01",
+    "url": "https://candorville.com/",
     "title": "Candorville",
-    "imageUrl": "https://assets.amuniversal.com/47a7cc0c4df4102dbf94001438c0f03b",
-    "imageSelector": ".item-comic-image img",
+    "imageUrl": "https://candorville.com/comics/2022-12-10-just-one-question.jpg",
+    "imageSelector": "#comic img",
     "imageIndex": 0,
-    "firstSelector": ".fa-backward",
-    "firstIndex": 0,
-    "prevSelector": ".fa-caret-left",
+    "firstSelector": "https://candorville.com/2004/02/29/welfare-queens/",
+    "firstIndex": -1,
+    "prevSelector": ".nav-previous a",
     "prevIndex": 0,
-    "randomSelector": "a:contains(random)",
-    "randomIndex": "0",
-    "nextSelector": ".fa-caret-right",
+    "nextSelector": ".nav-next a",
     "nextIndex": 0,
-    "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastSelector": "https://candorville.com/",
+    "lastIndex": -1
   },
   {
     "url": "https://www.gocomics.com/stuartcarlson/1996/04/10",
