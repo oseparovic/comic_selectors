@@ -10,11 +10,6 @@
     "imageUrl": "http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg"
   },
   {
-    "url": "http://extrafabulouscomics.com/",
-    "title": "extrafabulouscomics",
-    "imageUrl": "http://extrafabulouscomics.com/wp-content/uploads/2016/06/IMG_20160611_142250.jpg"
-  },
-  {
     "url": "http://www.mrlovenstein.com/",
     "title": "mrlovenstein",
     "imageUrl": "http://www.mrlovenstein.com/images/comics/752_buttered_up.png"
@@ -35,8 +30,8 @@
     "imageUrl": "http://media.oglaf.com/comic/hoops.jpg"
   },
   {
-    "url": "http://explosm.net/",
-    "title": "explosm",
-    "imageUrl": "http://files.explosm.net/comics/Kris/rewarding.png?t=3BE74A"
+    "url": "https://explosm.net/",
+    "title": "cyanide & happiness",
+    "imageUrl": "https://static.explosm.net/2022/03/07230424/separated1.png"
   }
 ]
