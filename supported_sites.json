@@ -2792,7 +2792,7 @@
     "lastIndex": "-1"
   },
   {
-    "url": "https://www.penny-arcade.com/comic",
+    "url": "https://www.penny-arcade.com/comic/",
     "title": "Penny Arcade",
     "imageUrl": "https://photos.smugmug.com/Comics/Pa-comics/n-xmQS5/i-GHwRVsq/0/2100x20000/i-GHwRVsq-2100x20000.jpg",
     "imageSelector": "#comicFrame img",
@@ -4112,12 +4112,12 @@
     "nsfw": false
   },
   {
-    "url": "https://www.yesthievescan.com/category/comics/thieves-just-cant/",
+    "url": "https://www.yesthievescan.com/",
     "title": "Thieves Can't",
-    "imageUrl": "http://www.yesthievescan.com/wp-content/uploads/2018/05/TC-Logo-01-1.png",
+    "imageUrl": "https://www.yesthievescan.com/wp-content/uploads/2020/08/TC-Noir-Main-slender-1200.png",
     "imageSelector": "img.attachment-full",
     "imageIndex": "0",
-    "firstSelector": "a.first-webcomic-link",
+    "firstSelector": "https://www.yesthievescan.com/thievescant-comic/go-on-ask-another-one-for-its-life-story/",
     "firstIndex": "0",
     "prevSelector": "a.previous-webcomic-link",
     "prevIndex": "0",
@@ -6905,7 +6905,7 @@
     "nsfw": true
   },
   {
-    "url": "http://the-whiteboard.com/autowb001.html",
+    "url": "http://the-whiteboard.com/",
     "title": "The Whiteboard",
     "imageUrl": "http://www.the-whiteboard.com/media/18-banner-1.jpg",
     "imageSelector": "img[src~=autot?wbd+]",
@@ -7240,6 +7240,24 @@
     "lastSelector": ".flippy-last a",
     "lastIndex": "0",
     "donateUrl": "https://www.patreon.com/recursioncomic",
+    "nsfw": false
+  },
+  {
+    "url": "https://www.gocomics.com/shermanslagoon/2022/05/01",
+    "title": "Sherman's Lagoon",
+    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/shl/large_shl_rec_202204051037.jpg",
+    "imageSelector": ".item-comic-image img",
+    "imageIndex": "0",
+    "firstSelector": ".fa-backward",
+    "firstIndex": "0",
+    "prevSelector": ".fa-caret-left",
+    "prevIndex": "0",
+    "randomSelector": "a:contains(random)",
+    "randomIndex": "0",
+    "nextSelector": ".fa-caret-right",
+    "nextIndex": "0",
+    "lastSelector": ".fa-forward",
+    "lastIndex": "0",
     "nsfw": false
   }
 ]
