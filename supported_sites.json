@@ -2803,7 +2803,9 @@
     "prevIndex": "0",
     "nextSelector": ".newer",
     "nextIndex": "0",
-    "unsupported": false
+    "lastSelector": "https://www.penny-arcade.com/comic/",
+    "lastIndex": -1
+    "unsupported": true
   },
   {
     "url": "http://www.vgcats.com/comics/",
