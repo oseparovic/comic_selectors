@@ -1494,7 +1494,7 @@
     "lastSelector": "https://www.arcamax.com/thefunnies/dilbert/",
     "lastIndex": "-1",
     "nsfw": false,
-    "unsupported":true
+    "unsupported": true
   },
   {
     "url": "http://www.somethingpositive.net/",
@@ -1926,7 +1926,7 @@
     "nextIndex": "0",
     "lastSelector": "#comic-nav-menu > a:contains(Last »)",
     "lastIndex": "0",
-    "unsupported":true
+    "unsupported": true
   },
   {
     "url": "http://inverloch.seraph-inn.com/viewcomic.php",
