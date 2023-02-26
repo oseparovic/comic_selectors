@@ -1493,7 +1493,8 @@
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/dilbert/",
     "lastIndex": "-1",
-    "nsfw": false
+    "nsfw": false,
+    "unsupported":true
   },
   {
     "url": "http://www.somethingpositive.net/",
