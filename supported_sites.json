@@ -6901,7 +6901,7 @@
     "url": "http://the-whiteboard.com/",
     "title": "The Whiteboard",
     "imageUrl": "http://www.the-whiteboard.com/media/18-banner-1.jpg",
-    "imageSelector": "img[src~=autot?wbd+]",
+    "imageSelector": "img[src~=autot?wb+]",
     "imageIndex": "0",
     "firstSelector": "a:has(img[src=first.png])",
     "firstIndex": "0",
