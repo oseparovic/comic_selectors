@@ -2119,8 +2119,8 @@
   {
     "url": "http://kingoftheunknown.com/",
     "title": "King of the Unknown",
-    "imageUrl": "http://kingoftheunknown.com/wp-content/webcomic/id-lose-my-head-without-you/kingep001page29-b8afee5.jpg",
-    "imageSelector": ".webcomic-object-full > img",
+    "imageUrl": "https://i0.wp.com/kingoftheunknown.com/wp-content/uploads/2020/04/King-vs-Dullahan-10Lettered.jpg?w=860&ssl=1",
+    "imageSelector": "img.size-full",
     "imageIndex": "0",
     "firstSelector": ".first-webcomic-link",
     "firstIndex": "0",
