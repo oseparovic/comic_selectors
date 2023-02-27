@@ -6604,18 +6604,20 @@
     "nsfw": false
   },
   {
-    "url": "https://satwcomic.com/latest",
+    "url": "https://satwcomic.com/sweden-denmark-and-norway",
     "title": "Scandinavia and the World",
     "imageUrl": "https://satwcomic.com/img_satwcomic/scandinavia-logo-8.png",
-    "imageSelector": "center>a>img[src*='/art/']",
+    "imageSelector": "img.img-fluid",
     "imageIndex": "0",
-    "firstSelector": "a[title*='beginning']",
-    "firstIndex": "0",
-    "prevSelector": "a[title*='alt+p']",
+    "firstSelector": "https://satwcomic.com/sweden-denmark-and-norway",
+    "firstIndex": "-1",
+    "prevSelector": "a:has(ion-icon[name=arrow-back-outline])",
     "prevIndex": "0",
-    "nextSelector": "a[title*='alt+n']",
+    "randomSelector": "a:has(ion-icon[name=shuffle])",
+    "randomIndex": "0",
+    "nextSelector": "a:has(ion-icon[name=arrow-forward-outline])",
     "nextIndex": "0",
-    "lastSelector": "a[title^='Latest']",
+    "lastSelector": "a:has(ion-icon[name=play-skip-forward-outline])",
     "lastIndex": "0"
   },
   {
