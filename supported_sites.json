@@ -63,7 +63,7 @@
   },
   {
     "url": "https://dndoggos.com",
-    "title": "dndoggos.com",
+    "title": "dndoggos",
     "imageUrl": "https://dndoggos.com/images/banner.png",
     "imageSelector": "img.comic-image",
     "imageIndex": "0",
@@ -75,7 +75,8 @@
     "nextIndex": "0",
     "lastSelector": "button[ng-click='ctrl.last()']",
     "lastIndex": "0",
-    "donateUrl": "https://www.patreon.com/dndoggos"
+    "donateUrl": "https://www.patreon.com/dndoggos",
+    "unsupported": true
   },
   {
     "url": "http://www.sephko.com/",
