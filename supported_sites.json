@@ -1128,7 +1128,7 @@
     "url": "https://strongfemaleprotagonist.com",
     "title": "Strong Female Protagonist",
     "imageUrl": "https://strongfemaleprotagonist.com/wp-content/uploads/2017/11/sfp-7-49-for-web.png",
-    "imageSelector": "img.size-full",
+    "imageSelector": ".comic-page p img",
     "imageIndex": "0",
     "firstSelector": "a:has(img[src~=first-button.png])",
     "firstIndex": "0",
