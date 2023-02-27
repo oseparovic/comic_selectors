@@ -7253,7 +7253,7 @@
     "url": "https://comicskingdom.com/funky-winkerbean",
     "title": "Funky Winkerbean",
     "imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RnVua3lXaW5rZXJiZWFuLzIwMjIvMTIvRnVua3lfV2lua2VyYmVhbi4yMDIyMTIzMV8xNTM2LmdpZg==",
-    "imageSelector": "#theComicImage",
+    "imageSelector": "img#theComicImage",
     "imageIndex": "0",
     "prevSelector": "a:has(img[alt=previous Comic])",
     "prevIndex": "0",
