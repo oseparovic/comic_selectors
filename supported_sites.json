@@ -4244,21 +4244,6 @@
     "nsfw": false
   },
   {
-    "url": "https://comicskingdom.com/sherman-s-lagoon/",
-    "title": "Sherman's Lagoon",
-    "imageUrl": "https://api.kingdigital.com/img/characters/1442/sherman.jpg",
-    "imageSelector": "img[alt='Zone']",
-    "imageIndex": "0",
-    "prevSelector": "a:has(i.fa-caret-left)",
-    "prevIndex": "0",
-    "nextSelector": "a:has(i.fa-caret-right)",
-    "nextIndex": "0",
-    "lastSelector": "https://comicskingdom.com/sherman-s-lagoon/",
-    "lastIndex": "-1",
-    "unsupported": true,
-    "nsfw": false
-  },
-  {
     "url": "https://www.arcamax.com/thefunnies/mallardfillmore/",
     "title": "Mallard Fillmore",
     "imageUrl": "https://www.arcamax.com/newspics/cache/lw600/171/17139/1713925.jpg",
@@ -7262,6 +7247,20 @@
     "nextIndex": "0",
     "lastSelector": ".fa-forward",
     "lastIndex": "0",
+    "nsfw": false
+  },
+    {
+    "url": "https://comicskingdom.com/funky-winkerbean",
+    "title": "Funky Winkerbean",
+    "imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RnVua3lXaW5rZXJiZWFuLzIwMjIvMTIvRnVua3lfV2lua2VyYmVhbi4yMDIyMTIzMV8xNTM2LmdpZg==",
+    "imageSelector": "#theComicImage",
+    "imageIndex": "0",
+    "prevSelector": "a:has(img[alt=previous Comic])",
+    "prevIndex": "0",
+    "nextSelector": "a:has(img[alt=Next comic])",
+    "nextIndex": "0",
+    "lastSelector": "https://comicskingdom.com/funky-winkerbean",
+    "lastIndex": "-1",
     "nsfw": false
   }
 ]
