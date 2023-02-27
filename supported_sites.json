@@ -4131,7 +4131,8 @@
     "lastSelector": "a.last-webcomic-link",
     "lastIndex": "0",
     "donateUrl": "https://www.patreon.com/thievescant",
-    "nsfw": false
+    "nsfw": false,
+    "unsupported": true
   },
   {
     "url": "http://introvertdoodles.com/",
