@@ -6609,7 +6609,7 @@
     "url": "https://satwcomic.com/sweden-denmark-and-norway",
     "title": "Scandinavia and the World",
     "imageUrl": "https://satwcomic.com/img_satwcomic/scandinavia-logo-8.png",
-    "imageSelector": "img.img-fluid",
+    "imageSelector": "img[itemprop=image]",
     "imageIndex": "0",
     "firstSelector": "https://satwcomic.com/sweden-denmark-and-norway",
     "firstIndex": "-1",
