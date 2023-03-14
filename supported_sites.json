@@ -2842,7 +2842,7 @@
     "nextSelector": "a[rel=next]",
     "nextIndex": "0",
     "lastSelector": "a:contains(Last)",
-    "lastIndex": "-1"
+    "lastIndex": "0"
   },
   {
     "url": "http://cad-comic.com/",
