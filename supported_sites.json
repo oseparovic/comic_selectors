@@ -999,7 +999,7 @@
     "url": "http://www.lackadaisycats.com/comic.php",
     "title": "Lackadaisy",
     "imageUrl": "https://www.lackadaisy.com/comic/1507644482.jpg",
-    "imageSelector": "#content img",
+    "imageSelector": "#exhibit img",
     "imageIndex": "0",
     "firstSelector": "http://www.lackadaisycats.com/comic.php?comicid=1",
     "firstIndex": "-1",
