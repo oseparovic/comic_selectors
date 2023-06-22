@@ -7266,5 +7266,21 @@
     "lastSelector": "https://comicskingdom.com/funky-winkerbean",
     "lastIndex": "-1",
     "nsfw": false
+  },
+  {
+    "url": "https://www.egscomics.com/egsnp",
+    "title": "EGS:NP",
+    "imageUrl": "https://www.egscomics.com/images/logo2.gif",
+    "imageSelector": "img#cc-comic",
+    "imageIndex": "0",
+    "firstSelector": "a.cc-first",
+    "firstIndex": "0",
+    "prevSelector": "a.cc-prev",
+    "prevIndex": "0",
+    "nextSelector": "a.cc-next",
+    "nextIndex": "0",
+    "lastSelector": "a.cc-last",
+    "lastIndex": "0",
+    "nsfw": false
   }
 ]
