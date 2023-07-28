@@ -2927,7 +2927,7 @@
     "url": "http://nedroid.com/",
     "title": "Nedroid",
     "imageUrl": "http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg",
-    "imageSelector": "div#comic > img",
+    "imageSelector": "div#comic img",
     "imageIndex": "0",
     "firstSelector": ".comic-nav-first",
     "firstIndex": "0",
@@ -2974,7 +2974,8 @@
     "nextIndex": "0",
     "lastSelector": "http://www.mrlovenstein.com/",
     "lastIndex": "-1",
-    "donateUrl": "https://www.patreon.com/mrlovenstein"
+    "donateUrl": "https://www.patreon.com/mrlovenstein",
+    "supported": false
   },
   {
     "url": "http://www.thingsinsquares.com/",
