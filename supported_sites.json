@@ -532,17 +532,17 @@
     "url": "http://sallyforth.com/",
     "title": "Sally Forth",
     "imageUrl": "https://safr.kingfeatures.com/idn/cnfeed/zone/js/content.php?file=aHR0cDovL3NhZnIua2luZ2ZlYXR1cmVzLmNvbS9TYWxseUZvcnRoLzIwMTgvMDMvU2FsbHlfRm9ydGguMjAxODAzMTRfOTAwLmdpZg==",
-    "imageSelector": "#comicpanel img",
+    "imageSelector": "img#theComicImage",
     "imageIndex": "0",
     "firstSelector": "#firstcomic a",
     "firstIndex": "0",
-    "prevSelector": "#previouscomic a",
+    "prevSelector": ".cv-nav",
     "prevIndex": "0",
-    "nextSelector": "#nextcomic a",
-    "nextIndex": "0",
+    "nextSelector": ".cv-nav",
+    "nextIndex": "1",
     "lastSelector": "http://sallyforth.com/",
     "lastIndex": "-1",
-    "unsupported": true
+    "unsupported": false
   },
   {
     "url": "http://www.gocomics.com/duplex/1996/08/12",
