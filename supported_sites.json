@@ -5054,23 +5054,6 @@
     "lastIndex": 0
   },
   {
-    "url": "https://www.gocomics.com/badlands/2012/11/26",
-    "title": "Badlands",
-    "imageUrl": "https://assets.amuniversal.com/91b1fd2014ed0130fe9b001dd8b71c47",
-    "imageSelector": ".item-comic-image img",
-    "imageIndex": 0,
-    "firstSelector": ".fa-backward",
-    "firstIndex": 0,
-    "prevSelector": ".fa-caret-left",
-    "prevIndex": 0,
-    "randomSelector": "a:contains(random)",
-    "randomIndex": "0",
-    "nextSelector": ".fa-caret-right",
-    "nextIndex": 0,
-    "lastSelector": ".fa-forward",
-    "lastIndex": 0
-  },
-  {
     "url": "https://www.gocomics.com/ballardstreet/2002/01/01",
     "title": "Ballard Street",
     "imageUrl": "https://assets.amuniversal.com/344f74105e4b012ee3bf00163e41dd5b",
