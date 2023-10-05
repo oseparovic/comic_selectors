@@ -1212,7 +1212,8 @@
     "lastSelector": "http://dyingalone.net/",
     "lastIndex": "-1",
     "nsfw": false,
-    "donateUrl": "https://www.patreon.com/ErinDiesAlone"
+    "donateUrl": "https://www.patreon.com/ErinDiesAlone",
+    "unsupported": 1
   },
   {
     "url": "http://www.maiuscentral.com/jrs/",
@@ -4083,7 +4084,7 @@
     "lastIndex": "0",
     "donateUrl": "https://www.patreon.com/thievescant",
     "nsfw": false,
-    "unsupported": true
+    "unsupported": 1
   },
   {
     "url": "http://introvertdoodles.com/",
