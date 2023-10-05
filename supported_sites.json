@@ -55,9 +55,9 @@
     "firstIndex": "0",
     "prevSelector": "a[class=cc-prev]",
     "prevIndex": "0",
-    "nextSelector": "a[class=cc-next-dis]",
+    "nextSelector": "a[class=cc-next]",
     "nextIndex": "0",
-    "lastSelector": "a[class=cc-last-dis]",
+    "lastSelector": "a[class=cc-last]",
     "lastIndex": "0",
     "donateUrl": "https://www.patreon.com/threepanelsoul?ty=h"
   },
@@ -826,23 +826,6 @@
     "nextIndex": "0",
     "lastSelector": ".fa-forward",
     "lastIndex": "0"
-  },
-  {
-    "url": "http://notinventedhe.re",
-    "title": "Not Invented Here",
-    "imageUrl": "http://thiswas.notinventedhe.re/on/2009-09-21",
-    "imageSelector": "#comic-content > a > img",
-    "imageIndex": "0",
-    "firstSelector": "http://notinventedhe.re/on/2009-9-21",
-    "firstIndex": "-1",
-    "prevSelector": "a#nav-previous",
-    "prevIndex": "0",
-    "nextSelector": "a#nav-next",
-    "nextIndex": "0",
-    "lastSelector": "http://notinventedhe.re",
-    "lastIndex": "-1",
-    "donateUrl": "https://www.patreon.com/notinventedhere",
-    "nsfw": false
   },
   {
     "url": "https://www.arcamax.com/thefunnies/diamondlil/",
