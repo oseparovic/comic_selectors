@@ -828,6 +828,24 @@
     "lastIndex": "0"
   },
   {
+    "url": "http://notinventedhe.re",
+    "title": "Not Invented Here",
+    "imageUrl": "http://thiswas.notinventedhe.re/on/2009-09-21",
+    "imageSelector": "#comic-content > a > img",
+    "imageIndex": "0",
+    "firstSelector": "http://notinventedhe.re/on/2009-9-21",
+    "firstIndex": "-1",
+    "prevSelector": "a#nav-previous",
+    "prevIndex": "0",
+    "nextSelector": "a#nav-next",
+    "nextIndex": "0",
+    "lastSelector": "http://notinventedhe.re",
+    "lastIndex": "-1",
+    "donateUrl": "https://www.patreon.com/notinventedhere",
+    "nsfw": false,
+    "unsupported": true
+  },
+  {
     "url": "https://www.arcamax.com/thefunnies/diamondlil/",
     "title": "Diamond Lil",
     "imageUrl": "https://www.arcamax.com/newspics/206/20688/2068830.gif",
