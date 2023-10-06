@@ -1036,7 +1036,8 @@
     "nextSelector": ".comic-nav-next",
     "nextIndex": "0",
     "lastSelector": "http://bird-boy.com/",
-    "lastIndex": "-1"
+    "lastIndex": "-1",
+    "unsupported": true
   },
   {
     "url": "http://www.casualvillain.com/Unsounded/",
