@@ -121,7 +121,7 @@
     "lastIndex": "-1"
   },
   {
-    "url": "https://www.gocomics.com/fminus/2005/05/10",
+    "url": "http://www.gocomics.com/fminus/2005/05/10",
     "title": "F Minus",
     "imageUrl": "https://assets.amuniversal.com/045eae008f5f0136525d005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -138,7 +138,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/rubes/2002/01/01",
+    "url": "http://www.gocomics.com/rubes/2002/01/01",
     "title": "Rubes",
     "imageUrl": "https://assets.amuniversal.com/6e2d80a07564013648ac005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -172,7 +172,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/herman/1997/06/02",
+    "url": "http://www.gocomics.com/herman/1997/06/02",
     "title": "Herman",
     "imageUrl": "https://assets.amuniversal.com/d62b1c40ff1501351c5d005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -189,7 +189,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/jumpstart/1996/01/01",
+    "url": "http://www.gocomics.com/jumpstart/1996/01/01",
     "title": "JumpStart",
     "imageUrl": "https://assets.amuniversal.com/ca68a5f0ff5801351c76005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -206,7 +206,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/shoe/2001/04/08",
+    "url": "http://www.gocomics.com/shoe/2001/04/08",
     "title": "Shoe",
     "imageUrl": "https://assets.amuniversal.com/55525df015de01362534005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -223,7 +223,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/ziggy/1971/06/27",
+    "url": "http://www.gocomics.com/ziggy/1971/06/27",
     "title": "Ziggy",
     "imageUrl": "https://assets.amuniversal.com/9c8e5190ffd801351cb9005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -240,7 +240,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/thefuscobrothers/1998/01/01",
+    "url": "http://www.gocomics.com/thefuscobrothers/1998/01/01",
     "title": "The Fusco Brothers",
     "imageUrl": "https://assets.amuniversal.com/f39121701352013623ee005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -257,7 +257,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/ben/2009/01/01",
+    "url": "http://www.gocomics.com/ben/2009/01/01",
     "title": "Ben",
     "imageUrl": "https://assets.amuniversal.com/d952d6f012c6013623c0005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -274,7 +274,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/robert-ariail/2011/06/01",
+    "url": "http://www.gocomics.com/robert-ariail/2011/06/01",
     "title": "Robert Ariail",
     "imageUrl": "https://assets.amuniversal.com/1d9ada600ea50136222e005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -291,7 +291,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/garyvarvel/1993/12/10",
+    "url": "http://www.gocomics.com/garyvarvel/1993/12/10",
     "title": "Gary Varvel",
     "imageUrl": "https://assets.amuniversal.com/f0b5449010f90136235d005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -308,7 +308,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/danasummers/2001/04/23",
+    "url": "http://www.gocomics.com/danasummers/2001/04/23",
     "title": "Dana Summers",
     "imageUrl": "https://assets.amuniversal.com/fe19b340108a01362336005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -325,7 +325,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/mike-lester/2011/09/15",
+    "url": "http://www.gocomics.com/mike-lester/2011/09/15",
     "title": "Mike Lester",
     "imageUrl": "https://assets.amuniversal.com/dee1f8b0112201362375005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -342,7 +342,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/stevekelley/2005/01/05",
+    "url": "http://www.gocomics.com/stevekelley/2005/01/05",
     "title": "Steve Kelley",
     "imageUrl": "https://assets.amuniversal.com/527711800fcc013622d4005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -359,7 +359,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/bobgorrell/2004/03/25",
+    "url": "http://www.gocomics.com/bobgorrell/2004/03/25",
     "title": "Bob Gorrell",
     "imageUrl": "https://assets.amuniversal.com/a9ff6c50105201362326005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -376,7 +376,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/stevebreen/2008/08/01",
+    "url": "http://www.gocomics.com/stevebreen/2008/08/01",
     "title": "Steve Breen",
     "imageUrl": "https://assets.amuniversal.com/ff78bfc0107301362330005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -393,7 +393,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/chipbok/2002/08/09",
+    "url": "http://www.gocomics.com/chipbok/2002/08/09",
     "title": "Chip Bok",
     "imageUrl": "https://assets.amuniversal.com/4a9bdf00113d0136237b005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -410,7 +410,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/theflyingmccoys/2005/05/09",
+    "url": "http://www.gocomics.com/theflyingmccoys/2005/05/09",
     "title": "The Flying McCoys",
     "imageUrl": "https://assets.amuniversal.com/fcbaa570087201361fda005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -427,7 +427,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/closetohome/1992/12/07",
+    "url": "http://www.gocomics.com/closetohome/1992/12/07",
     "title": "Close to Home",
     "imageUrl": "https://assets.amuniversal.com/1dccf870093c01362038005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -444,7 +444,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/inthebleachers/1986/04/10",
+    "url": "http://www.gocomics.com/inthebleachers/1986/04/10",
     "title": "In the Bleachers",
     "imageUrl": "https://assets.amuniversal.com/0fe91b10087301361fda005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -461,7 +461,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/tomthedancingbug/1998/01/04",
+    "url": "http://www.gocomics.com/tomthedancingbug/1998/01/04",
     "title": "Tom the Dancing Bug",
     "imageUrl": "https://assets.amuniversal.com/8441f3400ebf01362241005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -495,7 +495,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/nancy/1996/01/29",
+    "url": "http://www.gocomics.com/nancy/1996/01/29",
     "title": "Nancy",
     "imageUrl": "https://assets.amuniversal.com/2837e4a002ce01361d90005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -512,7 +512,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/animalcrackers/2001/04/08",
+    "url": "http://www.gocomics.com/animalcrackers/2001/04/08",
     "title": "Animal Crackers",
     "imageUrl": "https://assets.amuniversal.com/368826c0f9d101351a46005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -545,7 +545,7 @@
     "unsupported": false
   },
   {
-    "url": "https://www.gocomics.com/duplex/1996/08/12",
+    "url": "http://www.gocomics.com/duplex/1996/08/12",
     "title": "The Duplex",
     "imageUrl": "https://assets.amuniversal.com/5770d99002cb01361d8d005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -562,7 +562,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/monty/2001/04/02",
+    "url": "http://www.gocomics.com/monty/2001/04/02",
     "title": "Monty",
     "imageUrl": "https://assets.amuniversal.com/c13c4680030301361db0005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -579,7 +579,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/poochcafe/2003/04/27",
+    "url": "http://www.gocomics.com/poochcafe/2003/04/27",
     "title": "Pooch Cafe",
     "imageUrl": "https://assets.amuniversal.com/7a5735f002cb01361d8d005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -611,7 +611,7 @@
     "lastIndex": "-1"
   },
   {
-    "url": "https://www.gocomics.com/arloandjanis/1994/05/02",
+    "url": "http://www.gocomics.com/arloandjanis/1994/05/02",
     "title": "Arlo and Janis",
     "imageUrl": "https://assets.amuniversal.com/06d3eb5002e301361d9d005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -628,7 +628,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/wizardofid/2002/01/01",
+    "url": "http://www.gocomics.com/wizardofid/2002/01/01",
     "title": "Wizard of Id",
     "imageUrl": "https://assets.amuniversal.com/b8927430f3f101351806005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -658,7 +658,7 @@
     "lastIndex": "-1"
   },
   {
-    "url": "https://www.gocomics.com/frazz/2001/04/02",
+    "url": "http://www.gocomics.com/frazz/2001/04/02",
     "title": "Frazz",
     "imageUrl": "https://assets.amuniversal.com/bf8a9460038301361dd7005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -675,7 +675,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/offthemark/2002/09/02",
+    "url": "http://www.gocomics.com/offthemark/2002/09/02",
     "title": "Off the Mark",
     "imageUrl": "https://assets.amuniversal.com/c8f11740030301361db0005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -692,7 +692,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/roseisrose/1986/01/01",
+    "url": "http://www.gocomics.com/roseisrose/1986/01/01",
     "title": "Rose is Rose",
     "imageUrl": "https://assets.amuniversal.com/c082f520ffc601351caa005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -709,7 +709,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/adamathome/1995/06/20",
+    "url": "http://www.gocomics.com/adamathome/1995/06/20",
     "title": "Adam@Home",
     "imageUrl": "https://assets.amuniversal.com/ad4d9c4002cc01361d8e005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -726,7 +726,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/phoebe-and-her-unicorn/2012/01/15",
+    "url": "http://www.gocomics.com/phoebe-and-her-unicorn/2012/01/15",
     "title": "Phoebe and Her Unicorn",
     "imageUrl": "https://assets.amuniversal.com/ce20c5c0038301361dd7005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -743,7 +743,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/overboard/1990/08/20",
+    "url": "http://www.gocomics.com/overboard/1990/08/20",
     "title": "Overboard",
     "imageUrl": "https://assets.amuniversal.com/f874d050038301361dd7005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -760,7 +760,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/frank-and-ernest/1990/03/10",
+    "url": "http://www.gocomics.com/frank-and-ernest/1990/03/10",
     "title": "Frank and Ernest",
     "imageUrl": "https://assets.amuniversal.com/2e083760ffba01351c99005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -777,7 +777,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/bc/2002/01/01",
+    "url": "http://www.gocomics.com/bc/2002/01/01",
     "title": "B.C.",
     "imageUrl": "https://assets.amuniversal.com/aa397320efd10135168c005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -794,7 +794,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/9chickweedlane/1993/07/13",
+    "url": "http://www.gocomics.com/9chickweedlane/1993/07/13",
     "title": "9 Chickweed Lane",
     "imageUrl": "https://assets.amuniversal.com/093ad9d0e45e01351229005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -811,7 +811,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/nonsequitur/1992/02/16",
+    "url": "http://www.gocomics.com/nonsequitur/1992/02/16",
     "title": "Non Sequitur",
     "imageUrl": "https://assets.amuniversal.com/1a418090038501361dda005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -1333,7 +1333,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/pluggers/2001/04/08",
+    "url": "http://www.gocomics.com/pluggers/2001/04/08",
     "title": "Pluggers",
     "imageUrl": "http://avatar.amuniversal.com/feature_avatars/hero_images/features/tmplu/large_hero-201701251517.png",
     "imageSelector": ".item-comic-image img",
@@ -1350,7 +1350,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/foxtrotclassics/2007/01/01",
+    "url": "http://www.gocomics.com/foxtrotclassics/2007/01/01",
     "title": "FoxTrot Classics",
     "imageUrl": "http://avatar.amuniversal.com/feature_avatars/hero_images/features/ftcl/large_hero-201701251521.png",
     "imageSelector": ".item-comic-image img",
@@ -1845,7 +1845,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/dilbert-classics/2012/06/13",
+    "url": "http://www.gocomics.com/dilbert-classics/2012/06/13",
     "title": "Dilbert Classics",
     "imageUrl": "https://assets.amuniversal.com/d3c70c80bb060134314d005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -1909,7 +1909,7 @@
     "donateUrl": "https://www.patreon.com/user?u=872675"
   },
   {
-    "url": "https://www.gocomics.com/pickles/2003/01/01",
+    "url": "http://www.gocomics.com/pickles/2003/01/01",
     "title": "Pickles",
     "imageUrl": "https://assets.amuniversal.com/e6a9ba50bc25013432dd005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -2178,7 +2178,7 @@
     "lastIndex": "-1"
   },
   {
-    "url": "https://www.gocomics.com/luann/1985/03/17",
+    "url": "http://www.gocomics.com/luann/1985/03/17",
     "title": "Luann",
     "imageUrl": "https://assets.amuniversal.com/e18c8890bf07013435d3005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -2195,7 +2195,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/speedbump/2002/01/01",
+    "url": "http://www.gocomics.com/speedbump/2002/01/01",
     "title": "Speed Bump",
     "imageUrl": "https://assets.amuniversal.com/ce855ec0a1df01340c2e005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -2212,7 +2212,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/peanuts/1950/10/02",
+    "url": "http://www.gocomics.com/peanuts/1950/10/02",
     "title": "Peanuts",
     "imageUrl": "https://assets.amuniversal.com/e33a10c0f87b013014e9001dd8b71c47",
     "imageSelector": ".item-comic-image img",
@@ -2229,7 +2229,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/foxtrot/1988/04/11",
+    "url": "http://www.gocomics.com/foxtrot/1988/04/11",
     "title": "FoxTrot",
     "imageUrl": "https://assets.amuniversal.com/a0b7c9d0f481012e2fb900163e41dd5b",
     "imageSelector": ".item-comic-image img",
@@ -2246,7 +2246,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/bignate/1991/01/07",
+    "url": "http://www.gocomics.com/bignate/1991/01/07",
     "title": "Big Nate",
     "imageUrl": "https://assets.amuniversal.com/1fbaba60e6dd012e2fb300163e41dd5b",
     "imageSelector": ".item-comic-image img",
@@ -2263,7 +2263,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/baldo/2000/01/01",
+    "url": "http://www.gocomics.com/baldo/2000/01/01",
     "title": "Baldo",
     "imageUrl": "https://assets.amuniversal.com/503d0f40a37c01340dfd005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -2280,7 +2280,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/getfuzzy/1999/09/06",
+    "url": "http://www.gocomics.com/getfuzzy/1999/09/06",
     "title": "Get Fuzzy",
     "imageUrl": "https://assets.amuniversal.com/ad525190a2ca01340d2f005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -2297,7 +2297,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/pearlsbeforeswine/2002/01/07",
+    "url": "http://www.gocomics.com/pearlsbeforeswine/2002/01/07",
     "title": "Pearls Before Swine",
     "imageUrl": "https://assets.amuniversal.com/9afdd460028b012f2fbf00163e41dd5b",
     "imageSelector": ".item-comic-image img",
@@ -2393,7 +2393,7 @@
     "lastIndex": "-1"
   },
   {
-    "url": "https://www.gocomics.com/spot-the-frog/2004/01/05",
+    "url": "http://www.gocomics.com/spot-the-frog/2004/01/05",
     "title": "Spot the Frog",
     "imageUrl": "https://assets.amuniversal.com/cc45ecb074fe012ee3c400163e41dd5b",
     "imageSelector": ".item-comic-image img",
@@ -2471,7 +2471,7 @@
     "lastIndex": "-1"
   },
   {
-    "url": "https://www.gocomics.com/garfield/1978/06/19",
+    "url": "http://www.gocomics.com/garfield/1978/06/19",
     "title": "Garfield",
     "imageUrl": "https://assets.amuniversal.com/1a6eb5804e2601394988005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -2488,7 +2488,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/calvinandhobbes/1985/11/18",
+    "url": "http://www.gocomics.com/calvinandhobbes/1985/11/18",
     "title": "Calvin and Hobbes",
     "imageUrl": "https://assets.amuniversal.com/b373c0b077f30134dd61005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -2992,7 +2992,7 @@
     "donateUrl": "https://www.patreon.com/redpanels"
   },
   {
-    "url": "https://www.gocomics.com/jim-benton-cartoons/2014/06/12",
+    "url": "http://www.gocomics.com/jim-benton-cartoons/2014/06/12",
     "title": "Jim Benton Cartoons",
     "imageUrl": "http://jimbenton.com/page14/files/JimBentonComic-Halloween.jpg",
     "imageSelector": ".item-comic-image img",
@@ -3828,7 +3828,7 @@
     "nsfw": false
   },
   {
-    "url": "https://www.gocomics.com/thatababy/2010/09/13",
+    "url": "http://www.gocomics.com/thatababy/2010/09/13",
     "title": "Thatababy",
     "imageUrl": "https://assets.amuniversal.com/ee850a50a6e6012d63f600163e41dd5b",
     "imageSelector": ".item-comic-image img",
@@ -3845,7 +3845,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/redandrover/2000/05/07",
+    "url": "http://www.gocomics.com/redandrover/2000/05/07",
     "title": "Red and Rover",
     "imageUrl": "https://assets.amuniversal.com/e1edde1072620131f1bc005056a9545d",
     "imageSelector": ".item-comic-image img",
@@ -3862,7 +3862,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/lio/2006/05/15",
+    "url": "http://www.gocomics.com/lio/2006/05/15",
     "title": "Lio",
     "imageUrl": "https://assets.amuniversal.com/d68d40905e11012ee3bf00163e41dd5b",
     "imageSelector": ".item-comic-image img",
@@ -3879,7 +3879,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/dogsofckennel/2010/10/04",
+    "url": "http://www.gocomics.com/dogsofckennel/2010/10/04",
     "title": "Dogs of C-Kennel",
     "imageUrl": "https://assets.amuniversal.com/ef593d70ae3b012d63f600163e41dd5b",
     "imageSelector": ".item-comic-image img",
@@ -3896,7 +3896,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/dogeatdoug/2005/01/02",
+    "url": "http://www.gocomics.com/dogeatdoug/2005/01/02",
     "title": "Dog Eat Doug",
     "imageUrl": "https://assets.amuniversal.com/9d88c7b05e78012ee3bf00163e41dd5b",
     "imageSelector": ".item-comic-image img",
@@ -3913,7 +3913,7 @@
     "lastIndex": "0"
   },
   {
-    "url": "https://www.gocomics.com/daddyshome/2008/03/23",
+    "url": "http://www.gocomics.com/daddyshome/2008/03/23",
     "title": "Daddy's Home",
     "imageUrl": "https://assets.amuniversal.com/2aa46c805e54012ee3bf00163e41dd5b",
     "imageSelector": ".item-comic-image img",
