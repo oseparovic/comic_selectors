@@ -7810,5 +7810,21 @@
     "nextIndex": "0",
     "lastSelector": ".fa-forward",
     "lastIndex": "0"
+  },
+  {
+    "url": "https://www.snafu-comics.com/grimtales/",
+    "title": "Grim Tales from Down Below",
+    "imageUrl": "https://www.snafu-comics.com/images/thumbs/grim-tales.jpg",
+    "imageSelector": "#cc-comic",
+    "imageIndex": "0",
+    "firstSelector": ".cc-first",
+    "firstIndex": "0",
+    "prevSelector": ".cc-prev",
+    "prevIndex": "0",
+    "nextSelector": ".cc-next",
+    "nextIndex": "0",
+    "lastSelector": ".cc-last",
+    "lastIndex": "0",
+    "donateUrl": "https://www.patreon.com/vinson"
   }
 ]
