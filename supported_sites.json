@@ -3032,14 +3032,14 @@
     "imageUrl": "https://static.explosm.net/2022/03/07230424/separated1.png",
     "imageSelector": "div[class^=MainComic__] img",
     "imageIndex": "0",
-    "firstSelector": "https://explosm.net/comics/kris-kapplesauce#comic",
+    "firstSelector": "https://explosm.net/comics/kris-kapplesauce",
     "firstIndex": "-1",
-    "prevSelector": "div[class^=ComicSelector__Container] a",
+    "prevSelector": "a:has([rotate=180deg])",
     "prevIndex": "0",
-    "randomSelector": "div[class^=ComicSelector__Container] a",
-    "randomIndex": "1",
-    "nextSelector": "div[class^=ComicSelector__Container] a",
-    "nextIndex": "2",
+    "nextSelector": "a:has([rotate=0deg])",
+    "nextIndex": "0",
+    "lastSelector": "https://explosm.net/comics/latest",
+    "lastIndex": "-1"
     "donateUrl": "https://www.patreon.com/cyanide_and_happiness/overview"
   },
   {
