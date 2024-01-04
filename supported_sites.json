@@ -2875,17 +2875,17 @@
     "url": "http://nedroid.com/",
     "title": "Nedroid",
     "imageUrl": "http://nedroid.com/comics/2009-02-12-beartato-cheerupface.jpg",
-    "imageSelector": "div#comic img",
+    "imageSelector": "div.comic img",
     "imageIndex": "0",
-    "firstSelector": ".comic-nav-first",
+    "firstSelector": "a:contains(FIRST)",
     "firstIndex": "0",
-    "prevSelector": ".comic-nav-previous",
+    "prevSelector": "a:contains(PREVIOUS)",
     "prevIndex": "0",
-    "randomSelector": ".comic-nav-random",
+    "randomSelector": "a:contains(RANDOM)",
     "randomIndex": "0",
-    "nextSelector": ".comic-nav-next",
+    "nextSelector": "a:contains(NEXT)",
     "nextIndex": "0",
-    "lastSelector": ".comic-nav-last",
+    "lastSelector": "a:contains(LATEST)",
     "lastIndex": "0"
   },
   {
@@ -3027,7 +3027,7 @@
     "donateUrl": "https://www.patreon.com/ryanhudson"
   },
   {
-    "url": "https://explosm.net/",
+    "url": "https://explosm.net/comics/kris-kapplesauce",
     "title": "Cyanide & Happiness",
     "imageUrl": "https://static.explosm.net/2022/03/07230424/separated1.png",
     "imageSelector": "div[class^=MainComic__] img",
@@ -3040,8 +3040,6 @@
     "randomIndex": "1",
     "nextSelector": "div[class^=ComicSelector__Container] a",
     "nextIndex": "2",
-    "lastSelector": "http://explosm.net/",
-    "lastIndex": "-1",
     "donateUrl": "https://www.patreon.com/cyanide_and_happiness/overview"
   },
   {
