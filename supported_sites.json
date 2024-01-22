@@ -4357,7 +4357,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported": true
   },
   {
     "url": "https://www.arcamax.com/thefunnies/beetlebailey/",
@@ -5304,7 +5305,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/berger-and-wyse/2012/07/20",
@@ -5424,7 +5426,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": 0,
     "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "lastIndex": 0,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/thebigpicture/1999/08/24",
@@ -5699,21 +5702,18 @@
     "lastIndex": 0
   },
   {
-    "url": "https://www.gocomics.com/break-of-day/2011/08/29",
+    "url": "https://comicskingdom.com/break-of-day",
     "title": "Break of Day",
-    "imageUrl": "https://assets.amuniversal.com/3283cbb0b17d012e2f8800163e41dd5b",
-    "imageSelector": ".item-comic-image img",
-    "imageIndex": 0,
-    "firstSelector": ".fa-backward",
-    "firstIndex": 0,
-    "prevSelector": ".fa-caret-left",
-    "prevIndex": 0,
-    "randomSelector": "a:contains(random)",
-    "randomIndex": "0",
-    "nextSelector": ".fa-caret-right",
-    "nextIndex": 0,
-    "lastSelector": ".fa-forward",
-    "lastIndex": 0
+    "imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=QnJlYWtPZkRheS8yMDI0LzAxL0JyZWFrb2ZEYXkuMjAyNDAxMjJfMTUzNi5naWY=",
+    "imageSelector": "#theComicImage",
+    "imageIndex": "0",
+    "prevSelector": "a:has([alt=Previous comic])",
+    "prevIndex": "0",
+    "nextSelector": "a:has([alt=Next comic])",
+    "nextIndex": "0",
+    "lastSelector": "https://comicskingdom.com/break-of-day",
+    "lastIndex": "-1",
+    "nsfw": false
   },
   {
     "url": "https://www.gocomics.com/breaking-cat-news/2010/01/01",
@@ -7187,15 +7187,16 @@
     "url": "https://comicskingdom.com/funky-winkerbean",
     "title": "Funky Winkerbean",
     "imageUrl": "https://safr.kingfeatures.com/api/img.php?e=gif&s=c&file=RnVua3lXaW5rZXJiZWFuLzIwMjIvMTIvRnVua3lfV2lua2VyYmVhbi4yMDIyMTIzMV8xNTM2LmdpZg==",
-    "imageSelector": "img#theComicImage",
+    "imageSelector": "#theComicImage",
     "imageIndex": "0",
-    "prevSelector": "a:has(img[alt=previous Comic])",
+    "prevSelector": "a:has([alt=Previous comic])",
     "prevIndex": "0",
-    "nextSelector": "a:has(img[alt=Next comic])",
+    "nextSelector": "a:has([alt=Next comic])",
     "nextIndex": "0",
     "lastSelector": "https://comicskingdom.com/funky-winkerbean",
     "lastIndex": "-1",
-    "nsfw": false
+    "nsfw": false,
+    "unsupported": true
   },
   {
     "url": "https://www.egscomics.com/egsnp",
@@ -7500,7 +7501,8 @@
     "nextSelector": ".fa-caret-right",
     "nextIndex": "0",
     "lastSelector": ".fa-forward",
-    "lastIndex": "0"
+    "lastIndex": "0",
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/realitycheck/2023/10/18",
