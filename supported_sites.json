@@ -8183,5 +8183,23 @@
     "nextIndex": "0",
     "lastSelector": ".fa-forward",
     "lastIndex": "0"
+  },
+  {
+    "url": "http://www.gocomics.com/crabgrass/2019/04/05",
+    "title": "Crab Grass",
+    "imageUrl": "https://assets.amuniversal.com/6316f200f29b0137d278005056a9545d",
+    "imageSelector": ".item-comic-image img",
+    "imageIndex": "0",
+    "firstSelector": ".fa-backward",
+    "firstIndex": "0",
+    "prevSelector": ".js-previous-comic",
+    "prevIndex": "0",
+    "randomSelector": ".gc-calendar-nav__select a",
+    "randomIndex": "0",
+    "nextSelector": ".btn-outline-secondary.fa-caret-right",
+    "nextIndex": "0",
+    "lastSelector": ".fa-forward",
+    "lastIndex": "0",
+    "nsfw": false
   }
 ]
