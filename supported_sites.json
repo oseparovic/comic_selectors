@@ -3615,20 +3615,18 @@
     "donateUrl": "https://www.patreon.com/mishacakes"
   },
   {
-    "url": "http://wapsisquare.com/",
+    "url": "https://wapsisquare.com/comic/09092001/",
     "title": "Wapsi Square",
     "imageUrl": "http://wapsisquare.com/wp-content/uploads/2016/09/2016-09-29-middle-name.jpg",
     "imageSelector": "#comic img",
     "imageIndex": "0",
-    "firstSelector": ".navi-first",
+    "firstSelector": ".navi-first-in",
     "firstIndex": "0",
-    "prevSelector": ".navi-prev",
+    "prevSelector": ".navi-prev-in",
     "prevIndex": "0",
-    "randomSelector": ".navi-random",
-    "randomIndex": "0",
-    "nextSelector": ".navi-next",
+    "nextSelector": ".navi-next-in",
     "nextIndex": "0",
-    "lastSelector": ".navi-last",
+    "lastSelector": ".navi-last-in",
     "lastIndex": "0",
     "donateUrl": "https://www.patreon.com/pablowapsi"
   },
@@ -6594,6 +6592,8 @@
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
+    "lastSelector": "https://www.creators.com/read/the-other-coast",
+    "lastIndex": "-1"
     "nsfw": false
   },
   {
