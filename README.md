@@ -1,3 +1,13 @@
+## ⚠️ Deprecated
+
+This project is no longer actively maintained. Due to continued issues with website overhauls of many comics websites like GoComics, Arcamax, etc we unpublished the app in early 2024
+
+I will still occassionaly fix selectors here when I have time but for all intents and purposes this app is no longer supported
+
+Please keep in mind that we are still getting a number of installs even without a store listing. If you are downloading the app from sources like Softonic, CNet or other these are not versions uploaded by us - use at your own risk.
+
+Feel free to use these HTML selectors in this Github repo for your own projects
+
 # What is this?
 
 This is the backend selector handling for the PageFlip comic reader app on Android: https://play.google.com/store/apps/details?id=com.printandpixel.pageflip2&hl=en_US
