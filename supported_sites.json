@@ -13,21 +13,17 @@
     "lastIndex": "-1"
   },
   {
-    "url": "https://www.gocomics.com/lola/2001/04/08",
+    "url": "https://www.gocomics.com/lola",
     "title": "Lola",
-    "imageUrl": "https://assets.amuniversal.com/c8f803a006e4013bc009005056a9545d",
-    "imageSelector": ".item-comic-image img",
+    "imageUrl": "https://featureassets.gocomics.com/assets/6c483790dcd5013d94a4005056a9545d?optimizer=image&width=2800&quality=85",
+    "imageSelector": "img[data-sentry-component='SiteImage']",
     "imageIndex": "0",
-    "firstSelector": ".fa-backward",
-    "firstIndex": "0",
-    "prevSelector": ".fa-caret-left",
+    "prevSelector": "a:has(> svg.bi-chevron-left)",
     "prevIndex": "0",
-    "randomSelector": "a:contains(random)",
-    "randomIndex": "0",
-    "nextSelector": ".fa-caret-right",
+    "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
-    "lastSelector": ".fa-forward",
-    "lastIndex": "0"
+    "lastSelector": "https://www.gocomics.com/lola",
+    "lastIndex": "-1"
   },
   {
     "url": "https://www.mezzacotta.net/garfield/",
