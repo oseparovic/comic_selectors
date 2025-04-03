@@ -718,18 +718,18 @@
     "lastIndex": -1
   },
   {
-    "url": "https://www.gocomics.com/9chickweedlane/1993/07/13",
+    "url": "https://www.gocomics.com/9-chickweed-lane/1993/07/13",
     "title": "9 Chickweed Lane",
     "imageUrl": "https://assets.amuniversal.com/093ad9d0e45e01351229005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
-    "firstSelector": "https://www.gocomics.com/9chickweedlane/1993/07/13",
+    "firstSelector": "https://www.gocomics.com/9-chickweed-lane/1993/07/13",
     "firstIndex": "-1",
     "prevSelector": "a:has(> svg.bi-chevron-left)",
     "prevIndex": "0",
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
-    "lastSelector": "https://www.gocomics.com/9chickweedlane",
+    "lastSelector": "https://www.gocomics.com/9-chickweed-lane",
     "lastIndex": -1
   },
   {
