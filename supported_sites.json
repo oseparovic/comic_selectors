@@ -16,7 +16,7 @@
     "url": "https://www.gocomics.com/lola",
     "title": "Lola",
     "imageUrl": "https://featureassets.gocomics.com/assets/6c483790dcd5013d94a4005056a9545d?optimizer=image&width=2800&quality=85",
-    "imageSelector": "img[class^='Comic_comic__image']",
+    "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
     "prevSelector": "a:has(> svg.bi-chevron-left)",
     "prevIndex": "0",
