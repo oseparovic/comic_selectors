@@ -16,7 +16,7 @@
     "url": "https://www.gocomics.com/lola/2001/04/08",
     "title": "Lola",
     "imageUrl": "https://assets.amuniversal.com/c8f803a006e4013bc009005056a9545d",
-    "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
+    "imageSelector": "img[class^='Comic_comic__image']",
     "imageIndex": "0",
     "prevSelector": "a:has(> svg.bi-chevron-left)",
     "prevIndex": "0",
