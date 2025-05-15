@@ -6590,7 +6590,7 @@
   },
   {
     "url": "https://www.arcamax.com/thefunnies/1anddone/",
-    "title": "1 and Done",
+    "title": "1 and Done (ArcaMax)",
     "imageUrl": "https://www.arcamax.com/jsnews/images/comics/1anddone.png",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
@@ -7193,7 +7193,7 @@
   },
   {
     "url": "https://www.gocomics.com/1-and-done/2023/10/18",
-    "title": "1 and Done",
+    "title": "1 and Done (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/a38400204f33013c2013005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -7204,7 +7204,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/1-and-done",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/theothercoast/2023/10/18",
