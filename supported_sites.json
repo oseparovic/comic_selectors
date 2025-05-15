@@ -2445,7 +2445,7 @@
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/garfield/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
   },
   {
     "url": "https://www.gocomics.com/calvinandhobbes/1985/11/18",
@@ -5971,7 +5971,7 @@
   },
   {
     "url": "https://www.arcamax.com/thefunnies/culdesac/",
-     "title": "Cul de Sac (ArcaMax)",
+    "title": "Cul de Sac (ArcaMax)",
     "imageUrl": "https://resources.arcamax.com/newspics/338/33896/3389613.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
