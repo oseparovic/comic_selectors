@@ -719,7 +719,7 @@
   },
   {
     "url": "https://www.gocomics.com/9-chickweed-lane/1993/07/13",
-    "title": "9 Chickweed Lane",
+    "title": "9 Chickweed Lane (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/093ad9d0e45e01351229005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -730,11 +730,25 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/9-chickweed-lane",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/ninechickweedlane/",
+    "title": "9 Chickweed Lane (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/338/33895/3389587.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/ninechickweedlane/",
     "lastIndex": -1
   },
   {
     "url": "https://www.gocomics.com/nonsequitur/1992/02/16",
-    "title": "Non Sequitur",
+    "title": "Non Sequitur (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/1a418090038501361dda005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -745,6 +759,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/nonsequitur",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/nonsequitur/",
+    "title": "Non Sequitur (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/338/33895/3389582.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/nonsequitur/",
     "lastIndex": -1
   },
   {
@@ -2104,7 +2132,7 @@
   },
   {
     "url": "https://www.gocomics.com/speedbump/2002/01/01",
-    "title": "Speed Bump",
+    "title": "Speed Bump (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/ce855ec0a1df01340c2e005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -2115,11 +2143,25 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/speedbump",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/speedbump/",
+    "title": "Speed Bump (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/338/33895/3389562.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/speedbump/",
+    "lastIndex": "-1"
   },
   {
     "url": "https://www.gocomics.com/peanuts/1950/10/02",
-    "title": "Peanuts",
+    "title": "Peanuts (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/e33a10c0f87b013014e9001dd8b71c47",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -2130,7 +2172,21 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/peanuts",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/peanuts/",
+    "title": "Peanuts (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/338/33895/3389591.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/peanuts/",
+    "lastIndex": "-1"
   },
   {
     "url": "https://www.gocomics.com/foxtrot/1988/04/11",
@@ -2364,7 +2420,7 @@
   },
   {
     "url": "https://www.gocomics.com/garfield/1978/06/19",
-    "title": "Garfield",
+    "title": "Garfield (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/1a6eb5804e2601394988005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -2375,7 +2431,21 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/garfield",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/garfield/",
+    "title": "Garfield (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/338/33895/3389579.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/garfield/",
+    "lastIndex": "-1",
   },
   {
     "url": "https://www.gocomics.com/calvinandhobbes/1985/11/18",
@@ -4500,7 +4570,7 @@
   },
   {
     "url": "https://www.gocomics.com/agnes/2002/01/01",
-    "title": "Agnes",
+    "title": "Agnes (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/46bcb3645012102dbf94001438c0f03b",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -4511,6 +4581,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/agnes",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/agnes/",
+    "title": "Agnes (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/338/33895/3389560.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/agnes/",
     "lastIndex": -1
   },
   {
@@ -5871,7 +5955,7 @@
   },
   {
     "url": "https://www.gocomics.com/culdesac/2007/09/10",
-    "title": "Cul de Sac",
+    "title": "Cul de Sac (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/16af0140eadc012fefc9001dd8b71c47",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -5882,6 +5966,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/culdesac",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/culdesac/",
+     "title": "Cul de Sac (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/338/33896/3389613.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/culdesac/",
     "lastIndex": -1
   },
   {
