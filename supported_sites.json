@@ -465,7 +465,7 @@
   },
   {
     "url": "https://www.arcamax.com/thefunnies/theargylesweater/",
-    "title": "Shoe (ArcaMax)",
+    "title": "The Argyle Sweater (ArcaMax)",
     "imageUrl": "https://resources.arcamax.com/newspics/339/33904/3390419.gif",
     "imageSelector": "img#comic-zoom",
     "imageIndex": "0",
@@ -2096,7 +2096,7 @@
   },
   {
     "url": "http://www.businesscat.happyjar.com/",
-    "title": "The Adventures of Business Cat",
+    "title": "The Adventures of Business Cat (GoComics)",
     "imageUrl": "https://www.businesscat.happyjar.com/wp-content/uploads/2016/11/2016-11-25-Lost-and-Found.png",
     "imageSelector": "#comic img",
     "imageIndex": "0",
@@ -2109,7 +2109,8 @@
     "nextSelector": ".navi-next-in",
     "nextIndex": "0",
     "lastSelector": "http://www.businesscat.happyjar.com/",
-    "lastIndex": "-1"
+    "lastIndex": "-1",
+    "unsupported": true
   },
   {
     "url": "http://wondermark.com/",
