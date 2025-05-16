@@ -599,7 +599,7 @@
   },
   {
     "url": "https://www.gocomics.com/wizardofid/2002/01/01",
-    "title": "Wizard of Id",
+    "title": "Wizard of Id (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/b8927430f3f101351806005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -610,6 +610,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/wizardofid",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+{
+    "url": "https://www.arcamax.com/thefunnies/wizardofid/",
+    "title": "Wizard of Id (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390318.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/wizardofid/",
     "lastIndex": -1
   },
   {
@@ -657,7 +671,7 @@
   },
   {
     "url": "https://www.gocomics.com/roseisrose/1986/01/01",
-    "title": "Rose is Rose",
+    "title": "Rose is Rose (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/c082f520ffc601351caa005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -668,6 +682,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/roseisrose",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+{
+    "url": "https://www.arcamax.com/thefunnies/roseisrose/",
+    "title": "Rose is Rose (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33904/3390416.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/roseisrose/",
     "lastIndex": -1
   },
   {
@@ -732,7 +760,7 @@
   },
   {
     "url": "https://www.gocomics.com/bc/2002/01/01",
-    "title": "B.C.",
+    "title": "B.C. (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/aa397320efd10135168c005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -743,6 +771,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/bc",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/bc/",
+    "title": "B.C. (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390314.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/bc/",
     "lastIndex": -1
   },
   {
@@ -2146,7 +2188,7 @@
   },
   {
     "url": "https://www.gocomics.com/luann/1985/03/17",
-    "title": "Luann",
+    "title": "Luann (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/e18c8890bf07013435d3005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -2157,6 +2199,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/luann",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/luann/",
+    "title": "Luann (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390337.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/luann/",
     "lastIndex": -1
   },
   {
@@ -2264,7 +2320,7 @@
   },
   {
     "url": "https://www.gocomics.com/getfuzzy/1999/09/06",
-    "title": "Get Fuzzy",
+    "title": "Get Fuzzy (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/ad525190a2ca01340d2f005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -2275,11 +2331,25 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/getfuzzy",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+{
+    "url": "https://www.arcamax.com/thefunnies/getfuzzy/",
+    "title": "Get Fuzzy (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390335.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/getfuzzy/",
     "lastIndex": -1
   },
   {
     "url": "https://www.gocomics.com/pearlsbeforeswine/2002/01/07",
-    "title": "Pearls Before Swine",
+    "title": "Pearls Before Swine (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/9afdd460028b012f2fbf00163e41dd5b",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -2290,6 +2360,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/pearlsbeforeswine",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+{
+    "url": "https://www.arcamax.com/thefunnies/pearlsbeforeswine/",
+    "title": "Pearls Before Swine (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390336.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/pearlsbeforeswine/",
     "lastIndex": -1
   },
   {
@@ -3885,7 +3969,7 @@
   },
   {
     "url": "https://www.gocomics.com/daddyshome/2008/03/23",
-    "title": "Daddy's Home",
+    "title": "Daddy's Home (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/2aa46c805e54012ee3bf00163e41dd5b",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -3896,6 +3980,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/daddyshome",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+{
+    "url": "https://www.arcamax.com/thefunnies/daddyshome/",
+    "title": "Daddy's Home (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390332.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/daddyshome/",
     "lastIndex": -1
   },
   {
@@ -4209,7 +4307,7 @@
   },
   {
     "url": "https://www.gocomics.com/cathy/1976/11/22",
-    "title": "Cathy",
+    "title": "Cathy (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/96c6b9d0878a012d63f500163e41dd5b",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -4220,6 +4318,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/cathy",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/Cathy/",
+    "title": "Cathy (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390324.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/Cathy/",
     "lastIndex": -1
   },
   {
@@ -4239,7 +4351,7 @@
   },
   {
     "url": "https://www.gocomics.com/doonesbury/1970/10/26",
-    "title": "Doonesbury",
+    "title": "Doonesbury (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/805533308e4f012f2fe200163e41dd5b",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -4250,11 +4362,25 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/doonesbury",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+{
+    "url": "https://www.arcamax.com/thefunnies/doonsbury/",
+    "title": "Doonsbury (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390327.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/doonsbury/",
     "lastIndex": -1
   },
   {
     "url": "https://www.gocomics.com/forbetterorforworse/1979/09/10",
-    "title": "For Better or For Worse",
+    "title": "For Better or For Worse (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/a76d096040cd01314f53001dd8b71c47",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -4265,6 +4391,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/forbetterorforworse",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+{
+    "url": "https://www.arcamax.com/thefunnies/forbetterforworse/",
+    "title": "For Better or For Worse (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390365.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/forbetterforworse/",
     "lastIndex": -1
   },
   {
@@ -4748,7 +4888,7 @@
   },
   {
     "url": "https://www.gocomics.com/andycapp/2002/01/01",
-    "title": "Andy Capp",
+    "title": "Andy Capp (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/dce75e605e69012ee3bf00163e41dd5b",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -4759,6 +4899,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/andycapp",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/andycapp/",
+    "title": "Andy Capp (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390322.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/andycapp/",
     "lastIndex": -1
   },
   {
@@ -5004,7 +5158,7 @@
   },
   {
     "url": "https://www.gocomics.com/barneyandclyde/2010/01/01",
-    "title": "Barney & Clyde",
+    "title": "Barney & Clyde (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/199b2c40ef8b012da5c700163e41dd5b",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -5015,6 +5169,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/barneyandclyde",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/barneyandclyde/",
+    "title": "Barney & Clyde (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/cache/lw600/338/33842/3384203.jpg",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/barneyandclyde/",
     "lastIndex": -1
   },
   {
