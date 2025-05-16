@@ -195,7 +195,7 @@
   },
   {
     "url": "https://www.gocomics.com/shoe/2001/04/08",
-    "title": "Shoe",
+    "title": "Shoe (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/55525df015de01362534005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -206,6 +206,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/shoe",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/shoe/",
+    "title": "Shoe (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33902/3390296.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/shoe/",
     "lastIndex": -1
   },
   {
@@ -435,7 +449,7 @@
   },
   {
     "url": "https://www.gocomics.com/random/theargylesweater",
-    "title": "The Argyle Sweater",
+    "title": "The Argyle Sweater (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/d8a8f880087201361fda005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -446,6 +460,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/random",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/theargylesweater/",
+    "title": "Shoe (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/339/33904/3390419.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/theargylesweater/",
     "lastIndex": -1
   },
   {
@@ -2445,7 +2473,7 @@
     "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.arcamax.com/thefunnies/garfield/",
-    "lastIndex": "-1",
+    "lastIndex": "-1"
   },
   {
     "url": "https://www.gocomics.com/calvinandhobbes/1985/11/18",
