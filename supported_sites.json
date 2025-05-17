@@ -4322,7 +4322,7 @@
     "unsupported": true
   },
   {
-    "url": "https://www.arcamax.com/thefunnies/Cathy/",
+    "url": "https://www.arcamax.com/thefunnies/cathy",
     "title": "Cathy (ArcaMax)",
     "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390324.gif",
     "imageSelector": "img#comic-zoom",
@@ -4331,7 +4331,7 @@
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "https://www.arcamax.com/thefunnies/Cathy/",
+    "lastSelector": "https://www.arcamax.com/thefunnies/cathy",
     "lastIndex": -1
   },
   {
@@ -4366,7 +4366,7 @@
     "unsupported": true
   },
 {
-    "url": "https://www.arcamax.com/thefunnies/doonsbury/",
+    "url": "https://www.arcamax.com/thefunnies/doonesbury",
     "title": "Doonsbury (ArcaMax)",
     "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390327.gif",
     "imageSelector": "img#comic-zoom",
@@ -4375,7 +4375,7 @@
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "https://www.arcamax.com/thefunnies/doonsbury/",
+    "lastSelector": "https://www.arcamax.com/thefunnies/doonesbury",
     "lastIndex": -1
   },
   {
@@ -4395,7 +4395,7 @@
     "unsupported": true
   },
 {
-    "url": "https://www.arcamax.com/thefunnies/forbetterforworse/",
+    "url": "https://www.arcamax.com/thefunnies/forbetterorforworse",
     "title": "For Better or For Worse (ArcaMax)",
     "imageUrl": "https://resources.arcamax.com/newspics/339/33903/3390365.gif",
     "imageSelector": "img#comic-zoom",
@@ -4404,7 +4404,7 @@
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "https://www.arcamax.com/thefunnies/forbetterforworse/",
+    "lastSelector": "https://www.arcamax.com/thefunnies/forbetterorforworse",
     "lastIndex": -1
   },
   {
