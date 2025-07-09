@@ -14,7 +14,7 @@
   },
   {
     "url": "https://www.gocomics.com/lola/2001/04/08",
-    "title": "Lola",
+    "title": "Lola (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/c8f803a006e4013bc009005056a9545d",
     "imageSelector": "img[class^='Comic_comic__image']",
     "imageIndex": "0",
@@ -25,7 +25,8 @@
     "lastSelector": "https://www.gocomics.com/lola",
     "lastIndex": -1,
     "firstIndex": "-1",
-    "firstSelector": "hhttps://www.gocomics.com/lola/2001/04/08"
+    "firstSelector": "hhttps://www.gocomics.com/lola/2001/04/08",
+    "unsupported":true
   },
   {
     "url": "https://www.mezzacotta.net/garfield/",
@@ -120,7 +121,7 @@
   },
   {
     "url": "https://www.gocomics.com/fminus/2005/05/10",
-    "title": "F Minus",
+    "title": "F Minus (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/045eae008f5f0136525d005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -131,11 +132,12 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/fminus",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported":true
   },
   {
     "url": "https://www.gocomics.com/rubes/2002/01/01",
-    "title": "Rubes",
+    "title": "Rubes (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/6e2d80a07564013648ac005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -146,11 +148,25 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/rubes",
+    "lastIndex": -1,
+    "unsupported":true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/rubes/",
+    "title": "Rubes (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/345/34587/3458765.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/rubes/",
     "lastIndex": -1
   },
   {
     "url": "https://www.gocomics.com/dicktracy/2001/04/08",
-    "title": "Dick Tracy",
+    "title": "Dick Tracy (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/0817d480636c012ee3c300163e41dd5b",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -161,11 +177,12 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/dicktracy",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/herman/1997/06/02",
-    "title": "Herman",
+    "title": "Herman (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/d62b1c40ff1501351c5d005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -176,11 +193,12 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/herman",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/jumpstart/1996/01/01",
-    "title": "JumpStart",
+    "title": "JumpStart (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/ca68a5f0ff5801351c76005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -191,7 +209,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/jumpstart",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/shoe/2001/04/08",
@@ -224,7 +243,7 @@
   },
   {
     "url": "https://www.gocomics.com/ziggy/1971/06/27",
-    "title": "Ziggy",
+    "title": "Ziggy (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/9c8e5190ffd801351cb9005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -250,11 +269,12 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/thefuscobrothers",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/ben/2009/01/01",
-    "title": "Ben",
+    "title": "Ben (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/d952d6f012c6013623c0005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -265,11 +285,12 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/ben",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/robert-ariail/2011/06/01",
-    "title": "Robert Ariail",
+    "title": "Robert Ariail (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/1d9ada600ea50136222e005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -280,11 +301,12 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/robert-ariail",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/garyvarvel/1993/12/10",
-    "title": "Gary Varvel",
+    "title": "Gary Varvel (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/f0b5449010f90136235d005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -295,11 +317,25 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/garyvarvel",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.creators.com/read/gary-varvel",
+    "title": "Gary Varvel (Creators)",
+    "imageUrl": "https://cdn.creators.com/209/396670/396670_image.jpg",
+    "imageSelector": "a.fancybox img",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.creators.com/read/gary-varvel",
     "lastIndex": -1
   },
   {
     "url": "https://www.gocomics.com/danasummers/2001/04/23",
-    "title": "Dana Summers",
+    "title": "Dana Summers (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/fe19b340108a01362336005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -310,7 +346,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/danasummers",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/mike-lester/2011/09/15",
@@ -2009,7 +2046,7 @@
     "lastIndex": "-1"
   },
   {
-    "url": "http://www.kevinandkell.com/",
+    "url": "https://www.kevinandkell.com/",
     "title": "Kevin & Kell",
     "imageUrl": "http://www.kevinandkell.com/2017/strips/kk20170120.jpg",
     "imageSelector": "#comicstrip img",
@@ -2020,9 +2057,9 @@
     "prevIndex": "0",
     "nextSelector": "#nextstrip a",
     "nextIndex": "0",
-    "lastSelector": "http://www.kevinandkell.com/",
+    "lastSelector": "https://www.kevinandkell.com/",
     "lastIndex": "-1",
-    "donateUrl": "http://www.kevinandkell.com/support/dailysponsor.php"
+    "donateUrl": "https://www.kevinandkell.com/support/dailysponsor.php"
   },
   {
     "url": "http://www.egscomics.com/",
