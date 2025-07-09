@@ -2529,7 +2529,7 @@
     "title": "PVP Online",
     "imageUrl": "https://www.toonhoundstudios.com/wp-content/themes/toonhound/dist/img/original-pvp.jpg",
     "imageSelector": "#spliced-comic img",
-    "imageIndex": "0",
+    "imageIndex": "1",
     "firstSelector": "https://www.toonhoundstudios.com/comic/20210104/?sid=372",
     "firstIndex": "-1",
     "prevSelector": "a.prev",
