@@ -1296,7 +1296,8 @@
     "nextSelector": ".comic-nav-next",
     "nextIndex": "0",
     "lastSelector": "http://thenoobcomic.com/",
-    "lastIndex": "-1"
+    "lastIndex": "-1",
+    "unsupported": true
   },
   {
     "url": "http://www.htzcomic.com/",
@@ -2059,7 +2060,8 @@
     "nextIndex": "0",
     "lastSelector": "https://www.kevinandkell.com/",
     "lastIndex": "-1",
-    "donateUrl": "https://www.kevinandkell.com/support/dailysponsor.php"
+    "donateUrl": "https://www.kevinandkell.com/support/dailysponsor.php",
+    "unsupported": true
   },
   {
     "url": "http://www.egscomics.com/",
@@ -2526,13 +2528,13 @@
     "url": "https://www.toonhoundstudios.com/pvp/",
     "title": "PVP Online",
     "imageUrl": "https://www.toonhoundstudios.com/wp-content/themes/toonhound/dist/img/original-pvp.jpg",
-    "imageSelector": "img.size-full:not(.ewww_webp)",
+    "imageSelector": "#spliced-comic img",
     "imageIndex": "0",
     "firstSelector": "https://www.toonhoundstudios.com/comic/20210104/?sid=372",
     "firstIndex": "-1",
-    "prevSelector": "a.left",
+    "prevSelector": "a.prev",
     "prevIndex": "0",
-    "nextSelector": "a.right",
+    "nextSelector": "a.next",
     "nextIndex": "0",
     "lastSelector": "https://www.toonhoundstudios.com/pvp/",
     "lastIndex": "-1"
@@ -3876,7 +3878,8 @@
     "nextIndex": "0",
     "lastSelector": ".navi-last",
     "lastIndex": "0",
-    "nsfw": false
+    "nsfw": false,
+    "unsupported": true
   },
   {
     "url": "http://willsaveworldforgold.com/",
@@ -4272,7 +4275,7 @@
   },
   {
     "url": "http://www.creators.com/read/one-big-happy",
-    "title": "One Big Happy",
+    "title": "One Big Happy (Creators)",
     "imageUrl": "https://www.creators.com/api/images/resize/300/300/aHR0cHM6Ly9jZG4uY3JlYXRvcnMuY29tL2ZlYXR1cmVzL29uZS1iaWctaGFwcHkuanBn",
     "imageSelector": ".fancybox img",
     "imageIndex": "0",
@@ -5060,7 +5063,7 @@
   },
   {
     "url": "https://www.gocomics.com/the-awkward-yeti/2014/09/08",
-    "title": "The Awkward Yeti",
+    "title": "The Awkward Yeti (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/98d65db0083d013293fc005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -5071,7 +5074,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/the-awkward-yeti",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/back-to-bc/2015/08/31",
@@ -6543,9 +6547,9 @@
   },
   {
     "url": "https://www.creators.com/read/the-other-coast/05/20/277139",
-    "title": "The Other Coast",
+    "title": "The Other Coast (Creators)",
     "imageUrl": "https://cdn.creators.com/features/the-other-coast-thumb.jpg",
-    "imageSelector": "div.row> img",
+    "imageSelector": "a.fancybox img",
     "imageIndex": "0",
     "prevSelector": "a.prev",
     "prevIndex": "0",
@@ -7442,7 +7446,7 @@
   },
   {
     "url": "https://www.gocomics.com/theothercoast/2023/10/18",
-    "title": "The Other Coast",
+    "title": "The Other Coast (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/9248eba04060013c1b90005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -7453,7 +7457,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/theothercoast",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/pricklycity/2023/10/18",
