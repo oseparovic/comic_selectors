@@ -2528,7 +2528,7 @@
     "url": "https://www.toonhoundstudios.com/comic/19980504/?sid=372",
     "title": "PVP Online",
     "imageUrl": "https://www.toonhoundstudios.com/wp-content/themes/toonhound/dist/img/original-pvp.jpg",
-    "imageSelector": "#spliced-comic img",
+    "imageSelector": "#spliced-comic img:not(.ewww_webp)",
     "imageIndex": "1",
     "firstSelector": "https://www.toonhoundstudios.com/comic/19980504/?sid=372",
     "firstIndex": "-1",
