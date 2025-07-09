@@ -2525,18 +2525,18 @@
     "lastIndex": "-1"
   },
   {
-    "url": "https://www.toonhoundstudios.com/pvp/",
+    "url": "https://www.toonhoundstudios.com/comic/19980504/?sid=372",
     "title": "PVP Online",
     "imageUrl": "https://www.toonhoundstudios.com/wp-content/themes/toonhound/dist/img/original-pvp.jpg",
     "imageSelector": "#spliced-comic img",
     "imageIndex": "1",
-    "firstSelector": "https://www.toonhoundstudios.com/comic/20210104/?sid=372",
+    "firstSelector": "https://www.toonhoundstudios.com/comic/19980504/?sid=372",
     "firstIndex": "-1",
     "prevSelector": "a.prev",
     "prevIndex": "0",
     "nextSelector": "a.next",
     "nextIndex": "0",
-    "lastSelector": "https://www.toonhoundstudios.com/pvp/",
+    "lastSelector": "https://www.toonhoundstudios.com/comic/pvp-2022-09-16/?sid=372",
     "lastIndex": "-1"
   },
   {
