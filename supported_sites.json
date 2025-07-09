@@ -5872,23 +5872,21 @@
     "lastIndex": -1
   },
   {
-    "url": "https://candorville.com/",
+    "url": "https://www.candorville.com/candorville/",
     "title": "Candorville",
-    "imageUrl": "https://candorville.com/comics/2022-12-10-just-one-question.jpg",
+    "imageUrl": "https://www.candorville.com/wp-content/uploads/2025/01/2025-01-14-precautions.jpg",
     "imageSelector": "#comic img",
     "imageIndex": 0,
-    "firstSelector": "https://candorville.com/2004/02/29/welfare-queens/",
-    "firstIndex": -1,
-    "prevSelector": ".nav-previous a",
+    "prevSelector": "a.prev",
     "prevIndex": 0,
-    "nextSelector": ".nav-next a",
+    "nextSelector": "a.next",
     "nextIndex": 0,
-    "lastSelector": "https://candorville.com/",
+    "lastSelector": "https://www.candorville.com/candorville/",
     "lastIndex": -1
   },
   {
     "url": "https://www.gocomics.com/stuartcarlson/1996/04/10",
-    "title": "Stuart Carlson",
+    "title": "Stuart Carlson (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/1c3312405cf3012ee3bd00163e41dd5b",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -5899,7 +5897,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/stuartcarlson",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/cattitude-doggonit/2016/05/16",
