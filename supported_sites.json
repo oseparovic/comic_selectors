@@ -1958,7 +1958,7 @@
   },
   {
     "url": "https://www.gocomics.com/pickles/2003/01/01",
-    "title": "Pickles",
+    "title": "Pickles (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/e6a9ba50bc25013432dd005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -1969,6 +1969,20 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/pickles",
+    "lastIndex": -1,
+    "unsupported": true
+  },
+  {
+    "url": "https://www.arcamax.com/thefunnies/pickles/",
+    "title": "Pickles (ArcaMax)",
+    "imageUrl": "https://resources.arcamax.com/newspics/349/34903/3490306.gif",
+    "imageSelector": "img#comic-zoom",
+    "imageIndex": "0",
+    "prevSelector": "a.prev",
+    "prevIndex": "0",
+    "nextSelector": "a.next",
+    "nextIndex": "0",
+    "lastSelector": "https://www.arcamax.com/thefunnies/pickles/",
     "lastIndex": -1
   },
   {
@@ -2601,7 +2615,7 @@
   },
   {
     "url": "https://www.gocomics.com/calvinandhobbes/1985/11/18",
-    "title": "Calvin and Hobbes",
+    "title": "Calvin and Hobbes (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/b373c0b077f30134dd61005056a9545d",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
@@ -2612,7 +2626,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/calvinandhobbes",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "http://phdcomics.com/",
@@ -4625,21 +4640,6 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/doonesbury",
-    "lastIndex": -1
-  },
-  {
-    "url": "https://www.gocomics.com/forbetterorforworse/1979/09/10",
-    "title": "For Better or For Worse",
-    "imageUrl": "https://assets.amuniversal.com/a76d096040cd01314f53001dd8b71c47",
-    "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
-    "imageIndex": "0",
-    "firstSelector": "https://www.gocomics.com/forbetterorforworse/1979/09/10",
-    "firstIndex": "-1",
-    "prevSelector": "a:has(> svg.bi-chevron-left)",
-    "prevIndex": "0",
-    "nextSelector": "a:has(> svg.bi-chevron-right)",
-    "nextIndex": "0",
-    "lastSelector": "https://www.gocomics.com/forbetterorforworse",
     "lastIndex": -1
   },
   {
