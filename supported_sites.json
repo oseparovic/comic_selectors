@@ -87,22 +87,20 @@
     "unsupported": true
   },
   {
-    "url": "https://warandpeas.com/",
+    "url": "https://warandpeas.com/2011/11/07/565/",
     "title": "War and Peas",
-    "imageUrl": "https://linsedition.files.wordpress.com/2018/10/war-and-peas-gotta-get-outta-here.jpg?w=580&h=655",
-    "imageSelector": ".size-full",
+    "imageUrl": "https://i0.wp.com/warandpeas.com/wp-content/uploads/2025/07/war-and-peas-fad-diets.jpg?resize=768%2C891&ssl=1",
+    "imageSelector": ".entry-content img",
     "imageIndex": 0,
-    "firstSelector": ".noticon-top",
-    "firstIndex": 0,
-    "prevSelector": ".fa-caret-left",
+    "firstSelector": "https://warandpeas.com/2011/11/07/565/",
+    "firstIndex": -1,
+    "prevSelector": "a[rel=prev]",
     "prevIndex": 0,
-    "randomSelector": "a:contains(random)",
-    "randomIndex": "0",
-    "nextSelector": ".fa-caret-right",
+    "nextSelector": "a[rel=next]",
     "nextIndex": 0,
-    "lastSelector": ".fa-forward",
-    "lastIndex": 0,
-    "donateUrl": "https://ko-fi.com/X8X3C2S7"
+    "lastSelector": "https://warandpeas.com/2025/08/17/fck-school/",
+    "lastIndex": -1,
+    "donateUrl": "https://www.patreon.com/warandpeas"
   },
   {
     "url": "http://www.samandfuzzy.com/",
