@@ -1601,7 +1601,7 @@
     "lastIndex": "0",
     "randomSelector": "http://pbfcomics.com/random",
     "randomIndex": "-1",
-    "unsupported": false
+    "unsupported": true
   },
   {
     "url": "http://www.geeksngoblins.com/",
