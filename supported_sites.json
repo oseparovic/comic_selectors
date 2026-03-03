@@ -7868,8 +7868,7 @@
   },
   {
     "url": "https://www.gocomics.com/shirley-and-son-classics/2023/11/16",
-    "title": "Shirley and Son Classics",
-    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/sy/large_rec-201701251556.jpg",
+    "title": "Shirley and Son Classics",    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/sy/large_rec-201701251556.jpg",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
     "firstSelector": "https://www.gocomics.com/shirley-and-son-classics/2023/11/16",
@@ -8031,5 +8030,21 @@
     "lastSelector": "https://www.gocomics.com/crabgrass",
     "lastIndex": -1,
     "nsfw": false
-  }
+  },
+  {
+    "url": "http://www.snafu-comics.com/powerpuffgirls/ppg-chapter-1",
+    "title": "Powerpuff Girls D",
+    "imageUrl": "https://www.snafu-comics.com/comics/powerpuffgirls_00001_46773736127d2d2c1ce013de9f4583b28e0804d35943acf98354cfc95682b4f12a138334.jpg",
+    "imageSelector": "div#cc-comicbody > img",
+    "imageIndex": "0",
+    "firstSelector": "*.cc-first",
+    "firstIndex": "0",
+    "prevSelector": "*.cc-prev",
+    "prevIndex": "0",
+    "nextSelector": "*.cc-next",
+    "nextIndex": "0"
+    "lastSelector": "*.cc-last",
+    "lastIndex": "0",
+    "nsfw": false
+  },
 ]
