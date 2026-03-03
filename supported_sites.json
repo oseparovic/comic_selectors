@@ -8042,7 +8042,7 @@
     "prevSelector": "*.cc-prev",
     "prevIndex": "0",
     "nextSelector": "*.cc-next",
-    "nextIndex": "0"
+    "nextIndex": "0",
     "lastSelector": "*.cc-last",
     "lastIndex": "0",
     "nsfw": false
