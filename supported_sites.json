@@ -8036,7 +8036,7 @@
     "url": "http://www.snafu-comics.com/powerpuffgirls/ppg-chapter-1",
     "title": "Powerpuff Girls D",
     "imageUrl": "https://www.snafu-comics.com/comics/powerpuffgirls_00001_46773736127d2d2c1ce013de9f4583b28e0804d35943acf98354cfc95682b4f12a138334.jpg",
-    "imageSelector": "div#cc-comicbody > img",
+    "imageSelector": "div#cc-comicbody img",
     "imageIndex": "0",
     "firstSelector": "*.cc-first",
     "firstIndex": "0",
