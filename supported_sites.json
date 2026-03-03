@@ -7868,7 +7868,8 @@
   },
   {
     "url": "https://www.gocomics.com/shirley-and-son-classics/2023/11/16",
-    "title": "Shirley and Son Classics",    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/sy/large_rec-201701251556.jpg",
+    "title": "Shirley and Son Classics",
+    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/sy/large_rec-201701251556.jpg",
     "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
     "imageIndex": "0",
     "firstSelector": "https://www.gocomics.com/shirley-and-son-classics/2023/11/16",
