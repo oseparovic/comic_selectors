@@ -4938,7 +4938,8 @@
     "nextSelector": "a[class*='controls__button_next']:not([aria-disabled='true'])",
     "nextIndex": 0,
     "lastSelector": "https://www.gocomics.com/andycapp",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.arcamax.com/thefunnies/andycapp/",
