@@ -4929,17 +4929,16 @@
     "url": "https://www.gocomics.com/andycapp/2002/01/01",
     "title": "Andy Capp (GoComics)",
     "imageUrl": "https://assets.amuniversal.com/dce75e605e69012ee3bf00163e41dd5b",
-    "imageSelector": "div[class^='ComicViewer_comicViewer'] img:first-of-type",
+    "imageSelector": "[aria-label='Expand comic'] > img",
     "imageIndex": "0",
     "firstSelector": "https://www.gocomics.com/andycapp/2002/01/01",
     "firstIndex": "-1",
-    "prevSelector": "a:has(> svg.bi-chevron-left)",
-    "prevIndex": "0",
-    "nextSelector": "a:has(> svg.bi-chevron-right)",
-    "nextIndex": "0",
+    "prevSelector": "a[class*='controls__button_previous']:not([aria-disabled='true'])",
+    "prevIndex": 0,
+    "nextSelector": "a[class*='controls__button_next']:not([aria-disabled='true'])",
+    "nextIndex": 0,
     "lastSelector": "https://www.gocomics.com/andycapp",
-    "lastIndex": -1,
-    "unsupported": true
+    "lastIndex": -1
   },
   {
     "url": "https://www.arcamax.com/thefunnies/andycapp/",
