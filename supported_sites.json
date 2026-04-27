@@ -632,7 +632,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/arloandjanis",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/wizardofid/2002/01/01",
@@ -689,7 +690,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/frazz",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/offthemark/2002/09/02",
@@ -748,7 +750,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/adamathome",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/phoebe-and-her-unicorn/2012/01/15",
@@ -2354,7 +2357,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/bignate",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/baldo/2000/01/01",
@@ -4562,7 +4566,8 @@
     "nextSelector": "a:has(> svg.bi-chevron-right)",
     "nextIndex": "0",
     "lastSelector": "https://www.gocomics.com/stonesoup",
-    "lastIndex": -1
+    "lastIndex": -1,
+    "unsupported": true
   },
   {
     "url": "https://www.gocomics.com/thebuckets/1996/02/19",
