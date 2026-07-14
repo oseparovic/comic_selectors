@@ -3255,7 +3255,7 @@
     "title": "Questionable Content",
     "imageUrl": "https://www.questionablecontent.net/comics/3252.png",
     "imageSelector": ".column>.row img",
-    "imageIndex": "0",
+    "imageIndex": "1",
     "firstSelector": "#comicnav a",
     "firstIndex": "0",
     "prevSelector": "#comicnav a",
